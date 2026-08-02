@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1950787424180990312",
+    "created_at": "2025-07-31T05:15:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T06:15:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950787424180990312"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1950787424180990312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好絕望，小丑竟是我自己，唉好內啥。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1950787424180990312",
+        "created_at": "2025-07-31T05:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T06:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950787424180990312"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950787424180990312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好絕望，小丑竟是我自己，唉好內啥。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 50,
+          "like_count": 3080,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 618
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

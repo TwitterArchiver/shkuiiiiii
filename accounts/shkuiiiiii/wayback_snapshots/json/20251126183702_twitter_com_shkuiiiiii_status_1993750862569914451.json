@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1993749922919915772",
+    "created_at": "2025-11-26T18:37:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T19:37:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993750862569914451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1811764478104731650",
+          "start": 0,
+          "username": "mulinsen0101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993750862569914451",
+    "in_reply_to_user_id": "1811764478104731650",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993750483991974334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mulinsen0101 好耶！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1993749922919915772",
+        "created_at": "2025-11-26T18:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T19:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993750862569914451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811764478104731650",
+              "start": 0,
+              "username": "mulinsen0101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993750862569914451",
+        "in_reply_to_user_id": "1811764478104731650",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993750483991974334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mulinsen0101 好耶！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811764478104731650",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1993749922919915772",
+        "created_at": "2025-11-26T18:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T19:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993750483991974334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993750483991974334",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993749922919915772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 生日快乐，万事如意，身体健康，万事如意心想事成，万事如意，总之万事如意，生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 60,
+          "like_count": 4309,
+          "listed_count": 2,
+          "media_count": 190,
+          "tweet_count": 860
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T14:08:18.000Z",
+        "description": "交个朋友嘛\n喜欢碎碎念",
+        "id": "1811764478104731650",
+        "name": "mulinsen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992634197396365312/anBhNMLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 7,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 127
+        },
+        "username": "mulinsen0101",
+        "verified": false
+      }
+    ]
+  }
+}

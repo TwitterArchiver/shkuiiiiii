@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1924002104106156432",
+    "created_at": "2025-05-18T07:20:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T08:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1924002104106156432"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1924002104106156432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉我吃晚安吃結巴了，我説這幾天我怎麼說話這麼吃力這麼難聽我突然明白了一切……我媽發現了以後我今天已經在外面檢查抽血做心電圖了，唉！！！好累好想躺下去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1924002104106156432",
+        "created_at": "2025-05-18T07:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T08:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924002104106156432"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924002104106156432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉我吃晚安吃結巴了，我説這幾天我怎麼說話這麼吃力這麼難聽我突然明白了一切……我媽發現了以後我今天已經在外面檢查抽血做心電圖了，唉！！！好累好想躺下去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920921110893522947/Nv5kwqEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 33,
+          "like_count": 2438,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 451
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

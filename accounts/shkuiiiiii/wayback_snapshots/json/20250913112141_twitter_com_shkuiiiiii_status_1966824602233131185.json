@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1966809753452998966",
+    "created_at": "2025-09-13T11:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T12:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966824602233131185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1620518530171936770",
+          "start": 0,
+          "username": "cuteorange0827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966824602233131185",
+    "in_reply_to_user_id": "1620518530171936770",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966813731330916571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuteorange0827 嘻嘻！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1966809753452998966",
+        "created_at": "2025-09-13T11:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T12:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966824602233131185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1620518530171936770",
+              "start": 0,
+              "username": "cuteorange0827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966824602233131185",
+        "in_reply_to_user_id": "1620518530171936770",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966813731330916571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuteorange0827 嘻嘻！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620518530171936770",
+        "conversation_id": "1966809753452998966",
+        "created_at": "2025-09-13T10:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T11:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966813731330916571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966813731330916571",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966809753452998966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 好看！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 50,
+          "like_count": 3283,
+          "listed_count": 2,
+          "media_count": 184,
+          "tweet_count": 678
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T20:25:09.000Z",
+        "description": "INTJ/♍️/BTC信徒/Web3韭菜/这里当树洞碎碎念/祝所有人天天开心(♡˙︶˙♡)\n\n主页链接是匿名📪\n\n是直男/男同勿扰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cuteorange0827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cuteorange0827",
+                "start": 0,
+                "url": "https://t.co/qE8q6lDcJ8"
+              }
+            ]
+          }
+        },
+        "id": "1620518530171936770",
+        "location": "温柔贩卖机",
+        "name": "coco（950）",
+        "pinned_tweet_id": "1940717356634067023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963245821249667073/RURAm2fo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 784,
+          "like_count": 21053,
+          "listed_count": 1,
+          "media_count": 402,
+          "tweet_count": 6958
+        },
+        "url": "https://t.co/qE8q6lDcJ8",
+        "username": "cuteorange0827",
+        "verified": false
+      }
+    ]
+  }
+}

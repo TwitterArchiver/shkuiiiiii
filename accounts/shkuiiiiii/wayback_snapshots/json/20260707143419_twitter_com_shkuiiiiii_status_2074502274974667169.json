@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2074453150552203768",
+    "created_at": "2026-07-07T14:34:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T15:34:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074502274974667169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1970504759762419712",
+          "start": 0,
+          "username": "DkyOnlyforu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074502274974667169",
+    "in_reply_to_user_id": "1970504759762419712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074453150552203768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DkyOnlyforu 可爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3968,
+        "height": 1280,
+        "media_key": "13_2074453132453859328",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074453132453859328/img/C9tl0YdlqZywpvwR.jpg",
+        "public_metrics": {
+          "view_count": 175
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074453132453859328/vid/avc1/320x568/C4djzLgLJG-9AbFB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074453132453859328/vid/avc1/480x852/tJ1RYKl4vFUDAXR3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074453132453859328/vid/avc1/720x1280/v8AAH6ccS3q6tAEc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074453132453859328/pl/MwmE1shl8tt4YPdn.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2074453150552203768",
+        "created_at": "2026-07-07T14:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074502274974667169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074502274974667169",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074453150552203768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074453132453859328"
+          ]
+        },
+        "author_id": "1970504759762419712",
+        "conversation_id": "2074453150552203768",
+        "created_at": "2026-07-07T11:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T12:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074453150552203768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EiqMYuy1Mt",
+              "end": 31,
+              "expanded_url": "https://x.com/DkyOnlyforu/status/2074453150552203768/video/1",
+              "media_key": "13_2074453132453859328",
+              "start": 8,
+              "url": "https://t.co/EiqMYuy1Mt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074453150552203768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 566,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "找到人挂壁了😋 https://t.co/EiqMYuy1Mt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 然后贱人死开 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuureikoinu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuureikoinu",
+                "start": 0,
+                "url": "https://t.co/x3tImtkrnU"
+              }
+            ]
+          }
+        },
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "2066441052245176824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063646077333757952/dJ2jH7Df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 92,
+          "like_count": 13289,
+          "listed_count": 3,
+          "media_count": 307,
+          "tweet_count": 2386
+        },
+        "url": "https://t.co/x3tImtkrnU",
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜然后呢你们都不能骂月月 月月是玻璃心呀",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050174076862537728/_Rf76ZRu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1949,
+          "following_count": 471,
+          "like_count": 5384,
+          "listed_count": 1,
+          "media_count": 358,
+          "tweet_count": 2639
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false
+      }
+    ]
+  }
+}

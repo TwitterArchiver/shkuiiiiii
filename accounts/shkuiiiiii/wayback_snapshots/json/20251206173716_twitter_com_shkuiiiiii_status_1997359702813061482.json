@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1997359702813061482",
+    "created_at": "2025-12-06T17:37:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T18:37:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997359702813061482"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1997359702813061482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你今天一天都沒跟我說想我了是不是真的不愛我了？怎麼辦好難過我搜聊天記錄上次説想我還是在週四，我咋做才能讓你愛我想我，一直愛一直想？我說不出衹要我喜歡你就好了你隨便喜不喜歡我這句話我以前説過臥槽聽著好慘，但是現在我一定要我對象喜歡我呵呵呵拒絕也沒有用哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1997359702813061482",
+        "created_at": "2025-12-06T17:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T18:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997359702813061482"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997359702813061482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你今天一天都沒跟我說想我了是不是真的不愛我了？怎麼辦好難過我搜聊天記錄上次説想我還是在週四，我咋做才能讓你愛我想我，一直愛一直想？我說不出衹要我喜歡你就好了你隨便喜不喜歡我這句話我以前説過臥槽聽著好慘，但是現在我一定要我對象喜歡我呵呵呵拒絕也沒有用哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1995528421066375297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995433565438504961/bd-6nfSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 65,
+          "like_count": 6531,
+          "listed_count": 4,
+          "media_count": 215,
+          "tweet_count": 1262
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

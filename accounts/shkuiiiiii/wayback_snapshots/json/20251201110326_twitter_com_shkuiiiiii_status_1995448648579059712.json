@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1995165097443131850",
+    "created_at": "2025-12-01T11:03:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T12:03:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995448648579059712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1984453639096995840",
+          "start": 0,
+          "username": "3226828466A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995448648579059712",
+    "in_reply_to_user_id": "1984453639096995840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995448204590997869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3226828466A 老師好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1995165097443131850",
+        "created_at": "2025-12-01T11:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T12:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995448648579059712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1984453639096995840",
+              "start": 0,
+              "username": "3226828466A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995448648579059712",
+        "in_reply_to_user_id": "1984453639096995840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995448204590997869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3226828466A 老師好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984453639096995840",
+        "conversation_id": "1995165097443131850",
+        "created_at": "2025-12-01T11:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T12:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995448204590997869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995448204590997869",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995165097443131850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 没关系宝宝，我陪着你呢，我们一起加油呀！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1995351151437656263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995433565438504961/bd-6nfSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 58,
+          "like_count": 5907,
+          "listed_count": 4,
+          "media_count": 211,
+          "tweet_count": 1171
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-01T02:53:23.000Z",
+        "description": "",
+        "id": "1984453639096995840",
+        "name": "Aissen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992629018571800577/tvBKKcJB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 4,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "3226828466A",
+        "verified": false
+      }
+    ]
+  }
+}

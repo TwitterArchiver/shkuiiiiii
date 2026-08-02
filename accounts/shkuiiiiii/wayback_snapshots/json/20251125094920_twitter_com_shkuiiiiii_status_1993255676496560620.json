@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1993246383466565666",
+    "created_at": "2025-11-25T09:49:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T10:49:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993255676496560620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1948395176831131648",
+          "start": 0,
+          "username": "zy89644"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993255676496560620",
+    "in_reply_to_user_id": "1948395176831131648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993246383466565666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zy89644 没有 但是给你笑一个 哈哈哈哈哈哈哈（微笑）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_1993246381549760512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6lvBfobMAARnZB.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1993246383466565666",
+        "created_at": "2025-11-25T09:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T10:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993255676496560620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1948395176831131648",
+              "start": 0,
+              "username": "zy89644"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993255676496560620",
+        "in_reply_to_user_id": "1948395176831131648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993246383466565666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zy89644 没有 但是给你笑一个 哈哈哈哈哈哈哈（微笑）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993246381549760512"
+          ]
+        },
+        "author_id": "1948395176831131648",
+        "conversation_id": "1993246383466565666",
+        "created_at": "2025-11-25T09:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T10:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993246383466565666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IpiaHpA8V4",
+              "end": 51,
+              "expanded_url": "https://x.com/zy89644/status/1993246383466565666/photo/1",
+              "media_key": "3_1993246381549760512",
+              "start": 28,
+              "url": "https://t.co/IpiaHpA8V4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993246383466565666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点无聊\n可以来点好笑的东西吗\n图片或者文字都可以的说 https://t.co/IpiaHpA8V4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 我喜歡看碎碎念，我們來互fo吧…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 70,
+          "like_count": 3837,
+          "listed_count": 2,
+          "media_count": 185,
+          "tweet_count": 765
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T14:50:02.000Z",
+        "description": "我要吃抹茶冰淇淋 抹茶蛋糕 抹茶奶茶 总之要来点抹茶吗\n\n视奸我就关注你 天天偷看你\n\nfofo我吧(⁠✷⁠‿⁠✷⁠)\n\n1764817612（神秘号码",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zy89644",
+                "end": 23,
+                "expanded_url": "http://ngl.link/zy89644",
+                "start": 0,
+                "url": "https://t.co/tLgc8L3Uoh"
+              }
+            ]
+          }
+        },
+        "id": "1948395176831131648",
+        "location": "亚洲的某处深山老林中",
+        "name": "偷吃冰淇淋的이이이本人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990144439772397568/yX_ehCCK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 128,
+          "like_count": 7437,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 2173
+        },
+        "url": "https://t.co/tLgc8L3Uoh",
+        "username": "zy89644",
+        "verified": true
+      }
+    ]
+  }
+}

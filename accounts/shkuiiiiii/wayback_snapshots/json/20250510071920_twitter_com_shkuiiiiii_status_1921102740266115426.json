@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1921102740266115426",
+    "created_at": "2025-05-10T07:19:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T08:19:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1921102740266115426"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1921102740266115426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你們不要再靠近我了……我好難受我沒有力氣我呼吸不了我懶得呼吸我覺得我這輩子就這樣了吧。。。好累好暈不要靠近我不要愛我不要讓我為難不要傷心不要和我說話我只想一個人我就永遠一個人吧…我沒有別的想説的了我社交好累好累好累。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1921102740266115426",
+        "created_at": "2025-05-10T07:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T08:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921102740266115426"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1921102740266115426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你們不要再靠近我了……我好難受我沒有力氣我呼吸不了我懶得呼吸我覺得我這輩子就這樣了吧。。。好累好暈不要靠近我不要愛我不要讓我為難不要傷心不要和我說話我只想一個人我就永遠一個人吧…我沒有別的想説的了我社交好累好累好累。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "我是小苟 一只晴天娃娃 粉紅滾",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920921110893522947/Nv5kwqEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 33,
+          "like_count": 2414,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 430
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

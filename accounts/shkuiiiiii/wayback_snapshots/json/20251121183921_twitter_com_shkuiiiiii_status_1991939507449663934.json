@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1991939507449663934",
+    "created_at": "2025-11-21T18:39:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T19:39:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991939507449663934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1697158457450012672",
+          "start": 3,
+          "username": "ayawo11_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991939507449663934",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991873470804951186",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ayawo11_: 你喜欢我一辈子吧！抱抱我喜欢我亲亲我！你就要喜欢我一辈子 喜欢我一辈 喜欢我一辈子可以吗可以吗可以吗可以吗可以吗就算我做错了我闯祸了你也要喜欢我一辈子？喜欢我一辈子好不好！哼喜欢我一辈子 会永远永远喜欢着我的永远哦约定好了吧好了吧好了吧！答应我？答应…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1991939507449663934",
+        "created_at": "2025-11-21T18:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T19:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991939507449663934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1697158457450012672",
+              "start": 3,
+              "username": "ayawo11_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991939507449663934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991873470804951186",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ayawo11_: 你喜欢我一辈子吧！抱抱我喜欢我亲亲我！你就要喜欢我一辈子 喜欢我一辈 喜欢我一辈子可以吗可以吗可以吗可以吗可以吗就算我做错了我闯祸了你也要喜欢我一辈子？喜欢我一辈子好不好！哼喜欢我一辈子 会永远永远喜欢着我的永远哦约定好了吧好了吧好了吧！答应我？答应…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697158457450012672",
+        "conversation_id": "1991873470804951186",
+        "created_at": "2025-11-21T14:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T15:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991873470804951186"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991873470804951186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1448,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "你喜欢我一辈子吧！抱抱我喜欢我亲亲我！你就要喜欢我一辈子 喜欢我一辈 喜欢我一辈子可以吗可以吗可以吗可以吗可以吗就算我做错了我闯祸了你也要喜欢我一辈子？喜欢我一辈子好不好！哼喜欢我一辈子 会永远永远喜欢着我的永远哦约定好了吧好了吧好了吧！答应我？答应我吧！不许无视我喜欢我一辈子(&gt;U&lt;)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 我喜歡看碎碎念，我們來互fo吧…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 52,
+          "like_count": 3587,
+          "listed_count": 2,
+          "media_count": 178,
+          "tweet_count": 701
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-31T08:04:48.000Z",
+        "description": "当朋友圈玩 看到有趣的碎碎念都会关注喵不聊骚不约｜本人素质低下^ ^｜有喜欢的小男生了所以不看私信咪｜置顶推广转发推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aya1136304",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aya1136304",
+                "start": 0,
+                "url": "https://t.co/l517hVsKSx"
+              }
+            ]
+          }
+        },
+        "id": "1697158457450012672",
+        "name": "小夜",
+        "pinned_tweet_id": "1983883542334730360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976204301942083584/u2mumVAj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2231,
+          "following_count": 147,
+          "like_count": 3611,
+          "listed_count": 4,
+          "media_count": 187,
+          "tweet_count": 2390
+        },
+        "url": "https://t.co/l517hVsKSx",
+        "username": "ayawo11_",
+        "verified": false
+      }
+    ]
+  }
+}

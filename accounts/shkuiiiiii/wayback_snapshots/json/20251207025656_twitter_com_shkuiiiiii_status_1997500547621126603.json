@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1997361033770598547",
+    "created_at": "2025-12-07T02:56:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T03:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997500547621126603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1679982917806882816",
+          "start": 0,
+          "username": "limao382525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997500547621126603",
+    "in_reply_to_user_id": "1679982917806882816",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997499649213534366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@limao382525 *´∀`)´∀`)*´∀`)*´∀`)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1997361033770598547",
+        "created_at": "2025-12-07T02:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T03:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997500547621126603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1679982917806882816",
+              "start": 0,
+              "username": "limao382525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997500547621126603",
+        "in_reply_to_user_id": "1679982917806882816",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997499649213534366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@limao382525 *´∀`)´∀`)*´∀`)*´∀`)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679982917806882816",
+        "conversation_id": "1997361033770598547",
+        "created_at": "2025-12-07T02:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T03:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997499649213534366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997499649213534366",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997361033770598547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 休息安全哇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1995528421066375297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995433565438504961/bd-6nfSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 65,
+          "like_count": 6611,
+          "listed_count": 4,
+          "media_count": 215,
+          "tweet_count": 1274
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T22:35:55.000Z",
+        "description": "这里是曼波喵~想叫什么都可以啦~ ٩(´Д` ;)۶:.* 嘴巴笨笨的…如果说了什么话让大家不舒服请一定要说哦！！！(不要讨厌我˃̣̣̥᷄⌓˂̣̣̥᷅ )曼波会努力让大家喜欢上我的！！！ 之后会在推上分享一下傻傻的日常~~如果大家愿意的话，私信随意骚扰曼波也没问题的！！☆～（ゝ。∂",
+        "id": "1679982917806882816",
+        "location": "亚洲(可以住在你心里嘛)",
+        "name": "曼波不会唱歌",
+        "pinned_tweet_id": "1994807166642131455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995521044510019584/cTIw1cJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 169,
+          "like_count": 2524,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 1027
+        },
+        "username": "limao382525",
+        "verified": false
+      }
+    ]
+  }
+}

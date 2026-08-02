@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2034568192732049692",
+    "created_at": "2026-03-19T13:43:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T14:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034626781572116492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "797756020202160132",
+          "start": 0,
+          "username": "hiroki0705s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034626781572116492",
+    "in_reply_to_user_id": "797756020202160132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034568192732049692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hiroki0705s 好美啊啊啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034568175925518336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDw8-fVa4AAsh_o.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2034568192732049692",
+        "created_at": "2026-03-19T13:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T14:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034626781572116492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "797756020202160132",
+              "start": 0,
+              "username": "hiroki0705s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034626781572116492",
+        "in_reply_to_user_id": "797756020202160132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034568192732049692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hiroki0705s 好美啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034568175925518336"
+          ]
+        },
+        "author_id": "797756020202160132",
+        "conversation_id": "2034568192732049692",
+        "created_at": "2026-03-19T09:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T10:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034568192732049692"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 16,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hLd9NHRZVh",
+              "end": 46,
+              "expanded_url": "https://x.com/hiroki0705s/status/2034568192732049692/photo/1",
+              "media_key": "3_2034568175925518336",
+              "start": 23,
+              "url": "https://t.co/hLd9NHRZVh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034568192732049692",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "平成か...\n\n一种蓝色忧郁…\n#自撮り界隈 https://t.co/hLd9NHRZVh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1995791304341495847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 100,
+          "like_count": 12265,
+          "listed_count": 4,
+          "media_count": 267,
+          "tweet_count": 2131
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-13T11:00:31.000Z",
+        "description": "地雷系男子👁有在玩cos兴趣调酒。互fo交友大欢迎！中国語、日本語🉑intj",
+        "id": "797756020202160132",
+        "location": "上海",
+        "name": "ヒロキ💜🍸",
+        "pinned_tweet_id": "1989859851963679026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990278918889426944/zrCkC17V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 900,
+          "like_count": 1358,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 409
+        },
+        "username": "hiroki0705s",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2079598052273451329",
+    "created_at": "2026-07-21T16:40:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T17:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079607457681486304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "918494780140785664",
+          "start": 0,
+          "username": "what3veruneeed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079607457681486304",
+    "in_reply_to_user_id": "918494780140785664",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079605279638139349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@what3veruneeed mua🤤🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2079598052273451329",
+        "created_at": "2026-07-21T16:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T17:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079607457681486304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "918494780140785664",
+              "start": 0,
+              "username": "what3veruneeed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079607457681486304",
+        "in_reply_to_user_id": "918494780140785664",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079605279638139349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@what3veruneeed mua🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "918494780140785664",
+        "conversation_id": "2079598052273451329",
+        "created_at": "2026-07-21T16:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T17:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079605279638139349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079605279638139349",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079598052273451329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 舌吻🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 然后贱人死开 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuureikoinu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuureikoinu",
+                "start": 0,
+                "url": "https://t.co/x3tImtkrnU"
+              }
+            ]
+          }
+        },
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "2066441052245176824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077672933875703808/mSc_uFvl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 92,
+          "like_count": 13546,
+          "listed_count": 3,
+          "media_count": 319,
+          "tweet_count": 2450
+        },
+        "url": "https://t.co/x3tImtkrnU",
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-12T15:13:15.000Z",
+        "description": "前世限流 @what3veruneed 消息回复不及时请联系tg @what3veruneeed，tg频道简介下方 大部分💊都有欢迎私信咨询 偶尔当pyq发",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "what3veruneed"
+              },
+              {
+                "end": 48,
+                "start": 33,
+                "username": "what3veruneeed"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/what3veruneed12",
+                "end": 23,
+                "expanded_url": "https://t.me/what3veruneed12",
+                "start": 0,
+                "url": "https://t.co/bDlorIC3IR"
+              }
+            ]
+          }
+        },
+        "id": "918494780140785664",
+        "name": "IGOR促智",
+        "pinned_tweet_id": "2077400145080029231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077329521846439936/ZnsZIJBB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 83,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 91
+        },
+        "url": "https://t.co/bDlorIC3IR",
+        "username": "what3veruneeed",
+        "verified": false
+      }
+    ]
+  }
+}

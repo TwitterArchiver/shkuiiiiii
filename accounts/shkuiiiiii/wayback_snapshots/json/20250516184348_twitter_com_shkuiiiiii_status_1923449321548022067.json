@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1923448992840470716",
+    "created_at": "2025-05-16T18:43:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T19:43:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923449321548022067"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1923449321548022067",
+    "in_reply_to_user_id": "1569279849126297602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923448992840470716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "後面我真的好害怕失去他這個好朋友然後特別特別緊張慌張焦爐，手按鼠標和按鍵都按不到！！！一直在抖抖抖抖，好恐懼唉！不想嘗試了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1923448992840470716",
+        "created_at": "2025-05-16T18:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T19:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923449321548022067"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1923449321548022067",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923448992840470716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "後面我真的好害怕失去他這個好朋友然後特別特別緊張慌張焦爐，手按鼠標和按鍵都按不到！！！一直在抖抖抖抖，好恐懼唉！不想嘗試了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1923448992840470716",
+        "created_at": "2025-05-16T18:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T19:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923448992840470716"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1923448992840470716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "算了不o晚安了，就到此為止吧\n今天晚上出現了嚴重的幻聽聽到了有人和自己交談，交談的很開心也很好，我一直在和他交談一直聊天聊了好久，但是發現手機號是个正在忙線的號也找不到他的企業家庭和個人，這就是晚安吧！！！不o了，下次就愈美。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920921110893522947/Nv5kwqEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 33,
+          "like_count": 2433,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 448
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

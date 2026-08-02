@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2035039410425925708",
+    "created_at": "2026-03-20T17:02:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T18:02:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035039410425925708"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035039410425925708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你們怎麼做到這麼多fo，好羡慕我也想要，我想發個帖子就有人看到然後在意我但是又不想發的帖子被看到🌚🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2035039410425925708",
+        "created_at": "2026-03-20T17:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T18:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035039410425925708"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035039410425925708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你們怎麼做到這麼多fo，好羡慕我也想要，我想發個帖子就有人看到然後在意我但是又不想發的帖子被看到🌚🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1995791304341495847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 101,
+          "like_count": 12706,
+          "listed_count": 4,
+          "media_count": 270,
+          "tweet_count": 2153
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

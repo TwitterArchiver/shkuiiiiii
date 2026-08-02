@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2037574715137724628",
+    "created_at": "2026-03-27T17:19:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T18:19:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037580404769853718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1920704053031694336",
+          "start": 0,
+          "username": "Abel_akun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037580404769853718",
+    "in_reply_to_user_id": "1920704053031694336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037576696770265177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Abel_akun 請！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2037574715137724628",
+        "created_at": "2026-03-27T17:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T18:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037580404769853718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1920704053031694336",
+              "start": 0,
+              "username": "Abel_akun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037580404769853718",
+        "in_reply_to_user_id": "1920704053031694336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037576696770265177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Abel_akun 請！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920704053031694336",
+        "conversation_id": "2037574715137724628",
+        "created_at": "2026-03-27T17:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T18:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037576696770265177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037576696770265177",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037574715137724628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 我早来我先欣赏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuureikoinu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuureikoinu",
+                "start": 0,
+                "url": "https://t.co/x3tImtkrnU"
+              }
+            ]
+          }
+        },
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1995791304341495847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 104,
+          "like_count": 12984,
+          "listed_count": 4,
+          "media_count": 281,
+          "tweet_count": 2208
+        },
+        "url": "https://t.co/x3tImtkrnU",
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T04:55:19.000Z",
+        "description": "09 一条蛆 不会弹吉他",
+        "id": "1920704053031694336",
+        "location": "Japan",
+        "name": "Abel",
+        "pinned_tweet_id": "2024564803248021800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036754267475001344/NfBkbSmr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 163,
+          "like_count": 2601,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1507
+        },
+        "username": "Abel_akun",
+        "verified": false
+      }
+    ]
+  }
+}

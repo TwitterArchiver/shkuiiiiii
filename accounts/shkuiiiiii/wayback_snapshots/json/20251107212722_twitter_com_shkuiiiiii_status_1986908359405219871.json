@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986908356670595074",
+        "3_1986908356678991872",
+        "3_1986908356540555264",
+        "3_1986908356372799488"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "conversation_id": "1986908359405219871",
+    "created_at": "2025-11-07T21:27:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T22:27:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986908359405219871"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mV6WkP9Seu",
+          "end": 23,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1986908359405219871/photo/1",
+          "media_key": "3_1986908356670595074",
+          "start": 0,
+          "url": "https://t.co/mV6WkP9Seu"
+        },
+        {
+          "display_url": "pic.x.com/mV6WkP9Seu",
+          "end": 23,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1986908359405219871/photo/1",
+          "media_key": "3_1986908356678991872",
+          "start": 0,
+          "url": "https://t.co/mV6WkP9Seu"
+        },
+        {
+          "display_url": "pic.x.com/mV6WkP9Seu",
+          "end": 23,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1986908359405219871/photo/1",
+          "media_key": "3_1986908356540555264",
+          "start": 0,
+          "url": "https://t.co/mV6WkP9Seu"
+        },
+        {
+          "display_url": "pic.x.com/mV6WkP9Seu",
+          "end": 23,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1986908359405219871/photo/1",
+          "media_key": "3_1986908356372799488",
+          "start": 0,
+          "url": "https://t.co/mV6WkP9Seu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986908359405219871",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/mV6WkP9Seu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986908356670595074",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Lqn5CbIAIzhur.jpg",
+        "width": 1540
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1986908356678991872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Lqn5EbQAAuB-z.jpg",
+        "width": 1556
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1986908356540555264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Lqn4ja4AAnbxT.jpg",
+        "width": 1542
+      },
+      {
+        "height": 1439,
+        "media_key": "3_1986908356372799488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Lqn37bIAACicS.jpg",
+        "width": 1034
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986908356670595074",
+            "3_1986908356678991872",
+            "3_1986908356540555264",
+            "3_1986908356372799488"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "1986908359405219871",
+        "created_at": "2025-11-07T21:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T22:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986908359405219871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mV6WkP9Seu",
+              "end": 23,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1986908359405219871/photo/1",
+              "media_key": "3_1986908356670595074",
+              "start": 0,
+              "url": "https://t.co/mV6WkP9Seu"
+            },
+            {
+              "display_url": "pic.x.com/mV6WkP9Seu",
+              "end": 23,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1986908359405219871/photo/1",
+              "media_key": "3_1986908356678991872",
+              "start": 0,
+              "url": "https://t.co/mV6WkP9Seu"
+            },
+            {
+              "display_url": "pic.x.com/mV6WkP9Seu",
+              "end": 23,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1986908359405219871/photo/1",
+              "media_key": "3_1986908356540555264",
+              "start": 0,
+              "url": "https://t.co/mV6WkP9Seu"
+            },
+            {
+              "display_url": "pic.x.com/mV6WkP9Seu",
+              "end": 23,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1986908359405219871/photo/1",
+              "media_key": "3_1986908356372799488",
+              "start": 0,
+              "url": "https://t.co/mV6WkP9Seu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986908359405219871",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mV6WkP9Seu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 51,
+          "like_count": 3450,
+          "listed_count": 2,
+          "media_count": 194,
+          "tweet_count": 707
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

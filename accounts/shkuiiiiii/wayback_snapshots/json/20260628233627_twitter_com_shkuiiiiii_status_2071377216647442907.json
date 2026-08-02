@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071377140717891584",
+        "3_2071377144044015616",
+        "7_2071377132736163840"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "conversation_id": "2071377216647442907",
+    "created_at": "2026-06-28T23:36:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T00:36:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071377216647442907"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FqYlNeEEKV",
+          "end": 32,
+          "expanded_url": "https://x.com/shkuiiiiii/status/2071377216647442907/video/1",
+          "media_key": "3_2071377140717891584",
+          "start": 9,
+          "url": "https://t.co/FqYlNeEEKV"
+        },
+        {
+          "display_url": "pic.x.com/FqYlNeEEKV",
+          "end": 32,
+          "expanded_url": "https://x.com/shkuiiiiii/status/2071377216647442907/video/1",
+          "media_key": "3_2071377144044015616",
+          "start": 9,
+          "url": "https://t.co/FqYlNeEEKV"
+        },
+        {
+          "display_url": "pic.x.com/FqYlNeEEKV",
+          "end": 32,
+          "expanded_url": "https://x.com/shkuiiiiii/status/2071377216647442907/video/1",
+          "media_key": "7_2071377132736163840",
+          "start": 9,
+          "url": "https://t.co/FqYlNeEEKV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071377216647442907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你們好我試了假髮 https://t.co/FqYlNeEEKV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071377140717891584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL8CiOxasAACA-w.jpg",
+        "width": 1180
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071377144044015616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL8CibKbUAAdJm_.jpg",
+        "width": 1152
+      },
+      {
+        "duration_ms": 4156,
+        "height": 1280,
+        "media_key": "7_2071377132736163840",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2071377132736163840/pu/img/uvIFv05cfDfeOmUL.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071377132736163840/pu/vid/avc1/320x568/DZ6rKMnSuNGT1zGl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071377132736163840/pu/vid/avc1/480x852/o0o5fVn0cbMhq2Xx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071377132736163840/pu/vid/avc1/720x1280/2sQJ5vY3O-hq0Ggb.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2071377132736163840/pu/pl/aPVrmwKXzI0_p65-.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071377140717891584",
+            "3_2071377144044015616",
+            "7_2071377132736163840"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "2071377216647442907",
+        "created_at": "2026-06-28T23:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T00:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071377216647442907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FqYlNeEEKV",
+              "end": 32,
+              "expanded_url": "https://x.com/shkuiiiiii/status/2071377216647442907/video/1",
+              "media_key": "3_2071377140717891584",
+              "start": 9,
+              "url": "https://t.co/FqYlNeEEKV"
+            },
+            {
+              "display_url": "pic.x.com/FqYlNeEEKV",
+              "end": 32,
+              "expanded_url": "https://x.com/shkuiiiiii/status/2071377216647442907/video/1",
+              "media_key": "3_2071377144044015616",
+              "start": 9,
+              "url": "https://t.co/FqYlNeEEKV"
+            },
+            {
+              "display_url": "pic.x.com/FqYlNeEEKV",
+              "end": 32,
+              "expanded_url": "https://x.com/shkuiiiiii/status/2071377216647442907/video/1",
+              "media_key": "7_2071377132736163840",
+              "start": 9,
+              "url": "https://t.co/FqYlNeEEKV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071377216647442907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你們好我試了假髮 https://t.co/FqYlNeEEKV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 然后贱人死开 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuureikoinu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuureikoinu",
+                "start": 0,
+                "url": "https://t.co/x3tImtkrnU"
+              }
+            ]
+          }
+        },
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "2066441052245176824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063646077333757952/dJ2jH7Df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 92,
+          "like_count": 13058,
+          "listed_count": 3,
+          "media_count": 301,
+          "tweet_count": 2352
+        },
+        "url": "https://t.co/x3tImtkrnU",
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

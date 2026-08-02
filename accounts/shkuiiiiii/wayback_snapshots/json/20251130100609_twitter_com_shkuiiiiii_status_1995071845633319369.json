@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1995071770991436124",
+    "created_at": "2025-11-30T10:06:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T11:06:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995071845633319369"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1995071845633319369",
+    "in_reply_to_user_id": "1569279849126297602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995071770991436124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這個苟又去吃嫖娼無"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6566,
+        "height": 960,
+        "media_key": "7_1995071751475326976",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1995071751475326976/pu/img/_4Pao6W1A7KmdQD-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995071751475326976/pu/vid/avc1/320x426/8BGkVld__uF1qAV3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995071751475326976/pu/vid/avc1/480x640/LyeOPQJlkokeggQF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995071751475326976/pu/vid/avc1/720x960/78A6AKmLtmPXlo6P.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1995071751475326976/pu/pl/NHJzZAPZYNWbo95B.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1995071770991436124",
+        "created_at": "2025-11-30T10:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T11:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995071845633319369"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995071845633319369",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995071770991436124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這個苟又去吃嫖娼無"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1995071751475326976"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "1995071770991436124",
+        "created_at": "2025-11-30T10:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T11:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995071770991436124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TfwKti9IQv",
+              "end": 23,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1995071770991436124/video/1",
+              "media_key": "7_1995071751475326976",
+              "start": 0,
+              "url": "https://t.co/TfwKti9IQv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995071770991436124",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TfwKti9IQv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1994360240175771669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994300924265914368/HW_9esMV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 58,
+          "like_count": 5503,
+          "listed_count": 4,
+          "media_count": 206,
+          "tweet_count": 1105
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

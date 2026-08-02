@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1921190651372195841",
+    "created_at": "2025-05-10T13:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T14:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1921190651372195841"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1921190651372195841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "這個世界已經沒有我愛的人了，我曾經愛過的那些人趕緊去死吧，然後就是我不會愛上任何人我沒有這個勇氣，除非你能讓我幸福但是這種人我咋可能遇得到😳唉總之就是我現在是一個冷酷無情的女人好吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1921190651372195841",
+        "created_at": "2025-05-10T13:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T14:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921190651372195841"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1921190651372195841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這個世界已經沒有我愛的人了，我曾經愛過的那些人趕緊去死吧，然後就是我不會愛上任何人我沒有這個勇氣，除非你能讓我幸福但是這種人我咋可能遇得到😳唉總之就是我現在是一個冷酷無情的女人好吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "我是小苟 一只晴天娃娃 粉紅滾",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920921110893522947/Nv5kwqEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 33,
+          "like_count": 2415,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 430
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

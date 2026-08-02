@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1993404915839107461",
+    "created_at": "2025-11-25T19:43:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T20:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993405161147179444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1605738184368758785",
+          "start": 0,
+          "username": "somniphobia07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993405161147179444",
+    "in_reply_to_user_id": "1605738184368758785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993404915839107461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@somniphobia07 安叻——"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1993404915839107461",
+        "created_at": "2025-11-25T19:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T20:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993405161147179444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1605738184368758785",
+              "start": 0,
+              "username": "somniphobia07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993405161147179444",
+        "in_reply_to_user_id": "1605738184368758785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993404915839107461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@somniphobia07 安叻——"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605738184368758785",
+        "conversation_id": "1993404915839107461",
+        "created_at": "2025-11-25T19:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T20:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993404915839107461"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993404915839107461",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安^ω^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 我喜歡看碎碎念，我們來互fo吧…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 49,
+          "like_count": 4083,
+          "listed_count": 2,
+          "media_count": 187,
+          "tweet_count": 793
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-22T01:33:42.000Z",
+        "description": "这里是我的碎碎念",
+        "id": "1605738184368758785",
+        "location": "🚪99",
+        "name": "Mitsuko_ʌ",
+        "pinned_tweet_id": "1993213475972431922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1605740421874733056/hHymXauA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 221,
+          "like_count": 801,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 174
+        },
+        "username": "somniphobia07",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2022330076457848898",
+    "created_at": "2026-02-13T16:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T17:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022354671348969981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1958896241158299650",
+          "start": 0,
+          "username": "Cyb4rEnt1ty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022354671348969981",
+    "in_reply_to_user_id": "1958896241158299650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022330076457848898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cyb4rEnt1ty 我去帥氣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2022330063199600640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDCekubAAA4bO6.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2022330063191154689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDCeksaIAEX1d4.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2022330076457848898",
+        "created_at": "2026-02-13T16:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T17:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022354671348969981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1958896241158299650",
+              "start": 0,
+              "username": "Cyb4rEnt1ty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022354671348969981",
+        "in_reply_to_user_id": "1958896241158299650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022330076457848898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyb4rEnt1ty 我去帥氣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022330063199600640",
+            "3_2022330063191154689"
+          ]
+        },
+        "author_id": "1958896241158299650",
+        "conversation_id": "2022330076457848898",
+        "created_at": "2026-02-13T15:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022330076457848898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tk3xeys87Q",
+              "end": 26,
+              "expanded_url": "https://x.com/Cyb4rEnt1ty/status/2022330076457848898/photo/1",
+              "media_key": "3_2022330063199600640",
+              "start": 3,
+              "url": "https://t.co/Tk3xeys87Q"
+            },
+            {
+              "display_url": "pic.x.com/Tk3xeys87Q",
+              "end": 26,
+              "expanded_url": "https://x.com/Cyb4rEnt1ty/status/2022330076457848898/photo/1",
+              "media_key": "3_2022330063191154689",
+              "start": 3,
+              "url": "https://t.co/Tk3xeys87Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022330076457848898",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "hi https://t.co/Tk3xeys87Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "2019456404327686611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 71,
+          "like_count": 10759,
+          "listed_count": 4,
+          "media_count": 245,
+          "tweet_count": 1911
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T14:17:29.000Z",
+        "description": "Alostsadspirit…",
+        "id": "1958896241158299650",
+        "location": "距离你0.1km",
+        "name": "實體",
+        "pinned_tweet_id": "2010588685348335855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010211267487903748/tFQVT1zi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 364,
+          "like_count": 2690,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 3409
+        },
+        "username": "Cyb4rEnt1ty",
+        "verified": false
+      }
+    ]
+  }
+}

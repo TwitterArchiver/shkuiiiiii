@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2003082750803497156",
+    "created_at": "2025-12-23T11:18:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T12:18:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003424976289124850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1988153941058838528",
+          "start": 0,
+          "username": "RyuuRyougaku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003424976289124850",
+    "in_reply_to_user_id": "1988153941058838528",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003403200012124201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RyuuRyougaku (ꈍᴗꈍ)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2003082750803497156",
+        "created_at": "2025-12-23T11:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T12:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003424976289124850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1988153941058838528",
+              "start": 0,
+              "username": "RyuuRyougaku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003424976289124850",
+        "in_reply_to_user_id": "1988153941058838528",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003403200012124201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RyuuRyougaku (ꈍᴗꈍ)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988153941058838528",
+        "conversation_id": "2003082750803497156",
+        "created_at": "2025-12-23T09:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T10:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003403200012124201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003403200012124201",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003082750803497156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 好好看的眼睛啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001211153033388032/PHdmuDXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 69,
+          "like_count": 7362,
+          "listed_count": 4,
+          "media_count": 226,
+          "tweet_count": 1388
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-11T07:57:07.000Z",
+        "description": "每天都好无聊好无聊啊🥀有没有人能陪陪我和我聊聊天，小m",
+        "id": "1988153941058838528",
+        "location": "九龍城, 香港",
+        "name": "Loukios",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003302031830974468/V7d8LCJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 717,
+          "like_count": 8887,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 1419
+        },
+        "username": "RyuuRyougaku",
+        "verified": false
+      }
+    ]
+  }
+}

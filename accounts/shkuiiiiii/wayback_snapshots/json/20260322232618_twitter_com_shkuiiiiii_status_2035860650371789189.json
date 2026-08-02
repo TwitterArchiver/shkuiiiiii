@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2035860650371789189",
+    "created_at": "2026-03-22T23:26:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T00:26:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035860650371789189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2014723682548224000",
+          "start": 3,
+          "username": "FanQie_CaoDamn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035860650371789189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035854439597437001",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FanQie_CaoDamn: 相同成分的妹子可以來找我互fo 我都會回的！！麻煩請轉推我想跟你們交朋友！！\n⁽⁽ଘ( ˙꒳˙ )ଓ⁾⁾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2035860650371789189",
+        "created_at": "2026-03-22T23:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T00:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035860650371789189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2014723682548224000",
+              "start": 3,
+              "username": "FanQie_CaoDamn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035860650371789189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035854439597437001",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FanQie_CaoDamn: 相同成分的妹子可以來找我互fo 我都會回的！！麻煩請轉推我想跟你們交朋友！！\n⁽⁽ଘ( ˙꒳˙ )ଓ⁾⁾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014723682548224000",
+        "conversation_id": "2035854439597437001",
+        "created_at": "2026-03-22T23:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T00:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035854439597437001"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035854439597437001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "相同成分的妹子可以來找我互fo 我都會回的！！麻煩請轉推我想跟你們交朋友！！\n⁽⁽ଘ( ˙꒳˙ )ଓ⁾⁾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1995791304341495847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 102,
+          "like_count": 12934,
+          "listed_count": 4,
+          "media_count": 278,
+          "tweet_count": 2185
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T15:35:47.000Z",
+        "description": "11年 友跨 順女 查成分回fo",
+        "id": "2014723682548224000",
+        "location": "🚪",
+        "name": "番茄操蛋5.0",
+        "pinned_tweet_id": "2034970612104667382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031772724541157376/hd0rc-h1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 379,
+          "like_count": 5386,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1842
+        },
+        "username": "FanQie_CaoDamn",
+        "verified": false
+      }
+    ]
+  }
+}

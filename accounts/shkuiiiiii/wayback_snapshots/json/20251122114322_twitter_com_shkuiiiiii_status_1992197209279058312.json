@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1992176131433496972",
+    "created_at": "2025-11-22T11:43:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T12:43:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992197209279058312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974036716727201792",
+          "start": 0,
+          "username": "jilianmeing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992197209279058312",
+    "in_reply_to_user_id": "1974036716727201792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992176131433496972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jilianmeing 沒錯！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1992176068523139072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6WhlE5bIAAvwQL.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1992176131433496972",
+        "created_at": "2025-11-22T11:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T12:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992197209279058312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974036716727201792",
+              "start": 0,
+              "username": "jilianmeing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992197209279058312",
+        "in_reply_to_user_id": "1974036716727201792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992176131433496972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jilianmeing 沒錯！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992176068523139072"
+          ]
+        },
+        "author_id": "1974036716727201792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1992176131433496972",
+        "created_at": "2025-11-22T10:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T11:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992176131433496972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BMHv7DHaP8",
+              "end": 38,
+              "expanded_url": "https://x.com/jilianmeing/status/1992176131433496972/photo/1",
+              "media_key": "3_1992176068523139072",
+              "start": 15,
+              "url": "https://t.co/BMHv7DHaP8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992176131433496972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新的一年 我们都会得偿所愿的 https://t.co/BMHv7DHaP8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 我喜歡看碎碎念，我們來互fo吧…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 54,
+          "like_count": 3613,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 707
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T09:00:31.000Z",
+        "description": "如果有人想惩罚我26分的地理 应该给我十本五三 而不是给我发一堆冬虫夏草一样的金针菇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jilianmeing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jilianmeing",
+                "start": 0,
+                "url": "https://t.co/puTamLGbh5"
+              }
+            ]
+          }
+        },
+        "id": "1974036716727201792",
+        "location": "我还有好多话想说",
+        "name": "我削下来的洋葱头怎么被人装上了假齐刘海",
+        "pinned_tweet_id": "1989677471206387770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984831870572601344/Yeowdj4d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 119,
+          "like_count": 11728,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 2524
+        },
+        "url": "https://t.co/puTamLGbh5",
+        "username": "jilianmeing",
+        "verified": false
+      }
+    ]
+  }
+}

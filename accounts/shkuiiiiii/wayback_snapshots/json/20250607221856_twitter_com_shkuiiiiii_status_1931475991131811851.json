@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1931475991131811851",
+    "created_at": "2025-06-07T22:18:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T23:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931475991131811851"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1931475991131811851",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我最討厭梅雨季了！！！一直下雨你尿咋這麼多啊？！老子上來就是一個舔…撐傘好累出門都這麼累了還要帶把傘我草泥馬我要有錢我就讓管家載我出去玩了可惜了這個人其實是個窮逼！！這衹是她的幻想罷了😌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1931475991131811851",
+        "created_at": "2025-06-07T22:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T23:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931475991131811851"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931475991131811851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我最討厭梅雨季了！！！一直下雨你尿咋這麼多啊？！老子上來就是一個舔…撐傘好累出門都這麼累了還要帶把傘我草泥馬我要有錢我就讓管家載我出去玩了可惜了這個人其實是個窮逼！！這衹是她的幻想罷了😌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 48,
+          "like_count": 2859,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 533
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

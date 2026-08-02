@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2056042768850657280"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "conversation_id": "2056042825327014375",
+    "created_at": "2026-05-17T16:03:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T17:03:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056042825327014375"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lpD3inbVh7",
+          "end": 37,
+          "expanded_url": "https://x.com/shkuiiiiii/status/2056042825327014375/video/1",
+          "media_key": "7_2056042768850657280",
+          "start": 14,
+          "url": "https://t.co/lpD3inbVh7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056042825327014375",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前和妮妮出去玩 笑死我了 https://t.co/lpD3inbVh7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8544,
+        "height": 854,
+        "media_key": "7_2056042768850657280",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2056042768850657280/pu/img/urO2Bgj6KDSXF-ug.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056042768850657280/pu/vid/avc1/320x568/UzrWwHNjCPd_AruL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056042768850657280/pu/vid/avc1/480x854/uQU3HR-7XknpQfs1.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2056042768850657280/pu/pl/EupgUMJnVexCjiKf.m3u8?tag=12"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2056042768850657280"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "2056042825327014375",
+        "created_at": "2026-05-17T16:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056042825327014375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lpD3inbVh7",
+              "end": 37,
+              "expanded_url": "https://x.com/shkuiiiiii/status/2056042825327014375/video/1",
+              "media_key": "7_2056042768850657280",
+              "start": 14,
+              "url": "https://t.co/lpD3inbVh7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056042825327014375",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前和妮妮出去玩 笑死我了 https://t.co/lpD3inbVh7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuureikoinu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuureikoinu",
+                "start": 0,
+                "url": "https://t.co/x3tImtkrnU"
+              }
+            ]
+          }
+        },
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1995791304341495847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 97,
+          "like_count": 12929,
+          "listed_count": 3,
+          "media_count": 291,
+          "tweet_count": 2252
+        },
+        "url": "https://t.co/x3tImtkrnU",
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993197277070913536"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1993197285199827445",
+    "created_at": "2025-11-25T05:57:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T06:57:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993197285199827445"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CrogJr2MeV",
+          "end": 98,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1993197285199827445/photo/1",
+          "media_key": "3_1993197277070913536",
+          "start": 75,
+          "url": "https://t.co/CrogJr2MeV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993197285199827445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每次到十二個小時就通話中斷了！！！昨天惹我寶寶生氣了uuuu我不系故意的原諒我吧！我買了手銬等我寶寶來了我們就銬在一起^^我們要永遠在一起好不好^^ https://t.co/CrogJr2MeV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993197277070913536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6lCXPMWcAAfR7H.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993197277070913536"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1993197285199827445",
+        "created_at": "2025-11-25T05:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T06:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993197285199827445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CrogJr2MeV",
+              "end": 98,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1993197285199827445/photo/1",
+              "media_key": "3_1993197277070913536",
+              "start": 75,
+              "url": "https://t.co/CrogJr2MeV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993197285199827445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次到十二個小時就通話中斷了！！！昨天惹我寶寶生氣了uuuu我不系故意的原諒我吧！我買了手銬等我寶寶來了我們就銬在一起^^我們要永遠在一起好不好^^ https://t.co/CrogJr2MeV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 我喜歡看碎碎念，我們來互fo吧…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 67,
+          "like_count": 3757,
+          "listed_count": 2,
+          "media_count": 182,
+          "tweet_count": 744
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2016736602500792557",
+    "created_at": "2026-01-29T20:11:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T21:11:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016967572374409619"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 15,
+          "normalized_text": "好美",
+          "probability": 0.551,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1998568087382274049",
+          "start": 0,
+          "username": "bvdsvge12071"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016967572374409619",
+    "in_reply_to_user_id": "1998568087382274049",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016736602500792557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bvdsvge12071 好美……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2016736584243302406",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_zjPP1bUAYAzPx.jpg",
+        "width": 754
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2016736602500792557",
+        "created_at": "2026-01-29T20:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T21:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016967572374409619"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "好美",
+              "probability": 0.551,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1998568087382274049",
+              "start": 0,
+              "username": "bvdsvge12071"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016967572374409619",
+        "in_reply_to_user_id": "1998568087382274049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016736602500792557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bvdsvge12071 好美……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016736584243302406"
+          ]
+        },
+        "author_id": "1998568087382274049",
+        "conversation_id": "2016736602500792557",
+        "created_at": "2026-01-29T04:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T05:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016736602500792557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5m7qCMwqFC",
+              "end": 49,
+              "expanded_url": "https://x.com/bvdsvge12071/status/2016736602500792557/photo/1",
+              "media_key": "3_2016736584243302406",
+              "start": 26,
+              "url": "https://t.co/5m7qCMwqFC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016736602500792557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 608,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又刮了一条。。然后我直接扯烂了🥹又要再买一条！！！ https://t.co/5m7qCMwqFC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 82,
+          "like_count": 9967,
+          "listed_count": 4,
+          "media_count": 238,
+          "tweet_count": 1767
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T01:39:28.000Z",
+        "description": "你们好呀！这里是阿宁！🥰 05｜宅女｜gbg｜穿孔｜酗酒｜日番日漫｜焦虑症吃药治疗中｜喜欢在评论区和别人互动。高浓度上网★私信开放 可聊天",
+        "id": "1998568087382274049",
+        "name": "为何痛苦总是如影随形",
+        "pinned_tweet_id": "2012869545422197093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000815325521068041/4eeyWtxs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 123,
+          "like_count": 4785,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 380
+        },
+        "username": "bvdsvge12071",
+        "verified": false
+      }
+    ]
+  }
+}

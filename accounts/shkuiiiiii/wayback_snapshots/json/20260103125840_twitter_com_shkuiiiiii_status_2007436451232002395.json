@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2007133609384390790",
+    "created_at": "2026-01-03T12:58:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T13:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007436451232002395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1653078335709396992",
+          "start": 0,
+          "username": "tsu8asaAcid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007436451232002395",
+    "in_reply_to_user_id": "1653078335709396992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007431309568967148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsu8asaAcid 嘿嘿！翼米！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2007133609384390790",
+        "created_at": "2026-01-03T12:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T13:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007436451232002395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1653078335709396992",
+              "start": 0,
+              "username": "tsu8asaAcid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007436451232002395",
+        "in_reply_to_user_id": "1653078335709396992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007431309568967148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsu8asaAcid 嘿嘿！翼米！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653078335709396992",
+        "conversation_id": "2007133609384390790",
+        "created_at": "2026-01-03T12:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T13:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007431309568967148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007431309568967148",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007133609384390790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 好棒！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 73,
+          "like_count": 8262,
+          "listed_count": 4,
+          "media_count": 230,
+          "tweet_count": 1459
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T16:46:14.000Z",
+        "description": "求互fo！ 繪畫/地雷/自殘/負能/高二/不搞黃",
+        "id": "1653078335709396992",
+        "name": "翼米",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994788621656997888/_thSe0QC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 137,
+          "like_count": 1220,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 335
+        },
+        "username": "tsu8asaAcid",
+        "verified": false
+      }
+    ]
+  }
+}

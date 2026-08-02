@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1903178762025570611",
+    "created_at": "2025-03-21T20:15:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T21:15:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903178762025570611"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1903178762025570611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "假如我是一座島\n我希望有一個人會一直陪在我身邊\n和我一起看星空\n沒有人會打擾我們"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1903178762025570611",
+        "created_at": "2025-03-21T20:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T21:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903178762025570611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903178762025570611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "假如我是一座島\n我希望有一個人會一直陪在我身邊\n和我一起看星空\n沒有人會打擾我們"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "",
+        "id": "1569279849126297602",
+        "name": "小苟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705953910106554368/p6JuBObn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 134,
+          "like_count": 2029,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 316
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

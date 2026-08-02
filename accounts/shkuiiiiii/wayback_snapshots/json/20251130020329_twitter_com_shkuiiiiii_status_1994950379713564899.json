@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1994616306075930948",
+    "created_at": "2025-11-30T02:03:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T03:03:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994950379713564899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1279738200626466816",
+          "start": 0,
+          "username": "Rain76318015"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994950379713564899",
+    "in_reply_to_user_id": "1279738200626466816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994947627386093813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain76318015 好的！！！我今天要給朋友過生日等過完生日就出發哈哈哈！！！！！！（期待臉）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1994616306075930948",
+        "created_at": "2025-11-30T02:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T03:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994950379713564899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1279738200626466816",
+              "start": 0,
+              "username": "Rain76318015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994950379713564899",
+        "in_reply_to_user_id": "1279738200626466816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994947627386093813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain76318015 好的！！！我今天要給朋友過生日等過完生日就出發哈哈哈！！！！！！（期待臉）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279738200626466816",
+        "conversation_id": "1994616306075930948",
+        "created_at": "2025-11-30T01:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T02:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994947627386093813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994947627386093813",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994944995946893544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 而且那边应该有好多漂亮饭可以吃！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1994360240175771669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994300924265914368/HW_9esMV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 58,
+          "like_count": 5314,
+          "listed_count": 4,
+          "media_count": 203,
+          "tweet_count": 1077
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-05T11:25:50.000Z",
+        "description": "顺直男的。。。\n有人互动会很开心🥹❤️‍🔥❤️‍🔥❤️‍🔥\n您的每一个点赞评论都将是一份惊喜\n无人在意的角落碎碎念应该不会被熟人认出来\n🚪6888888888",
+        "id": "1279738200626466816",
+        "name": "U",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994927178593570816/1I6flERC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 64,
+          "like_count": 1528,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 158
+        },
+        "username": "Rain76318015",
+        "verified": false
+      }
+    ]
+  }
+}

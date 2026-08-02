@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1995449169054445937",
+    "created_at": "2025-12-02T05:40:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T06:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995729762443001951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1141806827987857408",
+          "start": 0,
+          "username": "hunterkageura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995729762443001951",
+    "in_reply_to_user_id": "1141806827987857408",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995725793473831299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hunterkageura 🌚🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1995449169054445937",
+        "created_at": "2025-12-02T05:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T06:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995729762443001951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1141806827987857408",
+              "start": 0,
+              "username": "hunterkageura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995729762443001951",
+        "in_reply_to_user_id": "1141806827987857408",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995725793473831299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hunterkageura 🌚🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141806827987857408",
+        "conversation_id": "1995449169054445937",
+        "created_at": "2025-12-02T05:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T06:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995725793473831299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995725793473831299",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995449295948931507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 霸道女總裁\n醜男你引起我的注意了\n從來沒有人這樣跟我説話"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1995528421066375297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995433565438504961/bd-6nfSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 59,
+          "like_count": 6013,
+          "listed_count": 5,
+          "media_count": 211,
+          "tweet_count": 1196
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-20T20:35:36.000Z",
+        "description": "こんにちは、カゲッス。アメリカの人ッス。プリコネ三年生、パズドラ卒業生,バトスピカードバトラー。重りゲームのツイートします。喋れる言語は英語、日本語、廣東語と中国語。プロフィールは吉永裕ノ介先生のブレイクブレイドの主人公です。バナー　@tomorimoriri",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "tomorimoriri"
+              }
+            ]
+          }
+        },
+        "id": "1141806827987857408",
+        "location": "los angeles",
+        "name": "kage",
+        "pinned_tweet_id": "1852061540683518280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1364071825085358081/0JhPE4g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 559,
+          "like_count": 4511,
+          "listed_count": 0,
+          "media_count": 227,
+          "tweet_count": 2115
+        },
+        "username": "hunterkageura",
+        "verified": false
+      }
+    ]
+  }
+}

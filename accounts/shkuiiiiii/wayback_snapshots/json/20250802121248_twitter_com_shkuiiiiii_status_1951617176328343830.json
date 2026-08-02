@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1951617176328343830",
+    "created_at": "2025-08-02T12:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T13:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951617176328343830"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1951617176328343830",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "買了心心念念的kry水手服，其實我穿著顯胖因為我本來就胖唉，看上一件外套要一千塊錢，等我有錢了一定再去逛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1951617176328343830",
+        "created_at": "2025-08-02T12:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T13:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951617176328343830"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951617176328343830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "買了心心念念的kry水手服，其實我穿著顯胖因為我本來就胖唉，看上一件外套要一千塊錢，等我有錢了一定再去逛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 50,
+          "like_count": 3117,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 629
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

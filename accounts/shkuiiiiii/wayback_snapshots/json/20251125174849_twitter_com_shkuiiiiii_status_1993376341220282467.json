@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1993376209003217267",
+    "created_at": "2025-11-25T17:48:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T18:48:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993376341220282467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1948395176831131648",
+          "start": 0,
+          "username": "zy89644"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993376341220282467",
+    "in_reply_to_user_id": "1948395176831131648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993376209003217267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zy89644 安——————"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1993376209003217267",
+        "created_at": "2025-11-25T17:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T18:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993376341220282467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1948395176831131648",
+              "start": 0,
+              "username": "zy89644"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993376341220282467",
+        "in_reply_to_user_id": "1948395176831131648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993376209003217267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zy89644 安——————"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948395176831131648",
+        "conversation_id": "1993376209003217267",
+        "created_at": "2025-11-25T17:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T18:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993376209003217267"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993376209003217267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安\n下午见"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 我喜歡看碎碎念，我們來互fo吧…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 75,
+          "like_count": 4066,
+          "listed_count": 2,
+          "media_count": 187,
+          "tweet_count": 788
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T14:50:02.000Z",
+        "description": "我要吃抹茶冰淇淋 抹茶蛋糕 抹茶奶茶 总之要来点抹茶吗\n\n视奸我就关注你 天天偷看你\n\nfofo我吧(⁠✷⁠‿⁠✷⁠)\n\n1764817612（神秘号码",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zy89644",
+                "end": 23,
+                "expanded_url": "http://ngl.link/zy89644",
+                "start": 0,
+                "url": "https://t.co/tLgc8L3Uoh"
+              }
+            ]
+          }
+        },
+        "id": "1948395176831131648",
+        "location": "亚洲的某处深山老林中",
+        "name": "偷吃冰淇淋的이이이本人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993278355576438793/0plnXNep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 133,
+          "like_count": 8361,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 2247
+        },
+        "url": "https://t.co/tLgc8L3Uoh",
+        "username": "zy89644",
+        "verified": true
+      }
+    ]
+  }
+}

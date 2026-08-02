@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Meals",
+          "id": "1034860760093024257",
+          "name": "Meals"
+        }
+      }
+    ],
+    "conversation_id": "2015599586581336221",
+    "created_at": "2026-01-26T01:36:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T02:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015599586581336221"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NIKKE_japan/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/NIKKE_japan/status/2015590516428288499",
+          "start": 6,
+          "url": "https://t.co/R2y0jhkKzA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015599586581336221",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015590516428288499",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我喜歡這個 https://t.co/R2y0jhkKzA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2014638473345724416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_VvBHqbcAAs1e1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Meals",
+              "id": "1034860760093024257",
+              "name": "Meals"
+            }
+          }
+        ],
+        "conversation_id": "2015599586581336221",
+        "created_at": "2026-01-26T01:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T02:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015599586581336221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NIKKE_japan/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/NIKKE_japan/status/2015590516428288499",
+              "start": 6,
+              "url": "https://t.co/R2y0jhkKzA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015599586581336221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015590516428288499",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜歡這個 https://t.co/R2y0jhkKzA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014638473345724416"
+          ]
+        },
+        "author_id": "1469201146418184192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Meals",
+              "id": "1034860760093024257",
+              "name": "Meals"
+            }
+          }
+        ],
+        "conversation_id": "2015590516428288499",
+        "created_at": "2026-01-26T01:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T02:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015590516428288499"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "ベルベット",
+              "probability": 0.6762,
+              "start": 7,
+              "type": "Person"
+            },
+            {
+              "end": 18,
+              "normalized_text": "ベルベット",
+              "probability": 0.7464,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 23,
+              "tag": "真田アサミ"
+            },
+            {
+              "end": 122,
+              "start": 116,
+              "tag": "NIKKE"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "ニケ"
+            },
+            {
+              "end": 132,
+              "start": 127,
+              "tag": "メガニケ"
+            },
+            {
+              "end": 139,
+              "start": 133,
+              "tag": "ベルベット"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lSrbtevys6",
+              "end": 163,
+              "expanded_url": "https://x.com/NIKKE_japan/status/2015590516428288499/photo/1",
+              "media_key": "3_2014638473345724416",
+              "start": 140,
+              "url": "https://t.co/lSrbtevys6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015590516428288499",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 294,
+          "impression_count": 57227,
+          "like_count": 3130,
+          "quote_count": 137,
+          "reply_count": 56,
+          "retweet_count": 841
+        },
+        "reply_settings": "everyone",
+        "text": "【NIKKE：ベルベット】\nベルベット(CV：#真田アサミ)\n突如コインラッシュに現れた正体不明の怪盗（？）。\n秘密作戦を遂行中だった主人公に懸賞金をかける。\n\n「いらっしゃい、ご主人様。\n食事の用意と片付けは自分でやってね～」\n\n#NIKKE #ニケ #メガニケ #ベルベット https://t.co/lSrbtevys6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 80,
+          "like_count": 9720,
+          "listed_count": 4,
+          "media_count": 238,
+          "tweet_count": 1705
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-10T07:03:55.000Z",
+        "description": "iOS・Android・PC向け戦場に響く銃声と絆~地上奪還ガンガールRPG~『勝利の女神：NIKKE』の公式アカウント\n\nDL：https://t.co/sUgtGF7u3n\nDiscord：https://t.co/aoWkLMSbEK\nYouTube：https://t.co/HuA5ife36i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/3cOOOWD",
+                "end": 88,
+                "expanded_url": "http://bit.ly/3cOOOWD",
+                "start": 65,
+                "url": "https://t.co/sUgtGF7u3n"
+              },
+              {
+                "display_url": "discord.gg/nikke-jp",
+                "end": 120,
+                "expanded_url": "http://discord.gg/nikke-jp",
+                "start": 97,
+                "url": "https://t.co/aoWkLMSbEK"
+              },
+              {
+                "display_url": "youtube.com/NIKKEJAPAN",
+                "end": 152,
+                "expanded_url": "http://www.youtube.com/NIKKEJAPAN",
+                "start": 129,
+                "url": "https://t.co/HuA5ife36i"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nikke-jp.com",
+                "end": 23,
+                "expanded_url": "https://nikke-jp.com",
+                "start": 0,
+                "url": "https://t.co/e0vWnotNKE"
+              }
+            ]
+          }
+        },
+        "id": "1469201146418184192",
+        "name": "【公式】勝利の女神：NIKKE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991387358982557696/LjQFuWGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994801,
+          "following_count": 5,
+          "like_count": 219,
+          "listed_count": 3475,
+          "media_count": 4480,
+          "tweet_count": 5766
+        },
+        "url": "https://t.co/e0vWnotNKE",
+        "username": "NIKKE_japan",
+        "verified": true
+      }
+    ]
+  }
+}

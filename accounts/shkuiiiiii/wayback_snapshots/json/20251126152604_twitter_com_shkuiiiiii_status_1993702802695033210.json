@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1993694304016154709",
+    "created_at": "2025-11-26T15:26:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T16:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993702802695033210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1992204212583944192",
+          "start": 0,
+          "username": "zjzxjzqh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993702802695033210",
+    "in_reply_to_user_id": "1992204212583944192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993695468065615949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zjzxjzqh 我來了，因為我卡死了上不去……😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1993694304016154709",
+        "created_at": "2025-11-26T15:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T16:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993702802695033210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1992204212583944192",
+              "start": 0,
+              "username": "zjzxjzqh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993702802695033210",
+        "in_reply_to_user_id": "1992204212583944192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993695468065615949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zjzxjzqh 我來了，因為我卡死了上不去……😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992204212583944192",
+        "conversation_id": "1993694304016154709",
+        "created_at": "2025-11-26T14:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T15:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993695468065615949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993695468065615949",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993694304016154709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 为什么不互fo我姐姐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 我喜歡看碎碎念，我們來互fo吧…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 57,
+          "like_count": 4187,
+          "listed_count": 2,
+          "media_count": 188,
+          "tweet_count": 814
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T12:12:36.000Z",
+        "description": "什么都不太懂的大一学生，略略略",
+        "id": "1992204212583944192",
+        "name": "天财商龙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992206601323761664/_CNqjZp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 13,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 52
+        },
+        "username": "zjzxjzqh",
+        "verified": false
+      }
+    ]
+  }
+}

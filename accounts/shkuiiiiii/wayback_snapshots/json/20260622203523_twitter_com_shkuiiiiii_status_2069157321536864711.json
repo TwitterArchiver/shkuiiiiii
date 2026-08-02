@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2068752231101563028",
+    "created_at": "2026-06-22T20:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T21:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069157321536864711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1772911113996496896",
+          "start": 0,
+          "username": "gan623337788673"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069157321536864711",
+    "in_reply_to_user_id": "1772911113996496896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068752231101563028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gan623337788673 好善良呀天使……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2068752231101563028",
+        "created_at": "2026-06-22T20:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T21:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069157321536864711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1772911113996496896",
+              "start": 0,
+              "username": "gan623337788673"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069157321536864711",
+        "in_reply_to_user_id": "1772911113996496896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068752231101563028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gan623337788673 好善良呀天使……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772911113996496896",
+        "conversation_id": "2068752231101563028",
+        "created_at": "2026-06-21T17:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068752231101563028"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068752231101563028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想撸网贷撸笔大的然后消费了去死，可是我到死都不想给别人添麻烦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 然后贱人死开 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuureikoinu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuureikoinu",
+                "start": 0,
+                "url": "https://t.co/x3tImtkrnU"
+              }
+            ]
+          }
+        },
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "2066441052245176824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063646077333757952/dJ2jH7Df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 92,
+          "like_count": 12943,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 2325
+        },
+        "url": "https://t.co/x3tImtkrnU",
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T08:59:03.000Z",
+        "description": "无人在意，世间美好全与我无关。",
+        "id": "1772911113996496896",
+        "name": "整容之后还是丑就去死",
+        "pinned_tweet_id": "1953475904153268434",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 899,
+          "like_count": 8713,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 4748
+        },
+        "url": "",
+        "username": "gan623337788673",
+        "verified": false
+      }
+    ]
+  }
+}

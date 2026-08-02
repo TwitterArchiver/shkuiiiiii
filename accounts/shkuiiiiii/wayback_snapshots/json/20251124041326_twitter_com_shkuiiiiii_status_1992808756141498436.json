@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1992522394746159291",
+    "created_at": "2025-11-24T04:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T05:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992808756141498436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1821591157866164227",
+          "start": 0,
+          "username": "Oakland_714"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992808756141498436",
+    "in_reply_to_user_id": "1821591157866164227",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992794595261047247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oakland_714 😚😚😚😚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1992522394746159291",
+        "created_at": "2025-11-24T04:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T05:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992808756141498436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1821591157866164227",
+              "start": 0,
+              "username": "Oakland_714"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992808756141498436",
+        "in_reply_to_user_id": "1821591157866164227",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992794595261047247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oakland_714 😚😚😚😚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821591157866164227",
+        "conversation_id": "1992522394746159291",
+        "created_at": "2025-11-24T03:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T04:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992794595261047247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992794595261047247",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992522394746159291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 好萌(╥﹏╥)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 我喜歡看碎碎念，我們來互fo吧…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 61,
+          "like_count": 3718,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 729
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T16:56:01.000Z",
+        "description": "🐱｜INTJ-T｜纯女同 ｜某美院在读 具体哪个我不想说",
+        "id": "1821591157866164227",
+        "location": "Yokohama-shi Kanagawa",
+        "name": "口水猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989266888313237504/yhSCUWVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 123,
+          "like_count": 7671,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 934
+        },
+        "username": "Oakland_714",
+        "verified": false
+      }
+    ]
+  }
+}

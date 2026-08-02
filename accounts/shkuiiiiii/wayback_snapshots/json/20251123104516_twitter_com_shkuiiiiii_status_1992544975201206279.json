@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1992535382517493834",
+    "created_at": "2025-11-23T10:45:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T11:45:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992544975201206279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965246583379034117",
+          "start": 0,
+          "username": "hyunjennagua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992544975201206279",
+    "in_reply_to_user_id": "1965246583379034117",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992535382517493834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyunjennagua 我偷吃一口……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1992535357854806016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6boWd9XcAAHDXQ.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1992535357859024897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6boWd-X0AEsjmo.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1992535382517493834",
+        "created_at": "2025-11-23T10:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T11:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992544975201206279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992544975201206279",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992535382517493834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 我偷吃一口……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992535357854806016",
+            "3_1992535357859024897"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1992535382517493834",
+        "created_at": "2025-11-23T10:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T11:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992535382517493834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m054wvO4aH",
+              "end": 23,
+              "expanded_url": "https://x.com/hyunjennagua/status/1992535382517493834/photo/1",
+              "media_key": "3_1992535357854806016",
+              "start": 0,
+              "url": "https://t.co/m054wvO4aH"
+            },
+            {
+              "display_url": "pic.x.com/m054wvO4aH",
+              "end": 23,
+              "expanded_url": "https://x.com/hyunjennagua/status/1992535382517493834/photo/1",
+              "media_key": "3_1992535357859024897",
+              "start": 0,
+              "url": "https://t.co/m054wvO4aH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992535382517493834",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/m054wvO4aH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 我喜歡看碎碎念，我們來互fo吧…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 59,
+          "like_count": 3685,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 726
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "互fo(⸝⸝•‧̫•⸝⸝)",
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 95,
+          "like_count": 280,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 137
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      }
+    ]
+  }
+}

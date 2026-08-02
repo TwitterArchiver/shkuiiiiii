@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2056042542106611976",
+    "created_at": "2026-05-17T16:02:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T17:02:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056042599602139379"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056042599602139379",
+    "in_reply_to_user_id": "1569279849126297602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056042542106611976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我鼻子好醜啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2056042539392864256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIiHy9OakAA-u1T.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2056042542106611976",
+        "created_at": "2026-05-17T16:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056042599602139379"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056042599602139379",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056042542106611976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我鼻子好醜啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056042539392864256"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "2056042542106611976",
+        "created_at": "2026-05-17T16:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056042542106611976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZeKE6BBUdW",
+              "end": 43,
+              "expanded_url": "https://x.com/shkuiiiiii/status/2056042542106611976/photo/1",
+              "media_key": "3_2056042539392864256",
+              "start": 20,
+              "url": "https://t.co/ZeKE6BBUdW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056042542106611976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "染了新頭髮 這個就用了抖音特效沒有p過 https://t.co/ZeKE6BBUdW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuureikoinu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuureikoinu",
+                "start": 0,
+                "url": "https://t.co/x3tImtkrnU"
+              }
+            ]
+          }
+        },
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1995791304341495847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 97,
+          "like_count": 12928,
+          "listed_count": 3,
+          "media_count": 290,
+          "tweet_count": 2251
+        },
+        "url": "https://t.co/x3tImtkrnU",
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

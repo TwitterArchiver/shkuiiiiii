@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1932095636666785945",
+    "created_at": "2025-06-09T15:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T16:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932095636666785945"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1932095636666785945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 22,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我操我想到以前我彈琴跳舞畫畫練體型啥課都報了而且上了都有幾年，每天上完學回家就要練鋼琴我他媽幼兒園小班就開始練鋼琴了我咋這麼慘，小學也一直在被校園霸淩我家人也不替我說話我也一直説沒事的我在學校很開心。我草泥馬的我咋這麼辛苦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1932095636666785945",
+        "created_at": "2025-06-09T15:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T16:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932095636666785945"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932095636666785945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操我想到以前我彈琴跳舞畫畫練體型啥課都報了而且上了都有幾年，每天上完學回家就要練鋼琴我他媽幼兒園小班就開始練鋼琴了我咋這麼慘，小學也一直在被校園霸淩我家人也不替我說話我也一直説沒事的我在學校很開心。我草泥馬的我咋這麼辛苦！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 50,
+          "like_count": 2905,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 551
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

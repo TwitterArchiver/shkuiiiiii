@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1903539790500557188",
+    "created_at": "2025-03-22T20:10:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T21:10:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903539790500557188"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1903539790500557188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我操我从十一點叫救護車開始到四點我都沒手機 我在吊水。。五個小時沒看手機我去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1903539790500557188",
+        "created_at": "2025-03-22T20:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T21:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903539790500557188"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903539790500557188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操我从十一點叫救護車開始到四點我都沒手機 我在吊水。。五個小時沒看手機我去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "",
+        "id": "1569279849126297602",
+        "name": "小苟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705953910106554368/p6JuBObn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 135,
+          "like_count": 2041,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 322
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

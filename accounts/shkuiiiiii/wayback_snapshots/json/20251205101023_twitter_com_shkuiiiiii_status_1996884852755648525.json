@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996884849119186945",
+        "3_1996884848854945796"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "conversation_id": "1996884852755648525",
+    "created_at": "2025-12-05T10:10:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T11:10:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996884852755648525"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/s6UWc85Ue1",
+          "end": 27,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1996884852755648525/photo/1",
+          "media_key": "3_1996884849119186945",
+          "start": 4,
+          "url": "https://t.co/s6UWc85Ue1"
+        },
+        {
+          "display_url": "pic.x.com/s6UWc85Ue1",
+          "end": 27,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1996884852755648525/photo/1",
+          "media_key": "3_1996884848854945796",
+          "start": 4,
+          "url": "https://t.co/s6UWc85Ue1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996884852755648525",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "眉釘！ https://t.co/s6UWc85Ue1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996884849119186945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ZcMLkb0AE0Fy0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996884848854945796",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ZcMKlb0AQdr4q.jpg",
+        "width": 1788
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996884849119186945",
+            "3_1996884848854945796"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "1996884852755648525",
+        "created_at": "2025-12-05T10:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T11:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996884852755648525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s6UWc85Ue1",
+              "end": 27,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1996884852755648525/photo/1",
+              "media_key": "3_1996884849119186945",
+              "start": 4,
+              "url": "https://t.co/s6UWc85Ue1"
+            },
+            {
+              "display_url": "pic.x.com/s6UWc85Ue1",
+              "end": 27,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1996884852755648525/photo/1",
+              "media_key": "3_1996884848854945796",
+              "start": 4,
+              "url": "https://t.co/s6UWc85Ue1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996884852755648525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "眉釘！ https://t.co/s6UWc85Ue1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1995528421066375297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995433565438504961/bd-6nfSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 64,
+          "like_count": 6446,
+          "listed_count": 4,
+          "media_count": 215,
+          "tweet_count": 1238
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

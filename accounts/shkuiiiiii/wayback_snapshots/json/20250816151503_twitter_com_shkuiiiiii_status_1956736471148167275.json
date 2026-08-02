@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1956736471148167275",
+    "created_at": "2025-08-16T15:15:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T16:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956736471148167275"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1956736471148167275",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "www剛剛刷朋友圈刷到血腥筆記給我嚇一跳，我前幾分鐘還在刷惡魔召喚儀式，已經有些害怕了，本寶寶真的害怕了現在來個人陪我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1956736471148167275",
+        "created_at": "2025-08-16T15:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T16:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956736471148167275"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956736471148167275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "www剛剛刷朋友圈刷到血腥筆記給我嚇一跳，我前幾分鐘還在刷惡魔召喚儀式，已經有些害怕了，本寶寶真的害怕了現在來個人陪我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 51,
+          "like_count": 3210,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 646
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1993511210093101347",
+    "created_at": "2025-11-26T05:46:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T06:46:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993556927096537319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1976659813863227392",
+          "start": 0,
+          "username": "qian_YuqianMi"
+        },
+        {
+          "end": 26,
+          "id": "1715212387869962240",
+          "start": 15,
+          "username": "Azhi967806"
+        },
+        {
+          "end": 41,
+          "id": "1802024392391802880",
+          "start": 27,
+          "username": "Determinat_37"
+        },
+        {
+          "end": 51,
+          "id": "1985041752655577088",
+          "start": 42,
+          "username": "ai0ai444"
+        },
+        {
+          "end": 64,
+          "id": "1491722590238703617",
+          "start": 52,
+          "username": "Hane_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993556927096537319",
+    "in_reply_to_user_id": "1976659813863227392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993511210093101347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qian_YuqianMi @Azhi967806 @Determinat_37 @ai0ai444 @Hane_Kokoro 啊啊啊哈哈哈哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1993511201188544513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6pf4BqbAAEjI_j.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1993511210093101347",
+        "created_at": "2025-11-26T05:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T06:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993556927096537319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            },
+            {
+              "end": 26,
+              "id": "1715212387869962240",
+              "start": 15,
+              "username": "Azhi967806"
+            },
+            {
+              "end": 41,
+              "id": "1802024392391802880",
+              "start": 27,
+              "username": "Determinat_37"
+            },
+            {
+              "end": 51,
+              "id": "1985041752655577088",
+              "start": 42,
+              "username": "ai0ai444"
+            },
+            {
+              "end": 64,
+              "id": "1491722590238703617",
+              "start": 52,
+              "username": "Hane_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993556927096537319",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993511210093101347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi @Azhi967806 @Determinat_37 @ai0ai444 @Hane_Kokoro 啊啊啊哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993511201188544513"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "1993511210093101347",
+        "created_at": "2025-11-26T02:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T03:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993511210093101347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "1715212387869962240",
+              "start": 22,
+              "username": "Azhi967806"
+            },
+            {
+              "end": 45,
+              "id": "1569279849126297602",
+              "start": 34,
+              "username": "shkuiiiiii"
+            },
+            {
+              "end": 66,
+              "id": "1802024392391802880",
+              "start": 52,
+              "username": "Determinat_37"
+            },
+            {
+              "end": 82,
+              "id": "1985041752655577088",
+              "start": 73,
+              "username": "ai0ai444"
+            },
+            {
+              "end": 95,
+              "id": "1491722590238703617",
+              "start": 83,
+              "username": "Hane_Kokoro"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infintytweet.me/family-tree?la…",
+              "end": 123,
+              "expanded_url": "https://infintytweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1992426624772685824/tS2_mcNg?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1992426624772685824/tS2_mcNg?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 100,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infintytweet.me/family-tree?lang=zh",
+              "url": "https://t.co/qSYkEdKCgc"
+            },
+            {
+              "display_url": "pic.x.com/BqjDA9O03r",
+              "end": 147,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1993511210093101347/photo/1",
+              "media_key": "3_1993511201188544513",
+              "start": 124,
+              "url": "https://t.co/BqjDA9O03r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993511210093101347",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @Azhi967806 @shkuiiiiii\n👰 配偶: @Determinat_37\n👶 孩子: @ai0ai444 @Hane_Kokoro\n\n➡️ https://t.co/qSYkEdKCgc https://t.co/BqjDA9O03r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 我喜歡看碎碎念，我們來互fo吧…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 49,
+          "like_count": 4108,
+          "listed_count": 2,
+          "media_count": 187,
+          "tweet_count": 797
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 264,
+          "like_count": 1788,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 442
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-20T03:45:14.000Z",
+        "description": "hi   精神疾病/od/自傷/我的猫 \n請和我互fo",
+        "id": "1715212387869962240",
+        "location": "0.7km",
+        "name": "AzMaoTiTao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984296735653666816/YN77fCIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 86,
+          "like_count": 1128,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 66
+        },
+        "username": "Azhi967806",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T17:04:47.000Z",
+        "description": "乱发乱写乱七八糟",
+        "id": "1802024392391802880",
+        "name": "樂( ◜‿◝ )♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906817971940728832/i4eSccJ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 653,
+          "like_count": 5735,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 2041
+        },
+        "username": "Determinat_37",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-02T17:50:27.000Z",
+        "description": "07｜抑郁焦虑｜泛｜友女友跨反男反这个世界｜看成分互fo（也可以私信d我）｜性别不详｜高活跃高强度在线｜喜欢和女孩子聊天🥰🥰",
+        "id": "1985041752655577088",
+        "location": "普瑞巴林",
+        "name": "每天都得哄自己活着👾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987033837038411780/vt9DddaU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 101,
+          "like_count": 1009,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 245
+        },
+        "username": "ai0ai444",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T10:36:09.000Z",
+        "description": "可以称我小羽/心酱，大学生\n主推秦心，21号，小豆沢心羽。\n沙盒，音游（烤，osu），二游，大战略，肉鸽。\n本人非常杂食，各种tag都能接受，但是讨厌人身攻击。\n欢迎互fo，扩列可私聊。\nhttps://t.co/4QB4biRPvf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hane_kokoro",
+                "end": 117,
+                "expanded_url": "http://ngl.link/hane_kokoro",
+                "start": 94,
+                "url": "https://t.co/4QB4biRPvf"
+              }
+            ]
+          }
+        },
+        "id": "1491722590238703617",
+        "name": "心之羽",
+        "pinned_tweet_id": "1984775104698728634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788525712082980865/yag6f-JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 521,
+          "like_count": 18259,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 2640
+        },
+        "username": "Hane_Kokoro",
+        "verified": false
+      }
+    ]
+  }
+}

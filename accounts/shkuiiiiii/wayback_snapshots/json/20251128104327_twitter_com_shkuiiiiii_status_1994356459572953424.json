@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1994356459572953424",
+    "created_at": "2025-11-28T10:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T11:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994356459572953424"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1994356459572953424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好累，，，，，，，，，，還是死了好吧，心好累啊好想歐弟，感覺好多事情都好糟糕，難不成因為我今天沒出門？？感覺現在自己像一具平靜的屍體，當屍體也好無聊的，其實小苟的工作是跑龍套！！！小苟跑龍套可是很強的喲~☆我在説啥啊喂！對吧就是好累好想死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1994356459572953424",
+        "created_at": "2025-11-28T10:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994356459572953424"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994356459572953424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好累，，，，，，，，，，還是死了好吧，心好累啊好想歐弟，感覺好多事情都好糟糕，難不成因為我今天沒出門？？感覺現在自己像一具平靜的屍體，當屍體也好無聊的，其實小苟的工作是跑龍套！！！小苟跑龍套可是很強的喲~☆我在説啥啊喂！對吧就是好累好想死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994300924265914368/HW_9esMV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 56,
+          "like_count": 4666,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 961
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

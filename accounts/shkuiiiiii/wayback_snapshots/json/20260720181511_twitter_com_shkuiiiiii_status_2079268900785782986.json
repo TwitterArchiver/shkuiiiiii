@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2079263958826139799",
+    "created_at": "2026-07-20T18:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T19:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079268900785782986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1772911113996496896",
+          "start": 0,
+          "username": "gan623337788673"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079268900785782986",
+    "in_reply_to_user_id": "1772911113996496896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079263958826139799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gan623337788673 我也是……中间什么的完全正确啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2079263958826139799",
+        "created_at": "2026-07-20T18:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079268900785782986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1772911113996496896",
+              "start": 0,
+              "username": "gan623337788673"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079268900785782986",
+        "in_reply_to_user_id": "1772911113996496896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079263958826139799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gan623337788673 我也是……中间什么的完全正确啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772911113996496896",
+        "conversation_id": "2079263958826139799",
+        "created_at": "2026-07-20T17:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079263958826139799"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079263958826139799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下班回来的路上止不住的哭，我只能发出啊啊的丑陋哭声。我做的努力永远都不会被人看见，我摸鱼偷懒就被人吊，我真的好累，麻木抖动伴着我的每天，对我来说活着是比死痛苦百倍的事情，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 然后贱人死开 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuureikoinu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuureikoinu",
+                "start": 0,
+                "url": "https://t.co/x3tImtkrnU"
+              }
+            ]
+          }
+        },
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "2066441052245176824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077672933875703808/mSc_uFvl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 92,
+          "like_count": 13501,
+          "listed_count": 3,
+          "media_count": 315,
+          "tweet_count": 2438
+        },
+        "url": "https://t.co/x3tImtkrnU",
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T08:59:03.000Z",
+        "description": "无人在意，世间美好全与我无关。",
+        "id": "1772911113996496896",
+        "name": "整容之后还是丑就去死",
+        "pinned_tweet_id": "1953475904153268434",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 930,
+          "like_count": 9650,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 5004
+        },
+        "url": "",
+        "username": "gan623337788673",
+        "verified": false
+      }
+    ]
+  }
+}

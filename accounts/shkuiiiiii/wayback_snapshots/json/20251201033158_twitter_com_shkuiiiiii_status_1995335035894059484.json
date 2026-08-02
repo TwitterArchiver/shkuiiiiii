@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1995119115464290657",
+    "created_at": "2025-12-01T03:31:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T04:31:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995335035894059484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1835112020007596032",
+          "start": 0,
+          "username": "ManTian99501"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995335035894059484",
+    "in_reply_to_user_id": "1835112020007596032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995333587231776850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ManTian99501 嘿嘿！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1995119115464290657",
+        "created_at": "2025-12-01T03:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T04:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995335035894059484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1835112020007596032",
+              "start": 0,
+              "username": "ManTian99501"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995335035894059484",
+        "in_reply_to_user_id": "1835112020007596032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995333587231776850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ManTian99501 嘿嘿！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835112020007596032",
+        "conversation_id": "1995119115464290657",
+        "created_at": "2025-12-01T03:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T04:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995333587231776850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995333587231776850",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995119115464290657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 哇哇，好帅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1994360240175771669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994300924265914368/HW_9esMV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 58,
+          "like_count": 5814,
+          "listed_count": 4,
+          "media_count": 210,
+          "tweet_count": 1159
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T00:23:18.000Z",
+        "description": "这里是天滿/网络幽灵/社恐/女高/姛/欢迎可爱推U和我交朋友（？）",
+        "id": "1835112020007596032",
+        "location": "China",
+        "name": "天滿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993243491418488833/02AC6Wlf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 1164,
+          "like_count": 6619,
+          "listed_count": 3,
+          "media_count": 115,
+          "tweet_count": 731
+        },
+        "username": "ManTian99501",
+        "verified": false
+      }
+    ]
+  }
+}

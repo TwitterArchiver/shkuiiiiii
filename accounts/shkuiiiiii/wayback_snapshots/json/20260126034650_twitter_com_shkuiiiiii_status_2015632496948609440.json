@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2015620241964089813",
+    "created_at": "2026-01-26T03:46:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T04:46:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015632496948609440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1936091086470193152",
+          "start": 0,
+          "username": "yui1225love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015632496948609440",
+    "in_reply_to_user_id": "1936091086470193152",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015626412108153260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yui1225love 😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2015620241964089813",
+        "created_at": "2026-01-26T03:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T04:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015632496948609440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1936091086470193152",
+              "start": 0,
+              "username": "yui1225love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015632496948609440",
+        "in_reply_to_user_id": "1936091086470193152",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015626412108153260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yui1225love 😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936091086470193152",
+        "conversation_id": "2015620241964089813",
+        "created_at": "2026-01-26T03:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T04:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015626412108153260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015626412108153260",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015620434482577674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 小钰也是！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 81,
+          "like_count": 9788,
+          "listed_count": 4,
+          "media_count": 238,
+          "tweet_count": 1726
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-20T15:58:54.000Z",
+        "description": "碎碎念，偶尔搞同人♡我喜欢可爱的女孩子，请和我互fo！♡我不会对药效期间任何言论和行为负责♡私信被吞没回可以在置顶提醒一下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yui1225love?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/yui1225love?igsh=MWZmYmttbml4Nm40aA==",
+                "start": 0,
+                "url": "https://t.co/5R7R0p3v6t"
+              }
+            ]
+          }
+        },
+        "id": "1936091086470193152",
+        "location": "纯绿🚪赞赏码52好友位，88聊天",
+        "name": "这里没有你要找的好小兔",
+        "pinned_tweet_id": "2014691800724681025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008196339608244224/gwKTHD6O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 84,
+          "like_count": 514,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 720
+        },
+        "url": "https://t.co/5R7R0p3v6t",
+        "username": "yui1225love",
+        "verified": false
+      }
+    ]
+  }
+}

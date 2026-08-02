@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992190662897545216"
+      ],
+      "media_source_tweet_id": [
+        "1992190675929161954"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "conversation_id": "1992530513702347057",
+    "created_at": "2025-11-23T09:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T10:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992530513702347057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1837006133900554240",
+          "start": 3,
+          "username": "xiaoxiong0921"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7mqIVjAWe4",
+          "end": 59,
+          "expanded_url": "https://x.com/xiaoxiong0921/status/1992190675929161954/photo/1",
+          "media_key": "3_1992190662897545216",
+          "start": 36,
+          "url": "https://t.co/7mqIVjAWe4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992530513702347057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992190675929161954",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoxiong0921: 人一旦有了在意的人就会变成神经病 https://t.co/7mqIVjAWe4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 858,
+        "media_key": "3_1992190662897545216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Wu2lLbsAAJ0bl.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992190662897545216"
+          ],
+          "media_source_tweet_id": [
+            "1992190675929161954"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "1992530513702347057",
+        "created_at": "2025-11-23T09:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T10:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992530513702347057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1837006133900554240",
+              "start": 3,
+              "username": "xiaoxiong0921"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7mqIVjAWe4",
+              "end": 59,
+              "expanded_url": "https://x.com/xiaoxiong0921/status/1992190675929161954/photo/1",
+              "media_key": "3_1992190662897545216",
+              "start": 36,
+              "url": "https://t.co/7mqIVjAWe4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992530513702347057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992190675929161954",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoxiong0921: 人一旦有了在意的人就会变成神经病 https://t.co/7mqIVjAWe4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992190662897545216"
+          ]
+        },
+        "author_id": "1837006133900554240",
+        "conversation_id": "1992190675929161954",
+        "created_at": "2025-11-22T11:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T12:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992190675929161954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7mqIVjAWe4",
+              "end": 40,
+              "expanded_url": "https://x.com/xiaoxiong0921/status/1992190675929161954/photo/1",
+              "media_key": "3_1992190662897545216",
+              "start": 17,
+              "url": "https://t.co/7mqIVjAWe4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992190675929161954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9327,
+          "like_count": 297,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "人一旦有了在意的人就会变成神经病 https://t.co/7mqIVjAWe4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 我喜歡看碎碎念，我們來互fo吧…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 59,
+          "like_count": 3680,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 724
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T05:49:34.000Z",
+        "description": "ISFJ｜金牛｜可爱小宝宝请和我互fo｜搬运求打码｜推广自辨❗️｜小宝宝@318430lzy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "318430lzy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E7%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E7%86%8A31584",
+                "start": 0,
+                "url": "https://t.co/mTOxnDXNma"
+              }
+            ]
+          }
+        },
+        "id": "1837006133900554240",
+        "location": "匿名👉🏻",
+        "name": "小熊（老公站街我数钱）",
+        "pinned_tweet_id": "1980299904649224199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991430540373946373/0euhtd5p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1643,
+          "following_count": 92,
+          "like_count": 20753,
+          "listed_count": 4,
+          "media_count": 415,
+          "tweet_count": 7820
+        },
+        "url": "https://t.co/mTOxnDXNma",
+        "username": "xiaoxiong0921",
+        "verified": false
+      }
+    ]
+  }
+}

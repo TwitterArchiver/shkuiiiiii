@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1995226754601124347",
+    "created_at": "2025-12-01T12:22:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T13:22:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995468646093648065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1867755654070349824",
+          "start": 0,
+          "username": "zezhe463149"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995468646093648065",
+    "in_reply_to_user_id": "1867755654070349824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995226754601124347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zezhe463149 来蹭蹭（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1995226754601124347",
+        "created_at": "2025-12-01T12:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T13:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995468646093648065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1867755654070349824",
+              "start": 0,
+              "username": "zezhe463149"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995468646093648065",
+        "in_reply_to_user_id": "1867755654070349824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995226754601124347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zezhe463149 来蹭蹭（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867755654070349824",
+        "conversation_id": "1995226754601124347",
+        "created_at": "2025-11-30T20:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T21:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995226754601124347"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995226754601124347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发现新互关→上去蹭蹭→关注人数约等于粉丝人数→有点急死先去自杀了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1995351151437656263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995433565438504961/bd-6nfSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 59,
+          "like_count": 5944,
+          "listed_count": 4,
+          "media_count": 210,
+          "tweet_count": 1181
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-14T02:17:45.000Z",
+        "description": "尸块上开满柔软的小花/23岁男生/疑似精分/名字叫一心，或折言都OK",
+        "id": "1867755654070349824",
+        "location": "乐园",
+        "name": "饿了么",
+        "pinned_tweet_id": "1994444254114898125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993358549531918336/9IMsYD3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 245,
+          "like_count": 9749,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 6861
+        },
+        "username": "zezhe463149",
+        "verified": false
+      }
+    ]
+  }
+}

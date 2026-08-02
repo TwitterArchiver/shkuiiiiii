@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1994645412305903616"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "conversation_id": "1994645450562179433",
+    "created_at": "2025-11-29T05:51:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T06:51:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994645450562179433"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IMJFGeozn8",
+          "end": 37,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1994645450562179433/video/1",
+          "media_key": "7_1994645412305903616",
+          "start": 14,
+          "url": "https://t.co/IMJFGeozn8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994645450562179433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好像學會了新的濾鏡……！ https://t.co/IMJFGeozn8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5231,
+        "height": 960,
+        "media_key": "7_1994645412305903616",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1994645412305903616/pu/img/f-xoWOuti73VfQaX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994645412305903616/pu/vid/avc1/320x426/LTqOV953NznWTd2v.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994645412305903616/pu/vid/avc1/480x640/b0fE-FlWocmway6q.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994645412305903616/pu/vid/avc1/720x960/PcKLFH_j6T7mEcj1.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1994645412305903616/pu/pl/GEOWTJvSfieOTbE8.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1994645412305903616"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "1994645450562179433",
+        "created_at": "2025-11-29T05:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T06:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994645450562179433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IMJFGeozn8",
+              "end": 37,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1994645450562179433/video/1",
+              "media_key": "7_1994645412305903616",
+              "start": 14,
+              "url": "https://t.co/IMJFGeozn8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994645450562179433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好像學會了新的濾鏡……！ https://t.co/IMJFGeozn8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1994360240175771669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994300924265914368/HW_9esMV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 58,
+          "like_count": 4955,
+          "listed_count": 3,
+          "media_count": 199,
+          "tweet_count": 1024
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

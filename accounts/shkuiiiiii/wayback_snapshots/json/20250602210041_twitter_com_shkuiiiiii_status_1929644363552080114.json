@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1929644363552080114",
+    "created_at": "2025-06-02T21:00:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T22:00:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929644363552080114"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1929644363552080114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想來其實自己懶得記錄或者記錄少的幸福都是因為覺得這很日常這以後都會這樣的以後你們都會陪我一起走過但是事實完全不是這樣唉！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1929644363552080114",
+        "created_at": "2025-06-02T21:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T22:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929644363552080114"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929644363552080114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想來其實自己懶得記錄或者記錄少的幸福都是因為覺得這很日常這以後都會這樣的以後你們都會陪我一起走過但是事實完全不是這樣唉！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 52,
+          "like_count": 2776,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 511
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

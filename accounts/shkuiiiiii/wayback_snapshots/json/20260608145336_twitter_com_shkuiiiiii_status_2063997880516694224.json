@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063997877211553792"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2063997880516694224",
+    "created_at": "2026-06-08T14:53:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:53:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063997880516694224"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Cc35oJjwi",
+          "end": 33,
+          "expanded_url": "https://x.com/shkuiiiiii/status/2063997880516694224/photo/1",
+          "media_key": "3_2063997877211553792",
+          "start": 10,
+          "url": "https://t.co/7Cc35oJjwi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063997880516694224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "抽利群竟然感覺沒味 https://t.co/7Cc35oJjwi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2063997877211553792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTLIkBa4AAiKtT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063997877211553792"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063997880516694224",
+        "created_at": "2026-06-08T14:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063997880516694224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Cc35oJjwi",
+              "end": 33,
+              "expanded_url": "https://x.com/shkuiiiiii/status/2063997880516694224/photo/1",
+              "media_key": "3_2063997877211553792",
+              "start": 10,
+              "url": "https://t.co/7Cc35oJjwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063997880516694224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抽利群竟然感覺沒味 https://t.co/7Cc35oJjwi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuureikoinu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuureikoinu",
+                "start": 0,
+                "url": "https://t.co/x3tImtkrnU"
+              }
+            ]
+          }
+        },
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "2063643205296672984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063646077333757952/dJ2jH7Df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 93,
+          "like_count": 12840,
+          "listed_count": 3,
+          "media_count": 296,
+          "tweet_count": 2293
+        },
+        "url": "https://t.co/x3tImtkrnU",
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

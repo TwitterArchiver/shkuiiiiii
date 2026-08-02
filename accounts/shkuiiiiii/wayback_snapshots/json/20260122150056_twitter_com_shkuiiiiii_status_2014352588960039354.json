@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2014059472285798815",
+    "created_at": "2026-01-22T15:00:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T16:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014352588960039354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1683336055737712640",
+          "start": 0,
+          "username": "fireballsheep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014352588960039354",
+    "in_reply_to_user_id": "1683336055737712640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014301091647684759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fireballsheep 超開心😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2014059472285798815",
+        "created_at": "2026-01-22T15:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T16:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014352588960039354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1683336055737712640",
+              "start": 0,
+              "username": "fireballsheep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014352588960039354",
+        "in_reply_to_user_id": "1683336055737712640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014301091647684759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fireballsheep 超開心😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683336055737712640",
+        "conversation_id": "2014059472285798815",
+        "created_at": "2026-01-22T11:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T12:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014301091647684759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014301091647684759",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014280809793147179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 要是让小苟感到开心就好啦ヾ(^▽^*)))"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 80,
+          "like_count": 9111,
+          "listed_count": 4,
+          "media_count": 235,
+          "tweet_count": 1602
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T04:39:39.000Z",
+        "description": "神灯神灯，我希望世界和平……我希望消除世上的病痛…………不是你咋啥都实现不了，你这灯是地摊淘来的吧，那我希望每个人都能开开心心的度过每一天，当个事办知道吗",
+        "id": "1683336055737712640",
+        "name": "lu",
+        "pinned_tweet_id": "2012940776225812793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683336296603983873/NY61UJs7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 162,
+          "like_count": 674,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 293
+        },
+        "username": "fireballsheep",
+        "verified": false
+      }
+    ]
+  }
+}

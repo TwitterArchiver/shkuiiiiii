@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1995165097443131850",
+    "created_at": "2025-11-30T16:16:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T17:16:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995165097443131850"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1995165097443131850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 98,
+      "like_count": 9,
+      "quote_count": 0,
+      "reply_count": 4,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "十二月了鵝藻稱馮！！！這個月小苟決定好好去学畫畫，這個月小苟要好好攢錢。。。其實小苟从很早之前就説要去學畫畫了但是一直不敢去，害怕社交害怕老師害怕和我一起畫畫的人，臥槽好可怕，好可怕我真的跨不出去！好恐懼……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1995165097443131850",
+        "created_at": "2025-11-30T16:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T17:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995165097443131850"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995165097443131850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "十二月了鵝藻稱馮！！！這個月小苟決定好好去学畫畫，這個月小苟要好好攢錢。。。其實小苟从很早之前就説要去學畫畫了但是一直不敢去，害怕社交害怕老師害怕和我一起畫畫的人，臥槽好可怕，好可怕我真的跨不出去！好恐懼……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1994360240175771669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994300924265914368/HW_9esMV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 58,
+          "like_count": 5680,
+          "listed_count": 4,
+          "media_count": 207,
+          "tweet_count": 1134
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

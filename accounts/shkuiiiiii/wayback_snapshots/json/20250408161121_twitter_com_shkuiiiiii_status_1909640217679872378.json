@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1909640217679872378",
+    "created_at": "2025-04-08T16:11:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T17:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1909640217679872378"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1909640217679872378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "4.8\n今天早上九點多起床和爸媽一起去掃墓了，這天真的很熱有三十度，我坐我爸車的副駕駛然後車裡開空調就很涼快。然後就回去了 晚上又出去一共走了一萬步，買了四盒藍莓，明天去溧陽住酒店，期待&lt;(￣3￣)&gt;"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1909640217679872378",
+        "created_at": "2025-04-08T16:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T17:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909640217679872378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909640217679872378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "4.8\n今天早上九點多起床和爸媽一起去掃墓了，這天真的很熱有三十度，我坐我爸車的副駕駛然後車裡開空調就很涼快。然後就回去了 晚上又出去一共走了一萬步，買了四盒藍莓，明天去溧陽住酒店，期待&lt;(￣3￣)&gt;"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "我是小苟 粉紅滾",
+        "id": "1569279849126297602",
+        "name": "彼岸花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907095324143050752/gQyLnEz5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 27,
+          "like_count": 2191,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 360
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

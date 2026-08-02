@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1909939016205840657",
+    "created_at": "2025-04-09T11:58:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T12:58:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1909939016205840657"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1909939016205840657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天吃的有點多，估計有一千多卡了，明天能不能瘦呢？但是我在酒店體重秤不太准"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1909939016205840657",
+        "created_at": "2025-04-09T11:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T12:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909939016205840657"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909939016205840657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天吃的有點多，估計有一千多卡了，明天能不能瘦呢？但是我在酒店體重秤不太准"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "我是小苟 粉紅滾",
+        "id": "1569279849126297602",
+        "name": "彼岸花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907095324143050752/gQyLnEz5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 27,
+          "like_count": 2202,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 365
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

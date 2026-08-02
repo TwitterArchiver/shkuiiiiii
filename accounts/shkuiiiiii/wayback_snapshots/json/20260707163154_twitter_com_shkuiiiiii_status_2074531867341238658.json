@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2074529703520776310",
+    "created_at": "2026-07-07T16:31:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T17:31:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074531867341238658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1795435473537478656",
+          "start": 0,
+          "username": "k2993998281667"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074531867341238658",
+    "in_reply_to_user_id": "1795435473537478656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074529703520776310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k2993998281667 换号请发我，我会看你的说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2074529703520776310",
+        "created_at": "2026-07-07T16:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074531867341238658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1795435473537478656",
+              "start": 0,
+              "username": "k2993998281667"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074531867341238658",
+        "in_reply_to_user_id": "1795435473537478656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074529703520776310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k2993998281667 换号请发我，我会看你的说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795435473537478656",
+        "conversation_id": "2074529703520776310",
+        "created_at": "2026-07-07T16:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074529703520776310"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074529703520776310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个号好像有点问题准备换一个了，虽然也没人会看我的说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 然后贱人死开 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuureikoinu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuureikoinu",
+                "start": 0,
+                "url": "https://t.co/x3tImtkrnU"
+              }
+            ]
+          }
+        },
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "2066441052245176824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063646077333757952/dJ2jH7Df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 92,
+          "like_count": 13320,
+          "listed_count": 3,
+          "media_count": 307,
+          "tweet_count": 2389
+        },
+        "url": "https://t.co/x3tImtkrnU",
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T12:42:38.000Z",
+        "description": "把推当日记发\nod ow\n欢迎找我玩lgbt友好",
+        "id": "1795435473537478656",
+        "name": "Testament Love❤️",
+        "pinned_tweet_id": "2055059313253900706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991747316735488000/l9lvbbEA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 102,
+          "like_count": 2671,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 961
+        },
+        "url": "",
+        "username": "k2993998281667",
+        "verified": false
+      }
+    ]
+  }
+}

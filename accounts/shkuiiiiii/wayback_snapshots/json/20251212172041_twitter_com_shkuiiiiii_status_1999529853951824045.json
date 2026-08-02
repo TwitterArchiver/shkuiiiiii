@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1999529126672175460",
+    "created_at": "2025-12-12T17:20:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T18:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999529853951824045"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1999529853951824045",
+    "in_reply_to_user_id": "1569279849126297602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999529126672175460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "然後我就掉粉了🌚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1999529110880813058",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7_BIeQagAIoSiA.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 2340,
+        "height": 960,
+        "media_key": "7_1999529100046925825",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1999529100046925825/pu/img/ZuK3Q_z3wXH5Urwy.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1999529100046925825/pu/vid/avc1/320x426/wFrBe49BPdSwR0L9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1999529100046925825/pu/vid/avc1/480x640/TI1Ja1dxzbGUqGdk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1999529100046925825/pu/vid/avc1/720x960/V9Dfm9aLNfC67pHp.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1999529100046925825/pu/pl/YeGq967uKq_S8MHu.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1999529126672175460",
+        "created_at": "2025-12-12T17:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T18:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999529853951824045"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999529853951824045",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999529126672175460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然後我就掉粉了🌚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999529110880813058",
+            "7_1999529100046925825"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1999529126672175460",
+        "created_at": "2025-12-12T17:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T18:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999529126672175460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iSBUm2Yntk",
+              "end": 76,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1999529126672175460/video/1",
+              "media_key": "3_1999529110880813058",
+              "start": 53,
+              "url": "https://t.co/iSBUm2Yntk"
+            },
+            {
+              "display_url": "pic.x.com/iSBUm2Yntk",
+              "end": 76,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1999529126672175460/video/1",
+              "media_key": "7_1999529100046925825",
+              "start": 53,
+              "url": "https://t.co/iSBUm2Yntk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999529126672175460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天一天都沒上推！！！我相信一段時間后我會回來繼續活躍的你們不要取關我😭😭😭順便給你們看看我的號😏😏😏 https://t.co/iSBUm2Yntk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995433565438504961/bd-6nfSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 66,
+          "like_count": 6951,
+          "listed_count": 4,
+          "media_count": 221,
+          "tweet_count": 1320
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

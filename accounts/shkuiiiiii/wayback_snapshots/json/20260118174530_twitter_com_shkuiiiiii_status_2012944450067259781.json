@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2012944450067259781",
+    "created_at": "2026-01-18T17:45:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T18:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012944450067259781"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NIKKE0522/stat…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/NIKKE0522/status/1992259742815895820",
+          "start": 28,
+          "url": "https://t.co/OzT13i818k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012944450067259781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992259742815895820",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我從小紅書上刷到的這條推特，這也太好看了我也要模仿一個 https://t.co/OzT13i818k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992259735379415041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6XtrIOakAEiN1c.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2012944450067259781",
+        "created_at": "2026-01-18T17:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T18:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012944450067259781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NIKKE0522/stat…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/NIKKE0522/status/1992259742815895820",
+              "start": 28,
+              "url": "https://t.co/OzT13i818k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012944450067259781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992259742815895820",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我從小紅書上刷到的這條推特，這也太好看了我也要模仿一個 https://t.co/OzT13i818k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992259735379415041"
+          ]
+        },
+        "author_id": "1919315510258536448",
+        "conversation_id": "1992259742815895820",
+        "created_at": "2025-11-22T15:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T16:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992259742815895820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RxExsNiMEy",
+              "end": 49,
+              "expanded_url": "https://x.com/NIKKE0522/status/1992259742815895820/photo/1",
+              "media_key": "3_1992259735379415041",
+              "start": 26,
+              "url": "https://t.co/RxExsNiMEy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992259742815895820",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 304,
+          "impression_count": 94565,
+          "like_count": 3632,
+          "quote_count": 13,
+          "reply_count": 19,
+          "retweet_count": 214
+        },
+        "reply_settings": "everyone",
+        "text": "ちょっと缶バッジが持つ時邪魔だけど見た目は割と好き https://t.co/RxExsNiMEy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 73,
+          "like_count": 8597,
+          "listed_count": 4,
+          "media_count": 231,
+          "tweet_count": 1506
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T08:57:41.000Z",
+        "description": "NIKKE、ヒロアカ、チェンソーマン、呪術廻戦、ドラゴンボール、オタク垢 無言フォロー失礼します",
+        "id": "1919315510258536448",
+        "name": "たか",
+        "pinned_tweet_id": "1919402396922573201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919318802468397056/fguvU_AO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 1583,
+          "like_count": 6296,
+          "listed_count": 2,
+          "media_count": 236,
+          "tweet_count": 788
+        },
+        "username": "NIKKE0522",
+        "verified": false
+      }
+    ]
+  }
+}

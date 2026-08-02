@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1993174863608234471",
+    "created_at": "2025-11-25T07:28:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T08:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993220355620848081"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 11,
+          "normalized_text": "萌耶",
+          "probability": 0.7897,
+          "start": 10,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1854926783369691139",
+          "start": 0,
+          "username": "yu120160"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993220355620848081",
+    "in_reply_to_user_id": "1854926783369691139",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993174863608234471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu120160 萌耶！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993174859741118466",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6kt-YIbwAIlwgR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1993174863608234471",
+        "created_at": "2025-11-25T07:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T08:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993220355620848081"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "萌耶",
+              "probability": 0.7897,
+              "start": 10,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1854926783369691139",
+              "start": 0,
+              "username": "yu120160"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993220355620848081",
+        "in_reply_to_user_id": "1854926783369691139",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993174863608234471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu120160 萌耶！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993174859741118466"
+          ]
+        },
+        "author_id": "1854926783369691139",
+        "conversation_id": "1993174863608234471",
+        "created_at": "2025-11-25T04:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T05:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993174863608234471"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 5,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "地雷系"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o5wMyA8Fiv",
+              "end": 40,
+              "expanded_url": "https://x.com/yu120160/status/1993174863608234471/photo/1",
+              "media_key": "3_1993174859741118466",
+              "start": 17,
+              "url": "https://t.co/o5wMyA8Fiv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993174863608234471",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 343,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🩵🩷🩵🩷 #自撮り界隈 #地雷系 https://t.co/o5wMyA8Fiv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 我喜歡看碎碎念，我們來互fo吧…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 68,
+          "like_count": 3802,
+          "listed_count": 2,
+          "media_count": 184,
+          "tweet_count": 755
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T16:40:16.000Z",
+        "description": "地雷系/東方project/仮面ライダ/初音ミク/……\n同类互fo",
+        "id": "1854926783369691139",
+        "location": "空无一人之地",
+        "name": "xx酱",
+        "pinned_tweet_id": "1988989118060343643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988313851788775424/X395DJHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 90,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 191
+        },
+        "username": "yu120160",
+        "verified": false
+      }
+    ]
+  }
+}

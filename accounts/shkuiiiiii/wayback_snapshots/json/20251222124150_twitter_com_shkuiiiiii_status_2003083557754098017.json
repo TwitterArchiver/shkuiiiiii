@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2002861074681590255",
+    "created_at": "2025-12-22T12:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T13:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003083557754098017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1739591003559088128",
+          "start": 0,
+          "username": "ShiYou62377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003083557754098017",
+    "in_reply_to_user_id": "1739591003559088128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002861074681590255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiYou62377 太美/帥/萌了！（請自行選擇）！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2002861048186171392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8uXgv-acAAieD6.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2002861048194572289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8uXgwAaoAEpbvj.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2002861074681590255",
+        "created_at": "2025-12-22T12:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T13:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003083557754098017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1739591003559088128",
+              "start": 0,
+              "username": "ShiYou62377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003083557754098017",
+        "in_reply_to_user_id": "1739591003559088128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002861074681590255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiYou62377 太美/帥/萌了！（請自行選擇）！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002861048186171392",
+            "3_2002861048194572289"
+          ]
+        },
+        "author_id": "1739591003559088128",
+        "conversation_id": "2002861074681590255",
+        "created_at": "2025-12-21T21:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T22:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002861074681590255"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "SallyFace"
+            },
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "Sal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eR80PJvhwQ",
+              "end": 49,
+              "expanded_url": "https://x.com/ShiYou62377/status/2002861074681590255/photo/1",
+              "media_key": "3_2002861048186171392",
+              "start": 26,
+              "url": "https://t.co/eR80PJvhwQ"
+            },
+            {
+              "display_url": "pic.x.com/eR80PJvhwQ",
+              "end": 49,
+              "expanded_url": "https://x.com/ShiYou62377/status/2002861074681590255/photo/1",
+              "media_key": "3_2002861048194572289",
+              "start": 26,
+              "url": "https://t.co/eR80PJvhwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002861074681590255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#SallyFace #Sal 我调了很久的滤镜。 https://t.co/eR80PJvhwQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001211153033388032/PHdmuDXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 69,
+          "like_count": 7310,
+          "listed_count": 4,
+          "media_count": 226,
+          "tweet_count": 1380
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-26T10:16:37.000Z",
+        "description": "可以叫我小沋｜当朋友圈发的啦啦啦啦 ｜谢谢你们对我感兴趣！ ｜欢迎互fo呀！｜下方提问箱欢迎随时提问呀！｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%B2%8B",
+                "start": 0,
+                "url": "https://t.co/l2NtAain6j"
+              }
+            ]
+          }
+        },
+        "id": "1739591003559088128",
+        "location": "天堂",
+        "name": "十沋",
+        "pinned_tweet_id": "1993281196500103343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997565975798161409/NJN3TPw2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 50,
+          "like_count": 2211,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 574
+        },
+        "url": "https://t.co/l2NtAain6j",
+        "username": "ShiYou62377",
+        "verified": false
+      }
+    ]
+  }
+}

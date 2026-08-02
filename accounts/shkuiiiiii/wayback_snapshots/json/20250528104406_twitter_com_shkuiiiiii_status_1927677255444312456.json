@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1927634985433071616"
+      ],
+      "media_source_tweet_id": [
+        "1927635088797511864"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "conversation_id": "1927677255444312456",
+    "created_at": "2025-05-28T10:44:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T11:44:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927677255444312456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1909553877739085825",
+          "start": 3,
+          "username": "Tokyo8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G4PXs4UKTA",
+          "end": 50,
+          "expanded_url": "https://x.com/Tokyo8964/status/1927635088797511864/video/1",
+          "media_key": "13_1927634985433071616",
+          "start": 27,
+          "url": "https://t.co/G4PXs4UKTA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927677255444312456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927635088797511864",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tokyo8964: 经典老番之打倒日本学校 https://t.co/G4PXs4UKTA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 159731,
+        "height": 1280,
+        "media_key": "13_1927634985433071616",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1927634985433071616/img/SYH7bJ7Pg2D2TrWb.jpg",
+        "public_metrics": {
+          "view_count": 1488
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927634985433071616/vid/avc1/320x568/8rIMlNSLP06PCO3G.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927634985433071616/vid/avc1/480x852/MIO6sHBrBcfpWeC-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927634985433071616/vid/avc1/720x1280/sS_JYDAUIyhoGKj4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1927634985433071616/pl/Qo3wFdWxnUhDSBUB.m3u8?v=02d"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1927634985433071616"
+          ],
+          "media_source_tweet_id": [
+            "1927635088797511864"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "1927677255444312456",
+        "created_at": "2025-05-28T10:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T11:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927677255444312456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1909553877739085825",
+              "start": 3,
+              "username": "Tokyo8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G4PXs4UKTA",
+              "end": 50,
+              "expanded_url": "https://x.com/Tokyo8964/status/1927635088797511864/video/1",
+              "media_key": "13_1927634985433071616",
+              "start": 27,
+              "url": "https://t.co/G4PXs4UKTA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927677255444312456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927635088797511864",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tokyo8964: 经典老番之打倒日本学校 https://t.co/G4PXs4UKTA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1927634985433071616"
+          ]
+        },
+        "author_id": "1909553877739085825",
+        "conversation_id": "1927635088797511864",
+        "created_at": "2025-05-28T07:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T08:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927635088797511864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G4PXs4UKTA",
+              "end": 35,
+              "expanded_url": "https://x.com/Tokyo8964/status/1927635088797511864/video/1",
+              "media_key": "13_1927634985433071616",
+              "start": 12,
+              "url": "https://t.co/G4PXs4UKTA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927635088797511864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 3748,
+          "like_count": 86,
+          "quote_count": 2,
+          "reply_count": 28,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "经典老番之打倒日本学校 https://t.co/G4PXs4UKTA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920921110893522947/Nv5kwqEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 45,
+          "like_count": 2670,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 487
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T10:28:26.000Z",
+        "description": "前b站小世界抽象TV主播，你永远是中国人的发明者 07無💊男娘（不是跨）IP日本東京新宿.成分複雜：鉴证/抽象/二次元/自由主義/民主日本/中華民國/神友🌊/cosplay/LGBTQ🏳️‍🌈/女裝/舞萌吃/永雏塔菲/東雪蓮（互fo扩列请私信可以找我线下交友或🈷️抛 逃生舱@Japan114514258",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "Japan114514258"
+              }
+            ]
+          }
+        },
+        "id": "1909553877739085825",
+        "location": "東京 新宿区",
+        "name": "抽象耶格尔🇯🇵🇹🇼",
+        "pinned_tweet_id": "1927402828684755079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924039138187071488/az9KJ_3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2178,
+          "following_count": 376,
+          "like_count": 492,
+          "listed_count": 8,
+          "media_count": 101,
+          "tweet_count": 202
+        },
+        "username": "Tokyo8964",
+        "verified": false
+      }
+    ]
+  }
+}

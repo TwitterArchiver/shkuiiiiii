@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2019456404327686611",
+    "created_at": "2026-02-25T15:40:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T16:40:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026683704710672481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1970511310485123072",
+          "start": 0,
+          "username": "Wanfengshuoxiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026683704710672481",
+    "in_reply_to_user_id": "1970511310485123072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026623483200094548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wanfengshuoxiao 嗚嗚嗚嗚謝謝梨😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2019456404327686611",
+        "created_at": "2026-02-25T15:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T16:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026683704710672481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970511310485123072",
+              "start": 0,
+              "username": "Wanfengshuoxiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026683704710672481",
+        "in_reply_to_user_id": "1970511310485123072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026623483200094548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanfengshuoxiao 嗚嗚嗚嗚謝謝梨😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970511310485123072",
+        "conversation_id": "2019456404327686611",
+        "created_at": "2026-02-25T11:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T12:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026623483200094548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026623483200094548",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019456404327686611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 新粉发誓永远追随！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "2019456404327686611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 72,
+          "like_count": 11324,
+          "listed_count": 4,
+          "media_count": 252,
+          "tweet_count": 2000
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T15:31:28.000Z",
+        "description": "",
+        "id": "1970511310485123072",
+        "name": "W ke le",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970511444744830976/iWaJ1goX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "Wanfengshuoxiao",
+        "verified": false
+      }
+    ]
+  }
+}

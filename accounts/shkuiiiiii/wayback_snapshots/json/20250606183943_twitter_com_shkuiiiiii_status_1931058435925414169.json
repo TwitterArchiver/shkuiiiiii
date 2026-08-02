@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1931058435925414169",
+    "created_at": "2025-06-06T18:39:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T19:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931058435925414169"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1931058435925414169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "對的我以前暗戀的小男孩現在變成南梁了唉臥槽更喜歡了！但是我連他微信都沒有我衹能在小破站偷偷滴視奸他……我其實很想和小南梁mtf成為朋友哦呵呵呵呵  然後我看他主頁他180/52臥槽太強了 想來我以前喜歡過的小男孩都特別特別瘦，唉我也想當竹節蟲我真的覺得這樣的身材很好看……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1931058435925414169",
+        "created_at": "2025-06-06T18:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T19:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931058435925414169"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931058435925414169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "對的我以前暗戀的小男孩現在變成南梁了唉臥槽更喜歡了！但是我連他微信都沒有我衹能在小破站偷偷滴視奸他……我其實很想和小南梁mtf成為朋友哦呵呵呵呵  然後我看他主頁他180/52臥槽太強了 想來我以前喜歡過的小男孩都特別特別瘦，唉我也想當竹節蟲我真的覺得這樣的身材很好看……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 49,
+          "like_count": 2825,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 528
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1932025980962603462",
+    "created_at": "2025-06-09T10:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T11:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932025980962603462"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1932025980962603462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "別人歐迪朋友說:不要再歐迪了我愛你我不想你受傷不想你難受我不想你歐迪你要永遠陪著我好嗎\n別人歐迪我説:臥槽歐的啥我也要歐我們一起歐我陪你歐！我要囤好多好多葯！\n唉其實我歐迪了告訴朋友我也希望對方陪著我也不用和我一起歐迪反正就一直陪著我就好了……！不要讓我不歐迪我很討厭這種你們懂嗎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1932025980962603462",
+        "created_at": "2025-06-09T10:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T11:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932025980962603462"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932025980962603462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "別人歐迪朋友說:不要再歐迪了我愛你我不想你受傷不想你難受我不想你歐迪你要永遠陪著我好嗎\n別人歐迪我説:臥槽歐的啥我也要歐我們一起歐我陪你歐！我要囤好多好多葯！\n唉其實我歐迪了告訴朋友我也希望對方陪著我也不用和我一起歐迪反正就一直陪著我就好了……！不要讓我不歐迪我很討厭這種你們懂嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 49,
+          "like_count": 2877,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 540
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

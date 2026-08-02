@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970115702947549184",
+        "7_1970115727089926144"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "conversation_id": "1970115745947500728",
+    "created_at": "2025-09-22T13:19:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T14:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970115745947500728"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/b4Bc3MbAVC",
+          "end": 31,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1970115745947500728/video/1",
+          "media_key": "3_1970115702947549184",
+          "start": 8,
+          "url": "https://t.co/b4Bc3MbAVC"
+        },
+        {
+          "display_url": "pic.x.com/b4Bc3MbAVC",
+          "end": 31,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1970115745947500728/video/1",
+          "media_key": "7_1970115727089926144",
+          "start": 8,
+          "url": "https://t.co/b4Bc3MbAVC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970115745947500728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哦呵呵呵呵呵呵 https://t.co/b4Bc3MbAVC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1970115702947549184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1dByzCbkAAXOeD.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 2950,
+        "height": 960,
+        "media_key": "7_1970115727089926144",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1970115727089926144/pu/img/AVCzqwc98X0gcGl_.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1970115727089926144/pu/vid/avc1/320x426/HnUpUyNRN-1wUTr6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1970115727089926144/pu/vid/avc1/480x640/2dg6vaRfhPHuugqf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1970115727089926144/pu/vid/avc1/720x960/YxvgheE1r8twepaM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1970115727089926144/pu/pl/WUiljk-MBFLtxEbK.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970115702947549184",
+            "7_1970115727089926144"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "1970115745947500728",
+        "created_at": "2025-09-22T13:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T14:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970115745947500728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b4Bc3MbAVC",
+              "end": 31,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1970115745947500728/video/1",
+              "media_key": "3_1970115702947549184",
+              "start": 8,
+              "url": "https://t.co/b4Bc3MbAVC"
+            },
+            {
+              "display_url": "pic.x.com/b4Bc3MbAVC",
+              "end": 31,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1970115745947500728/video/1",
+              "media_key": "7_1970115727089926144",
+              "start": 8,
+              "url": "https://t.co/b4Bc3MbAVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970115745947500728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦呵呵呵呵呵呵 https://t.co/b4Bc3MbAVC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 50,
+          "like_count": 3318,
+          "listed_count": 2,
+          "media_count": 188,
+          "tweet_count": 686
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1999049779477954908",
+    "created_at": "2025-12-12T17:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T18:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999527406869131522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1984971479210229760",
+          "start": 0,
+          "username": "Kallen0720"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999527406869131522",
+    "in_reply_to_user_id": "1984971479210229760",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999392857241645403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kallen0720 😖😖😖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1999049779477954908",
+        "created_at": "2025-12-12T17:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T18:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999527406869131522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1984971479210229760",
+              "start": 0,
+              "username": "Kallen0720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999527406869131522",
+        "in_reply_to_user_id": "1984971479210229760",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999392857241645403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kallen0720 😖😖😖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984971479210229760",
+        "conversation_id": "1999049779477954908",
+        "created_at": "2025-12-12T08:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T09:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999392857241645403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999392857241645403",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999049779477954908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 羡慕小情侣😠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995433565438504961/bd-6nfSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 66,
+          "like_count": 6917,
+          "listed_count": 4,
+          "media_count": 219,
+          "tweet_count": 1316
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-02T13:11:14.000Z",
+        "description": "✞ 鏡よ鏡 正直割れたいか?@i7g9f0   我是老保",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 14,
+                "username": "i7g9f0"
+              }
+            ]
+          }
+        },
+        "id": "1984971479210229760",
+        "location": "Earth",
+        "name": "バズバズ迷乱电波",
+        "pinned_tweet_id": "1999314334363844653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993710126172135424/43SLC4iJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 151,
+          "like_count": 5704,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 2147
+        },
+        "username": "Kallen0720",
+        "verified": false
+      }
+    ]
+  }
+}

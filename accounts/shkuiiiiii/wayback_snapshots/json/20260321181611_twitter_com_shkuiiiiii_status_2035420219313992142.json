@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2035361858715320728",
+    "created_at": "2026-03-21T18:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T19:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035420219313992142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974036716727201792",
+          "start": 0,
+          "username": "jilianmeing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035420219313992142",
+    "in_reply_to_user_id": "1974036716727201792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035361858715320728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jilianmeing 我要不行了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2035361858715320728",
+        "created_at": "2026-03-21T18:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T19:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035420219313992142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974036716727201792",
+              "start": 0,
+              "username": "jilianmeing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035420219313992142",
+        "in_reply_to_user_id": "1974036716727201792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035361858715320728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jilianmeing 我要不行了……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974036716727201792",
+        "conversation_id": "2035361858715320728",
+        "created_at": "2026-03-21T14:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T15:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035361858715320728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035361858715320728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 422,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们知道我有多绝望吗 我撞了朋友的屁股 还在纳闷为什么她不撞回来 一看是以前绝交的朋友。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1995791304341495847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 101,
+          "like_count": 12808,
+          "listed_count": 4,
+          "media_count": 270,
+          "tweet_count": 2165
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T09:00:31.000Z",
+        "description": "我会让你幸福的 只要相信我就好 这是不允许世界上有一处反对张元英声音的洋葱头大人 老婆哒人@kumatamasan 是姐姐啊@miaowuqvq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "kumatamasan"
+              },
+              {
+                "end": 72,
+                "start": 62,
+                "username": "miaowuqvq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jilianmeing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jilianmeing",
+                "start": 0,
+                "url": "https://t.co/puTamLGbh5"
+              }
+            ]
+          }
+        },
+        "id": "1974036716727201792",
+        "location": "我还有好多话想说",
+        "name": "我削下来的葱葱头怎么被人装上了假齐刘海",
+        "pinned_tweet_id": "2033474087629226076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997361860912558080/dMZhlN0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 415,
+          "like_count": 39805,
+          "listed_count": 4,
+          "media_count": 1005,
+          "tweet_count": 15589
+        },
+        "url": "https://t.co/puTamLGbh5",
+        "username": "jilianmeing",
+        "verified": false
+      }
+    ]
+  }
+}

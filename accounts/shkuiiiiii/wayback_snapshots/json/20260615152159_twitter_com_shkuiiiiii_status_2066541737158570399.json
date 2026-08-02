@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2066441701175238848",
+    "created_at": "2026-06-15T15:21:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066541737158570399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1631135079140560897",
+          "start": 0,
+          "username": "wangherisunge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066541737158570399",
+    "in_reply_to_user_id": "1631135079140560897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066516322989810052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangherisunge 呜呜呜谢谢鹤鹤！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2066441701175238848",
+        "created_at": "2026-06-15T15:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066541737158570399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1631135079140560897",
+              "start": 0,
+              "username": "wangherisunge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066541737158570399",
+        "in_reply_to_user_id": "1631135079140560897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066516322989810052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangherisunge 呜呜呜谢谢鹤鹤！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1631135079140560897",
+        "conversation_id": "2066441701175238848",
+        "created_at": "2026-06-15T13:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066516322989810052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066516322989810052",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066441701175238848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 加油加油，不过相信哪怕现在他也会很小心翼翼爱护你的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 然后贱人死开 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuureikoinu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuureikoinu",
+                "start": 0,
+                "url": "https://t.co/x3tImtkrnU"
+              }
+            ]
+          }
+        },
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "2066441052245176824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063646077333757952/dJ2jH7Df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 92,
+          "like_count": 12915,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 2318
+        },
+        "url": "https://t.co/x3tImtkrnU",
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-02T03:31:37.000Z",
+        "description": "近海浅滩，或有鹤立\n这里是鹤，希望大家都可以天天开心！天天幸福！\n大家关注我的我都会回关！\n想要一起聊天的可以私信或tg@yizhihe11，纯闲聊哦",
+        "id": "1631135079140560897",
+        "name": "鹤",
+        "pinned_tweet_id": "2066439980684382464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066034590918250497/ld7ZlADe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 42,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 573
+        },
+        "username": "wangherisunge",
+        "verified": true
+      }
+    ]
+  }
+}

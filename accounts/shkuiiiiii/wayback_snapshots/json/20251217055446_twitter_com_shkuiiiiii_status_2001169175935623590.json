@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2001142055544946827",
+    "created_at": "2025-12-17T05:54:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T06:54:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001169175935623590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1837436177433165824",
+          "start": 0,
+          "username": "jougasaki_kkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001169175935623590",
+    "in_reply_to_user_id": "1837436177433165824",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001145153151754672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jougasaki_kkk ～(￣▽￣～)(～￣▽￣)～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2001142055544946827",
+        "created_at": "2025-12-17T05:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T06:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001169175935623590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837436177433165824",
+              "start": 0,
+              "username": "jougasaki_kkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001169175935623590",
+        "in_reply_to_user_id": "1837436177433165824",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001145153151754672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jougasaki_kkk ～(￣▽￣～)(～￣▽￣)～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837436177433165824",
+        "conversation_id": "2001142055544946827",
+        "created_at": "2025-12-17T04:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T05:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001145153151754672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001145153151754672",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001142055544946827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 可愛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995433565438504961/bd-6nfSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 68,
+          "like_count": 7180,
+          "listed_count": 4,
+          "media_count": 223,
+          "tweet_count": 1363
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-21T10:18:25.000Z",
+        "description": "おもろ",
+        "id": "1837436177433165824",
+        "name": "城ヶ崎慶太",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843504303602044928/cAHgoLq1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 206,
+          "like_count": 15025,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 3821
+        },
+        "username": "jougasaki_kkk",
+        "verified": false
+      }
+    ]
+  }
+}

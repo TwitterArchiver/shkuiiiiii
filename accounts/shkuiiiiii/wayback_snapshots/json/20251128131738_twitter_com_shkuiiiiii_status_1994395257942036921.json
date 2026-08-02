@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1994360240175771669",
+    "created_at": "2025-11-28T13:17:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T14:17:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994395257942036921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1764921913380311040",
+          "start": 0,
+          "username": "AolongGao21019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994395257942036921",
+    "in_reply_to_user_id": "1764921913380311040",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994385880824643718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AolongGao21019 (◍ ¤̴̶̷̀ ౪ ¤̴̶̷̀ ◍)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1994360240175771669",
+        "created_at": "2025-11-28T13:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T14:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994395257942036921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1764921913380311040",
+              "start": 0,
+              "username": "AolongGao21019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994395257942036921",
+        "in_reply_to_user_id": "1764921913380311040",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994385880824643718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AolongGao21019 (◍ ¤̴̶̷̀ ౪ ¤̴̶̷̀ ◍)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764921913380311040",
+        "conversation_id": "1994360240175771669",
+        "created_at": "2025-11-28T12:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T13:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994385880824643718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994385880824643718",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994360240175771669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994300924265914368/HW_9esMV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 57,
+          "like_count": 4720,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 975
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T07:53:09.000Z",
+        "description": "找妈妈//业余交易员//业余足球分析//学过两年心理//there are many beauties in twitter//",
+        "id": "1764921913380311040",
+        "location": "Munich, Bavaria",
+        "name": "K·8（Master）",
+        "pinned_tweet_id": "1990350525402083782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764922083329388544/1KUqnPEz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 3,
+          "like_count": 580,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 2766
+        },
+        "username": "AolongGao21019",
+        "verified": false
+      }
+    ]
+  }
+}

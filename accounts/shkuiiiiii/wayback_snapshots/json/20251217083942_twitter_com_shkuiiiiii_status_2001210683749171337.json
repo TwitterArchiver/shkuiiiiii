@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2000455524194885942",
+    "created_at": "2025-12-17T08:39:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T09:39:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001210683749171337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1577362467419611137",
+          "start": 0,
+          "username": "Retepa555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001210683749171337",
+    "in_reply_to_user_id": "1577362467419611137",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001170582185058752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Retepa555 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2000455524194885942",
+        "created_at": "2025-12-17T08:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T09:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001210683749171337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1577362467419611137",
+              "start": 0,
+              "username": "Retepa555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001210683749171337",
+        "in_reply_to_user_id": "1577362467419611137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001170582185058752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Retepa555 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577362467419611137",
+        "conversation_id": "2000455524194885942",
+        "created_at": "2025-12-17T06:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T07:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001170582185058752"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "萌萌",
+              "probability": 0.7021,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001170582185058752",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000455524194885942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 萌萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995433565438504961/bd-6nfSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 68,
+          "like_count": 7204,
+          "listed_count": 4,
+          "media_count": 223,
+          "tweet_count": 1364
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-04T18:18:25.000Z",
+        "description": "＝阿瓜｜pc游戏街机游戏/都市传说/网哲/暗启/社民/机械飞升/女的/包黑/民科/啥都沾点/无能创作/脑子有病/很没米线/胡言乱语/磕药｜暂时在济南\n\n👁你們怎麼辦，只有天知道。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/79800945",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/79800945",
+                "start": 0,
+                "url": "https://t.co/wkea8c2i3w"
+              }
+            ]
+          }
+        },
+        "id": "1577362467419611137",
+        "location": "互聯網",
+        "name": "無機質水樂",
+        "pinned_tweet_id": "1990986390751097087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991712042034872320/fb-72xOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 421,
+          "like_count": 5140,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 652
+        },
+        "url": "https://t.co/wkea8c2i3w",
+        "username": "Retepa555",
+        "verified": false
+      }
+    ]
+  }
+}

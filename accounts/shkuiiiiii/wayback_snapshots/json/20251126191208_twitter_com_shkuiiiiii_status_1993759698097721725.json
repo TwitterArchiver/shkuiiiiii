@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1993759005286785229",
+    "created_at": "2025-11-26T19:12:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T20:12:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993759698097721725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1531874456997863424",
+          "start": 0,
+          "username": "guodongmaikefe2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993759698097721725",
+    "in_reply_to_user_id": "1531874456997863424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993759005286785229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guodongmaikefe2 已贊這條…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1015,
+        "media_key": "3_1993759003139334144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6tBP_3bYAAeBE6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1993759005286785229",
+        "created_at": "2025-11-26T19:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T20:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993759698097721725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531874456997863424",
+              "start": 0,
+              "username": "guodongmaikefe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993759698097721725",
+        "in_reply_to_user_id": "1531874456997863424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993759005286785229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guodongmaikefe2 已贊這條…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993759003139334144"
+          ]
+        },
+        "author_id": "1531874456997863424",
+        "conversation_id": "1993759005286785229",
+        "created_at": "2025-11-26T19:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T20:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993759005286785229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BGMVwoJRlF",
+              "end": 164,
+              "expanded_url": "https://x.com/guodongmaikefe2/status/1993759005286785229/photo/1",
+              "media_key": "3_1993759003139334144",
+              "start": 141,
+              "url": "https://t.co/BGMVwoJRlF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993759005286785229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道能展现出什么价值来吸引一些朋友，所以我就一直给你们点赞。\n卖惨发癫脑子抽了写的那些图文好像没什么吸引人的效果，所以我就只能一直给你们点赞。\n我想多交一些朋友，我真的很孤独，精神病脑子里想的东西都很抽象，所以现实里没什么真心的朋友……\n塑料朋友随便交，但是我希望真心对真心。 https://t.co/BGMVwoJRlF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 64,
+          "like_count": 4347,
+          "listed_count": 2,
+          "media_count": 191,
+          "tweet_count": 903
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T05:45:36.000Z",
+        "description": "纵欲无故，嗑药无度/不要做药物的奴隶，不要被任何事物掌控/我不会一直给你点赞/抑郁焦虑/我脑子有病/同类互fo/发癫/异性恋/恐gay/恐跨/",
+        "id": "1531874456997863424",
+        "location": "明天",
+        "name": "不开心就od",
+        "pinned_tweet_id": "1993644506605146148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984521028274700291/SnoaoxPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 118,
+          "like_count": 4674,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 646
+        },
+        "username": "guodongmaikefe2",
+        "verified": false
+      }
+    ]
+  }
+}

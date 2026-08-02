@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1929348232523678164",
+    "created_at": "2025-06-02T13:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T14:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929528148531778023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1353683586210295808",
+          "start": 0,
+          "username": "jer0217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929528148531778023",
+    "in_reply_to_user_id": "1353683586210295808",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929348232523678164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jer0217 😂😂😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1929348232523678164",
+        "created_at": "2025-06-02T13:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T14:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929528148531778023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1353683586210295808",
+              "start": 0,
+              "username": "jer0217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929528148531778023",
+        "in_reply_to_user_id": "1353683586210295808",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929348232523678164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jer0217 😂😂😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353683586210295808",
+        "conversation_id": "1929348232523678164",
+        "created_at": "2025-06-02T01:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T02:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929348232523678164"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929348232523678164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 43395,
+          "like_count": 739,
+          "quote_count": 3,
+          "reply_count": 27,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "怪不得都去强奸性侵偷拍呢，因为还没写黄文罚的重。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 52,
+          "like_count": 2770,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 509
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T12:38:20.000Z",
+        "description": "IGj337er ｜🍑@JerJerJer1011｜不接推广",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "JerJerJer1011"
+              }
+            ]
+          }
+        },
+        "id": "1353683586210295808",
+        "name": "Jer",
+        "pinned_tweet_id": "1923837795354955877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882347676936581120/NvQgyq8s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145964,
+          "following_count": 253,
+          "like_count": 40258,
+          "listed_count": 235,
+          "media_count": 3088,
+          "tweet_count": 22534
+        },
+        "username": "jer0217",
+        "verified": false
+      }
+    ]
+  }
+}

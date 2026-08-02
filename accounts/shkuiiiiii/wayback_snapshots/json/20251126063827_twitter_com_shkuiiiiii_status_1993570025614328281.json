@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993570020450865152",
+        "3_1993570020341796864"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "conversation_id": "1993570025614328281",
+    "created_at": "2025-11-26T06:38:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T07:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993570025614328281"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jz9ucYdvbA",
+          "end": 57,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1993570025614328281/photo/1",
+          "media_key": "3_1993570020450865152",
+          "start": 34,
+          "url": "https://t.co/Jz9ucYdvbA"
+        },
+        {
+          "display_url": "pic.x.com/Jz9ucYdvbA",
+          "end": 57,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1993570025614328281/photo/1",
+          "media_key": "3_1993570020341796864",
+          "start": 34,
+          "url": "https://t.co/Jz9ucYdvbA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993570025614328281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你萌有沒有看過我的考死 我去cp的時候就出了2b！嘻嘻嘻嘻嘻嘻嘻嘻 https://t.co/Jz9ucYdvbA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993570020450865152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6qVXwfXkAANs8b.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1993570020341796864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6qVXwFXUAAJjbb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993570020450865152",
+            "3_1993570020341796864"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "1993570025614328281",
+        "created_at": "2025-11-26T06:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T07:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993570025614328281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jz9ucYdvbA",
+              "end": 57,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1993570025614328281/photo/1",
+              "media_key": "3_1993570020450865152",
+              "start": 34,
+              "url": "https://t.co/Jz9ucYdvbA"
+            },
+            {
+              "display_url": "pic.x.com/Jz9ucYdvbA",
+              "end": 57,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1993570025614328281/photo/1",
+              "media_key": "3_1993570020341796864",
+              "start": 34,
+              "url": "https://t.co/Jz9ucYdvbA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993570025614328281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你萌有沒有看過我的考死 我去cp的時候就出了2b！嘻嘻嘻嘻嘻嘻嘻嘻 https://t.co/Jz9ucYdvbA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 我喜歡看碎碎念，我們來互fo吧…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 51,
+          "like_count": 4129,
+          "listed_count": 2,
+          "media_count": 188,
+          "tweet_count": 802
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

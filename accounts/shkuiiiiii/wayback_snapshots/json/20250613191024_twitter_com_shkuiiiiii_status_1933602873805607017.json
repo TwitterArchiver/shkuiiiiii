@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1933602873805607017",
+    "created_at": "2025-06-13T19:10:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T20:10:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933602873805607017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1328634103671918592",
+          "start": 3,
+          "username": "heim1s2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933602873805607017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933435734540890336",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @heim1s2: 中国人就喜欢拿那个安卓手机的直装gal在那发发发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1933602873805607017",
+        "created_at": "2025-06-13T19:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T20:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933602873805607017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1328634103671918592",
+              "start": 3,
+              "username": "heim1s2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933602873805607017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933435734540890336",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @heim1s2: 中国人就喜欢拿那个安卓手机的直装gal在那发发发"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1328634103671918592",
+        "conversation_id": "1933435734540890336",
+        "created_at": "2025-06-13T08:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T09:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933435734540890336"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1933435734540890336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 684,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国人就喜欢拿那个安卓手机的直装gal在那发发发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 48,
+          "like_count": 2985,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 585
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-17T09:40:40.000Z",
+        "description": "",
+        "id": "1328634103671918592",
+        "location": "🚪188私信只回门槛",
+        "name": "屍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931946632695967744/hP7eeGZO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19717,
+          "following_count": 224,
+          "like_count": 3332,
+          "listed_count": 28,
+          "media_count": 29,
+          "tweet_count": 3141
+        },
+        "username": "heim1s2",
+        "verified": false
+      }
+    ]
+  }
+}

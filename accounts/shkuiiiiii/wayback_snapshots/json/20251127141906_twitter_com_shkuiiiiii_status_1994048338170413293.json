@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1994043173606392086",
+    "created_at": "2025-11-27T14:19:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T15:19:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994048338170413293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1811764478104731650",
+          "start": 0,
+          "username": "mulinsen0101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994048338170413293",
+    "in_reply_to_user_id": "1811764478104731650",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994044626211393669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mulinsen0101 🤓🤓🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1994043173606392086",
+        "created_at": "2025-11-27T14:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T15:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994048338170413293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811764478104731650",
+              "start": 0,
+              "username": "mulinsen0101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994048338170413293",
+        "in_reply_to_user_id": "1811764478104731650",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994044626211393669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mulinsen0101 🤓🤓🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811764478104731650",
+        "conversation_id": "1994043173606392086",
+        "created_at": "2025-11-27T14:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T15:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994044626211393669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994044626211393669",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994043173606392086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 一字酷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 54,
+          "like_count": 4531,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 941
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T14:08:18.000Z",
+        "description": "交个朋友嘛\n喜欢碎碎念",
+        "id": "1811764478104731650",
+        "name": "mulinsen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992634197396365312/anBhNMLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 10,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 151
+        },
+        "username": "mulinsen0101",
+        "verified": false
+      }
+    ]
+  }
+}

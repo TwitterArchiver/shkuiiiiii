@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1993228766726828505",
+    "created_at": "2025-11-25T17:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T18:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993365224565752100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1759679091375038464",
+          "start": 0,
+          "username": "adtsk25627696"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993365224565752100",
+    "in_reply_to_user_id": "1759679091375038464",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993362012878127396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@adtsk25627696 ❤️❤️🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1993228766726828505",
+        "created_at": "2025-11-25T17:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T18:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993365224565752100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1759679091375038464",
+              "start": 0,
+              "username": "adtsk25627696"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993365224565752100",
+        "in_reply_to_user_id": "1759679091375038464",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993362012878127396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@adtsk25627696 ❤️❤️🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759679091375038464",
+        "conversation_id": "1993228766726828505",
+        "created_at": "2025-11-25T16:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T17:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993362012878127396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993362012878127396",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993228766726828505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 我喜歡看碎碎念，我們來互fo吧…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 74,
+          "like_count": 4023,
+          "listed_count": 2,
+          "media_count": 186,
+          "tweet_count": 782
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-19T20:39:42.000Z",
+        "description": "可互fo 是switch 🚪52/88",
+        "id": "1759679091375038464",
+        "name": "SankaOVO",
+        "pinned_tweet_id": "1992189880282300429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992186776979755008/Vn28JEvG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 22,
+          "like_count": 81,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 54
+        },
+        "username": "adtsk25627696",
+        "verified": false
+      }
+    ]
+  }
+}

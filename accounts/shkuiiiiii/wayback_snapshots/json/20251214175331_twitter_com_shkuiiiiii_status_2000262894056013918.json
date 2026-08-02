@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2000224169565524022",
+    "created_at": "2025-12-14T17:53:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T18:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000262894056013918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1239120348680863745",
+          "start": 0,
+          "username": "CharLotte_tysy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000262894056013918",
+    "in_reply_to_user_id": "1239120348680863745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000243279133315393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CharLotte_tysy 活了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2000224169565524022",
+        "created_at": "2025-12-14T17:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T18:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000262894056013918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1239120348680863745",
+              "start": 0,
+              "username": "CharLotte_tysy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000262894056013918",
+        "in_reply_to_user_id": "1239120348680863745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000243279133315393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CharLotte_tysy 活了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1239120348680863745",
+        "conversation_id": "2000224169565524022",
+        "created_at": "2025-12-14T16:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T17:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000243279133315393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000243279133315393",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000224169565524022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 活一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995433565438504961/bd-6nfSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 67,
+          "like_count": 7064,
+          "listed_count": 4,
+          "media_count": 221,
+          "tweet_count": 1348
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-15T09:24:57.000Z",
+        "description": "吸血鬼就要无情的活在这世上！陷入药物滥用中的小蝙蝠一枚。",
+        "id": "1239120348680863745",
+        "location": "intelnet",
+        "name": "植野直花（小蝙蝠版",
+        "pinned_tweet_id": "1994373890597081575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998573104524873728/yC110Xn6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 202,
+          "like_count": 12847,
+          "listed_count": 2,
+          "media_count": 315,
+          "tweet_count": 8317
+        },
+        "username": "CharLotte_tysy",
+        "verified": false
+      }
+    ]
+  }
+}

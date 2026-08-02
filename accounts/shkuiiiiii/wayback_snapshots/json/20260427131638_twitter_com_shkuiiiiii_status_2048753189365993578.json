@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2047996184229470647",
+    "created_at": "2026-04-27T13:16:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T14:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048753189365993578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1772911113996496896",
+          "start": 0,
+          "username": "gan623337788673"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048753189365993578",
+    "in_reply_to_user_id": "1772911113996496896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047996184229470647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gan623337788673 好可愛呀 兩個小可愛🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2047996164000350208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvxqRCagAAwr9x.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2047996184229470647",
+        "created_at": "2026-04-27T13:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048753189365993578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1772911113996496896",
+              "start": 0,
+              "username": "gan623337788673"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048753189365993578",
+        "in_reply_to_user_id": "1772911113996496896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047996184229470647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gan623337788673 好可愛呀 兩個小可愛🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047996164000350208"
+          ]
+        },
+        "author_id": "1772911113996496896",
+        "conversation_id": "2047996184229470647",
+        "created_at": "2026-04-25T11:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047996184229470647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nHywp9wFwq",
+              "end": 32,
+              "expanded_url": "https://x.com/gan623337788673/status/2047996184229470647/photo/1",
+              "media_key": "3_2047996164000350208",
+              "start": 9,
+              "url": "https://t.co/nHywp9wFwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047996184229470647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拍到了乖乖小狗😊 https://t.co/nHywp9wFwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuureikoinu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuureikoinu",
+                "start": 0,
+                "url": "https://t.co/x3tImtkrnU"
+              }
+            ]
+          }
+        },
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1995791304341495847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 99,
+          "like_count": 12891,
+          "listed_count": 4,
+          "media_count": 289,
+          "tweet_count": 2245
+        },
+        "url": "https://t.co/x3tImtkrnU",
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T08:59:03.000Z",
+        "description": "无人在意，世间美好全与我无关。",
+        "id": "1772911113996496896",
+        "name": "整容之后还是丑就去死",
+        "pinned_tweet_id": "1953475904153268434",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 898,
+          "like_count": 7317,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 4136
+        },
+        "username": "gan623337788673",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1929187699933827072",
+        "3_1929187700047044609",
+        "7_1929187699845713920"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "conversation_id": "1929187729356505352",
+    "created_at": "2025-06-01T14:46:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T15:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929187729356505352"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2EnD9dbSoa",
+          "end": 65,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1929187729356505352/video/1",
+          "media_key": "3_1929187699933827072",
+          "start": 42,
+          "url": "https://t.co/2EnD9dbSoa"
+        },
+        {
+          "display_url": "pic.x.com/2EnD9dbSoa",
+          "end": 65,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1929187729356505352/video/1",
+          "media_key": "3_1929187700047044609",
+          "start": 42,
+          "url": "https://t.co/2EnD9dbSoa"
+        },
+        {
+          "display_url": "pic.x.com/2EnD9dbSoa",
+          "end": 65,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1929187729356505352/video/1",
+          "media_key": "7_1929187699845713920",
+          "start": 42,
+          "url": "https://t.co/2EnD9dbSoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929187729356505352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉我已經不想在朋友圈發自拍了一個妹子都沒勾引到TAT勾引到一堆順直男我好內個。。。 https://t.co/2EnD9dbSoa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1929187699933827072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsXZ_eeb0AAn5Wz.jpg",
+        "width": 1047
+      },
+      {
+        "height": 1447,
+        "media_key": "3_1929187700047044609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsXZ_e5bYAEw-M6.jpg",
+        "width": 1080
+      },
+      {
+        "duration_ms": 3059,
+        "height": 960,
+        "media_key": "7_1929187699845713920",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1929187699845713920/pu/img/eiUTFxdPbarVM08T.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1929187699845713920/pu/vid/avc1/320x426/OJzFWwMTJJN58zBQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1929187699845713920/pu/vid/avc1/480x640/tMXkoruVgG-FKHI4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1929187699845713920/pu/vid/avc1/720x960/EIzjmIMPof56cKRb.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1929187699845713920/pu/pl/cx4KKXy0SRFF6ONT.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929187699933827072",
+            "3_1929187700047044609",
+            "7_1929187699845713920"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "1929187729356505352",
+        "created_at": "2025-06-01T14:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T15:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929187729356505352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2EnD9dbSoa",
+              "end": 65,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1929187729356505352/video/1",
+              "media_key": "3_1929187699933827072",
+              "start": 42,
+              "url": "https://t.co/2EnD9dbSoa"
+            },
+            {
+              "display_url": "pic.x.com/2EnD9dbSoa",
+              "end": 65,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1929187729356505352/video/1",
+              "media_key": "3_1929187700047044609",
+              "start": 42,
+              "url": "https://t.co/2EnD9dbSoa"
+            },
+            {
+              "display_url": "pic.x.com/2EnD9dbSoa",
+              "end": 65,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1929187729356505352/video/1",
+              "media_key": "7_1929187699845713920",
+              "start": 42,
+              "url": "https://t.co/2EnD9dbSoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929187729356505352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉我已經不想在朋友圈發自拍了一個妹子都沒勾引到TAT勾引到一堆順直男我好內個。。。 https://t.co/2EnD9dbSoa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 47,
+          "like_count": 2757,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 505
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

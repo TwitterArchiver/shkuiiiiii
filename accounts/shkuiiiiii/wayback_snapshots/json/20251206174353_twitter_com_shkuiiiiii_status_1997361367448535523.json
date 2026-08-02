@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1995528421066375297",
+    "created_at": "2025-12-06T17:43:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T18:43:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997361367448535523"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1997361367448535523",
+    "in_reply_to_user_id": "1569279849126297602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995528421066375297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這個不萌嗎為什麼點贊這麼少！好桑心的説！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995528378758344704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7GKfNsaMAAkMPJ.jpg",
+        "width": 1496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1995528421066375297",
+        "created_at": "2025-12-06T17:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T18:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997361367448535523"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997361367448535523",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995528421066375297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這個不萌嗎為什麼點贊這麼少！好桑心的説！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995528378758344704"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "1995528421066375297",
+        "created_at": "2025-12-01T16:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T17:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995528421066375297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D4jWcG2Toy",
+              "end": 23,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1995528421066375297/photo/1",
+              "media_key": "3_1995528378758344704",
+              "start": 0,
+              "url": "https://t.co/D4jWcG2Toy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995528421066375297",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1206,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/D4jWcG2Toy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1995528421066375297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995433565438504961/bd-6nfSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 65,
+          "like_count": 6582,
+          "listed_count": 4,
+          "media_count": 215,
+          "tweet_count": 1265
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

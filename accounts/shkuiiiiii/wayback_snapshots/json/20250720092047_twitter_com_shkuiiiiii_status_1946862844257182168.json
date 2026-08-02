@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1946860148548411785",
+    "created_at": "2025-07-20T09:20:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T10:20:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946862844257182168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1620518530171936770",
+          "start": 0,
+          "username": "cuteorange0827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946862844257182168",
+    "in_reply_to_user_id": "1620518530171936770",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946860148548411785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuteorange0827 让我吃吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1946860113660149760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwSi9V4XAAASGSz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1946860148548411785",
+        "created_at": "2025-07-20T09:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T10:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946862844257182168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1620518530171936770",
+              "start": 0,
+              "username": "cuteorange0827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946862844257182168",
+        "in_reply_to_user_id": "1620518530171936770",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946860148548411785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuteorange0827 让我吃吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946860113660149760"
+          ]
+        },
+        "author_id": "1620518530171936770",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1946860148548411785",
+        "created_at": "2025-07-20T09:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T10:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946860148548411785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ZFdLkA1t0",
+              "end": 33,
+              "expanded_url": "https://x.com/cuteorange0827/status/1946860148548411785/photo/1",
+              "media_key": "3_1946860113660149760",
+              "start": 10,
+              "url": "https://t.co/0ZFdLkA1t0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946860148548411785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "李子熟啦，美汁汁~ https://t.co/0ZFdLkA1t0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 48,
+          "like_count": 2983,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 605
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T20:25:09.000Z",
+        "description": "INTJ/♍️/这里当树洞碎碎念/祝所有人天天开心(♡˙︶˙♡)\n\n主页链接是匿名📪\n\n直男/男同勿扰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cuteorange0827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cuteorange0827",
+                "start": 0,
+                "url": "https://t.co/qE8q6lCETA"
+              }
+            ]
+          }
+        },
+        "id": "1620518530171936770",
+        "location": "温柔贩卖机",
+        "name": "coco.",
+        "pinned_tweet_id": "1940717356634067023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926766589686231040/HeqghNUQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 638,
+          "like_count": 11277,
+          "listed_count": 0,
+          "media_count": 264,
+          "tweet_count": 3905
+        },
+        "url": "https://t.co/qE8q6lCETA",
+        "username": "cuteorange0827",
+        "verified": false
+      }
+    ]
+  }
+}

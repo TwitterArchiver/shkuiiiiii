@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1914439862423531917",
+    "created_at": "2025-04-21T22:03:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T23:03:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914439862423531917"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1914439862423531917",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果沒了媽媽外婆我什麼也不是 他們是我的精神支柱 我很愛她們 讓她們永生吧 衹少我活著的時候她們都在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1914439862423531917",
+        "created_at": "2025-04-21T22:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T23:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914439862423531917"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914439862423531917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果沒了媽媽外婆我什麼也不是 他們是我的精神支柱 我很愛她們 讓她們永生吧 衹少我活著的時候她們都在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "我是小苟 粉紅滾",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910019062761152515/MpKvTiZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 30,
+          "like_count": 2305,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 398
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

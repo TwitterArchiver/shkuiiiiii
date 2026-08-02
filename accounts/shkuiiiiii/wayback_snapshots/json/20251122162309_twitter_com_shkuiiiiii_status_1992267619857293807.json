@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992267617105817600"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1992267619857293807",
+    "created_at": "2025-11-22T16:23:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T17:23:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992267619857293807"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UAl3fLu94V",
+          "end": 82,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1992267619857293807/photo/1",
+          "media_key": "3_1992267617105817600",
+          "start": 59,
+          "url": "https://t.co/UAl3fLu94V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992267619857293807",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我們就這樣掛著睡覺……好幸糊，雖然之前也是這樣但是小苟決定記錄一下吧！！！我愛你喲……搜嘞嘚哇我吃完燒烤就睡覺了…… https://t.co/UAl3fLu94V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992267617105817600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6X0158bMAAUrtS.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992267617105817600"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1992267619857293807",
+        "created_at": "2025-11-22T16:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T17:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992267619857293807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UAl3fLu94V",
+              "end": 82,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1992267619857293807/photo/1",
+              "media_key": "3_1992267617105817600",
+              "start": 59,
+              "url": "https://t.co/UAl3fLu94V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992267619857293807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我們就這樣掛著睡覺……好幸糊，雖然之前也是這樣但是小苟決定記錄一下吧！！！我愛你喲……搜嘞嘚哇我吃完燒烤就睡覺了…… https://t.co/UAl3fLu94V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 我喜歡看碎碎念，我們來互fo吧…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 56,
+          "like_count": 3635,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 714
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

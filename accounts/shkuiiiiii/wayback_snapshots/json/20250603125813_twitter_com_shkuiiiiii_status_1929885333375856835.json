@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1929885329512902659",
+        "3_1929885327927455744"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "conversation_id": "1929885333375856835",
+    "created_at": "2025-06-03T12:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T13:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929885333375856835"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WBXntiYUbE",
+          "end": 143,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1929885333375856835/photo/1",
+          "media_key": "3_1929885329512902659",
+          "start": 120,
+          "url": "https://t.co/WBXntiYUbE"
+        },
+        {
+          "display_url": "pic.x.com/WBXntiYUbE",
+          "end": 143,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1929885333375856835/photo/1",
+          "media_key": "3_1929885327927455744",
+          "start": 120,
+          "url": "https://t.co/WBXntiYUbE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929885333375856835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "恩就是今天幇櫃子妹說話被冲了然後我罵回去她不回我了，我問她小學生不上學來mha超話反日幹什麼她説她已經保送了笑死老子了，然後朋友圈説mha我還以為是櫃子結果一評論她給我畢業了🌚就是今天很慘了我和小品品過不去了我草泥馬傻逼品客你全家死光光咯 https://t.co/WBXntiYUbE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1929885329512902659",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GshUe3LasAMu9KK.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1226,
+        "media_key": "3_1929885327927455744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GshUexRasAAfmjR.jpg",
+        "width": 906
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929885329512902659",
+            "3_1929885327927455744"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "1929885333375856835",
+        "created_at": "2025-06-03T12:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T13:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929885333375856835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WBXntiYUbE",
+              "end": 143,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1929885333375856835/photo/1",
+              "media_key": "3_1929885329512902659",
+              "start": 120,
+              "url": "https://t.co/WBXntiYUbE"
+            },
+            {
+              "display_url": "pic.x.com/WBXntiYUbE",
+              "end": 143,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1929885333375856835/photo/1",
+              "media_key": "3_1929885327927455744",
+              "start": 120,
+              "url": "https://t.co/WBXntiYUbE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929885333375856835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恩就是今天幇櫃子妹說話被冲了然後我罵回去她不回我了，我問她小學生不上學來mha超話反日幹什麼她説她已經保送了笑死老子了，然後朋友圈説mha我還以為是櫃子結果一評論她給我畢業了🌚就是今天很慘了我和小品品過不去了我草泥馬傻逼品客你全家死光光咯 https://t.co/WBXntiYUbE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 52,
+          "like_count": 2775,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 512
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

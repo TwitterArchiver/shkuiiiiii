@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2015025496346738949",
+    "created_at": "2026-01-24T15:31:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T16:31:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015084945824481647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1998568087382274049",
+          "start": 0,
+          "username": "bvdsvge12071"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015084945824481647",
+    "in_reply_to_user_id": "1998568087382274049",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015025496346738949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bvdsvge12071 好耶！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2015025484929945600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_bPAKKb0AASB1i.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2015025496346738949",
+        "created_at": "2026-01-24T15:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T16:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015084945824481647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1998568087382274049",
+              "start": 0,
+              "username": "bvdsvge12071"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015084945824481647",
+        "in_reply_to_user_id": "1998568087382274049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015025496346738949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bvdsvge12071 好耶！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015025484929945600"
+          ]
+        },
+        "author_id": "1998568087382274049",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2015025496346738949",
+        "created_at": "2026-01-24T11:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T12:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015025496346738949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2012769404246003712/-Yq7PC9a?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2012769404246003712/-Yq7PC9a?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/RagxoyGeNm"
+            },
+            {
+              "display_url": "pic.x.com/2JyWpwntCD",
+              "end": 64,
+              "expanded_url": "https://x.com/bvdsvge12071/status/2015025496346738949/photo/1",
+              "media_key": "3_2015025484929945600",
+              "start": 41,
+              "url": "https://t.co/2JyWpwntCD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015025496346738949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/RagxoyGeNm https://t.co/2JyWpwntCD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 80,
+          "like_count": 9440,
+          "listed_count": 4,
+          "media_count": 238,
+          "tweet_count": 1672
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T01:39:28.000Z",
+        "description": "05｜宅女｜电吉他｜穿孔｜酗酒｜日番日漫｜gbg｜暴力+怪诞美学｜\n高浓度上网★私信开放 可聊天",
+        "id": "1998568087382274049",
+        "name": "为何痛苦总是如影随形",
+        "pinned_tweet_id": "2012869545422197093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000815325521068041/4eeyWtxs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 116,
+          "like_count": 3907,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 279
+        },
+        "username": "bvdsvge12071",
+        "verified": false
+      }
+    ]
+  }
+}

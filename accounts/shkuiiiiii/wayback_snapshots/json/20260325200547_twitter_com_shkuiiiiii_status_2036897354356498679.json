@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2036577046030426607",
+    "created_at": "2026-03-25T20:05:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T21:05:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036897354356498679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1929466337245675520",
+          "start": 0,
+          "username": "Ngtyuri233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036897354356498679",
+    "in_reply_to_user_id": "1929466337245675520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036891209357287900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ngtyuri233 謝謝你現在好了嘿嘿😭😭❤️❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2036577046030426607",
+        "created_at": "2026-03-25T20:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T21:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036897354356498679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1929466337245675520",
+              "start": 0,
+              "username": "Ngtyuri233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036897354356498679",
+        "in_reply_to_user_id": "1929466337245675520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036891209357287900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ngtyuri233 謝謝你現在好了嘿嘿😭😭❤️❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929466337245675520",
+        "conversation_id": "2036577046030426607",
+        "created_at": "2026-03-25T19:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T20:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036891209357287900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036891209357287900",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036577046030426607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 先深呼吸好吗…把情绪平复下来才能更好的思考怎么样去挽回对方。\n推友们会一直在，会一直支持您的\n加油👊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuureikoinu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuureikoinu",
+                "start": 0,
+                "url": "https://t.co/x3tImtkrnU"
+              }
+            ]
+          }
+        },
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1995791304341495847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 102,
+          "like_count": 12973,
+          "listed_count": 4,
+          "media_count": 279,
+          "tweet_count": 2198
+        },
+        "url": "https://t.co/x3tImtkrnU",
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T09:13:37.000Z",
+        "description": "愛されたい\n （Language：中文/日本語/English） / DM👌 / 互fo👌 / 09 男高中生 / 对象@yuriano3479\n 提问箱：\nhttps://t.co/i6gH2O8U4v",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 60,
+                "username": "yuriano3479"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yuriafries",
+                "end": 102,
+                "expanded_url": "https://ngl.link/yuriafries",
+                "start": 79,
+                "url": "https://t.co/i6gH2O8U4v"
+              }
+            ]
+          }
+        },
+        "id": "1929466337245675520",
+        "location": "🚪15 仅好友位+陪聊 可以听我弹琴 需要请DM",
+        "name": "薯条恶魔杀人事件🍟😈",
+        "pinned_tweet_id": "2034579865958293973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024431590525571072/zaE8hMw0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 56,
+          "like_count": 1926,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 637
+        },
+        "username": "Ngtyuri233",
+        "verified": false
+      }
+    ]
+  }
+}

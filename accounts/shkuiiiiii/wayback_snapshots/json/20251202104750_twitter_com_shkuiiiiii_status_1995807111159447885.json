@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1995802162346237967",
+    "created_at": "2025-12-02T10:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T11:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995807111159447885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1758428820045189120",
+          "start": 0,
+          "username": "YuSuQAQ"
+        },
+        {
+          "end": 17,
+          "id": "1931634000453345280",
+          "start": 9,
+          "username": "ll97515"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995807111159447885",
+    "in_reply_to_user_id": "1758428820045189120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995806982566195330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuSuQAQ @ll97515 一直在……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1995802162346237967",
+        "created_at": "2025-12-02T10:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T11:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995807111159447885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1758428820045189120",
+              "start": 0,
+              "username": "YuSuQAQ"
+            },
+            {
+              "end": 17,
+              "id": "1931634000453345280",
+              "start": 9,
+              "username": "ll97515"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995807111159447885",
+        "in_reply_to_user_id": "1758428820045189120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995806982566195330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuSuQAQ @ll97515 一直在……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758428820045189120",
+        "conversation_id": "1995802162346237967",
+        "created_at": "2025-12-02T10:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T11:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995806982566195330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1931634000453345280",
+              "start": 0,
+              "username": "ll97515"
+            },
+            {
+              "end": 20,
+              "id": "1569279849126297602",
+              "start": 9,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995806982566195330",
+        "in_reply_to_user_id": "1931634000453345280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995802162346237967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ll97515 @shkuiiiiii 你俩面基了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1995528421066375297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995433565438504961/bd-6nfSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 59,
+          "like_count": 6123,
+          "listed_count": 4,
+          "media_count": 213,
+          "tweet_count": 1212
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T09:51:25.000Z",
+        "description": "負能量傳播媒介，可以叫我去死，想和好多人做好朋友，我討厭單取/視奸我的人",
+        "id": "1758428820045189120",
+        "name": "想死的一條魚",
+        "pinned_tweet_id": "1981598440489718064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912608912848891904/kWg8aRN-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 424,
+          "like_count": 4914,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 6526
+        },
+        "username": "YuSuQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T08:46:56.000Z",
+        "description": "自残 | 应该是地雷女来的。？| 恶臭男滚 不定时崩溃 喜欢互动 玩一些舞萌 可以来找我互fo聊天˃ʍ˂",
+        "id": "1931634000453345280",
+        "name": "(●─●)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987318821154324480/qCEPNWhB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 439,
+          "like_count": 2908,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 870
+        },
+        "username": "ll97515",
+        "verified": false
+      }
+    ]
+  }
+}

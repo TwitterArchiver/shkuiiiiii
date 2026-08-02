@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1912819814193647694",
+    "created_at": "2025-04-17T10:45:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T11:45:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912819814193647694"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1912819814193647694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你知道嗎我沒刪你而是拉黑你的原因是我還想在懷念的時候翻以前的聊天記錄，但是你咋刪我了你一點也都不想留下這些聊天記錄嗎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1912819814193647694",
+        "created_at": "2025-04-17T10:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T11:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912819814193647694"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912819814193647694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你知道嗎我沒刪你而是拉黑你的原因是我還想在懷念的時候翻以前的聊天記錄，但是你咋刪我了你一點也都不想留下這些聊天記錄嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "我是小苟 粉紅滾",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910019062761152515/MpKvTiZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 30,
+          "like_count": 2264,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 389
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908573926508421120",
+        "3_1908573918509883393"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1908573929608003613",
+    "created_at": "2025-04-05T17:34:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T18:34:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908573929608003613"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YCEBmIwWzy",
+          "end": 135,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1908573929608003613/photo/1",
+          "media_key": "3_1908573926508421120",
+          "start": 112,
+          "url": "https://t.co/YCEBmIwWzy"
+        },
+        {
+          "display_url": "pic.x.com/YCEBmIwWzy",
+          "end": 135,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1908573929608003613/photo/1",
+          "media_key": "3_1908573918509883393",
+          "start": 112,
+          "url": "https://t.co/YCEBmIwWzy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908573929608003613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "4.5\n今天四點多起床化了妝去吃莫圖小館 ，這個叉燒真的特別特別好吃，是我吃過最好吃的叉燒。但是別的菜不怎麼好吃所以沒吃飽，晚上又吃了今天剛剛到的奶油火雞面配香蕉牛奶。好想畫的好去坑別人錢，練習出來都好醜，真是看不下去了😂 https://t.co/YCEBmIwWzy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1908573926508421120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnyd38UbYAAEtQT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1542,
+        "media_key": "3_1908573918509883393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnyd3ehbYAEVwHT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908573926508421120",
+            "3_1908573918509883393"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1908573929608003613",
+        "created_at": "2025-04-05T17:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T18:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908573929608003613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YCEBmIwWzy",
+              "end": 135,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1908573929608003613/photo/1",
+              "media_key": "3_1908573926508421120",
+              "start": 112,
+              "url": "https://t.co/YCEBmIwWzy"
+            },
+            {
+              "display_url": "pic.x.com/YCEBmIwWzy",
+              "end": 135,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1908573929608003613/photo/1",
+              "media_key": "3_1908573918509883393",
+              "start": 112,
+              "url": "https://t.co/YCEBmIwWzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908573929608003613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "4.5\n今天四點多起床化了妝去吃莫圖小館 ，這個叉燒真的特別特別好吃，是我吃過最好吃的叉燒。但是別的菜不怎麼好吃所以沒吃飽，晚上又吃了今天剛剛到的奶油火雞面配香蕉牛奶。好想畫的好去坑別人錢，練習出來都好醜，真是看不下去了😂 https://t.co/YCEBmIwWzy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "我是小苟 粉紅滾",
+        "id": "1569279849126297602",
+        "name": "彼岸花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907095324143050752/gQyLnEz5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 25,
+          "like_count": 2178,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 355
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

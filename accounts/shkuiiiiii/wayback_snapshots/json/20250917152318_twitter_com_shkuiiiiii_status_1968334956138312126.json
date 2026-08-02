@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968334935401635840",
+        "7_1968334936492105728"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "conversation_id": "1968334956138312126",
+    "created_at": "2025-09-17T15:23:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T16:23:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968334956138312126"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GOnOZN0AUw",
+          "end": 34,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1968334956138312126/video/1",
+          "media_key": "3_1968334935401635840",
+          "start": 11,
+          "url": "https://t.co/GOnOZN0AUw"
+        },
+        {
+          "display_url": "pic.x.com/GOnOZN0AUw",
+          "end": 34,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1968334956138312126/video/1",
+          "media_key": "7_1968334936492105728",
+          "start": 11,
+          "url": "https://t.co/GOnOZN0AUw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968334956138312126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在去ktv的路上…… https://t.co/GOnOZN0AUw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1968334935401635840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1DuMe-bIAAt0r0.jpg",
+        "width": 1080
+      },
+      {
+        "duration_ms": 3044,
+        "height": 960,
+        "media_key": "7_1968334936492105728",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1968334936492105728/pu/img/mbb44K5gN7cydSHZ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1968334936492105728/pu/vid/avc1/320x426/O9OR3ejlbQ_YvahL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1968334936492105728/pu/vid/avc1/480x640/r7zhV1ftfmWk01JP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1968334936492105728/pu/vid/avc1/720x960/QRRbNvsJ8cCwx1eK.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1968334936492105728/pu/pl/7GiPVyNL1KS4m9eh.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968334935401635840",
+            "7_1968334936492105728"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "1968334956138312126",
+        "created_at": "2025-09-17T15:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T16:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968334956138312126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GOnOZN0AUw",
+              "end": 34,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1968334956138312126/video/1",
+              "media_key": "3_1968334935401635840",
+              "start": 11,
+              "url": "https://t.co/GOnOZN0AUw"
+            },
+            {
+              "display_url": "pic.x.com/GOnOZN0AUw",
+              "end": 34,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1968334956138312126/video/1",
+              "media_key": "7_1968334936492105728",
+              "start": 11,
+              "url": "https://t.co/GOnOZN0AUw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968334956138312126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在去ktv的路上…… https://t.co/GOnOZN0AUw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 50,
+          "like_count": 3298,
+          "listed_count": 2,
+          "media_count": 186,
+          "tweet_count": 682
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

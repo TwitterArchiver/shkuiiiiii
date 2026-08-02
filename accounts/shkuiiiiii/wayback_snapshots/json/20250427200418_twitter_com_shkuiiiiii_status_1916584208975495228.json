@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1916584208975495228",
+    "created_at": "2025-04-27T20:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T21:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916584208975495228"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1916584208975495228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好可怕，活著的每一秒我都很害怕。要是我死了我會輕鬆很多，我不知道活著的下一秒下一分鐘會發生什麼。時間一直都在傷害我我好害怕就算是待在小房間里靜靜的躺著我也好害怕。下一秒會發生什麼？？？我會變成什麼？？？但是如果我知道下一秒我就死了我會很輕鬆。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1916584208975495228",
+        "created_at": "2025-04-27T20:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T21:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916584208975495228"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916584208975495228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好可怕，活著的每一秒我都很害怕。要是我死了我會輕鬆很多，我不知道活著的下一秒下一分鐘會發生什麼。時間一直都在傷害我我好害怕就算是待在小房間里靜靜的躺著我也好害怕。下一秒會發生什麼？？？我會變成什麼？？？但是如果我知道下一秒我就死了我會很輕鬆。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "我是小苟 一只晴天娃娃 粉紅滾",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910019062761152515/MpKvTiZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 33,
+          "like_count": 2352,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 410
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2004606414606795032",
+    "created_at": "2025-12-26T17:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T18:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004606414606795032"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2004606414606795032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "這麼一想我男朋友好慘和我在一起他的女朋友好麻煩，得不到一點好處和我在一起全是壞處，感覺他遲早有一天會不愛我覺得我煩，算了先過好當下。。。他説他會一直愛我的，這是立flag嗎！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2004606414606795032",
+        "created_at": "2025-12-26T17:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T18:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004606414606795032"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004606414606795032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這麼一想我男朋友好慘和我在一起他的女朋友好麻煩，得不到一點好處和我在一起全是壞處，感覺他遲早有一天會不愛我覺得我煩，算了先過好當下。。。他説他會一直愛我的，這是立flag嗎！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 70,
+          "like_count": 7697,
+          "listed_count": 4,
+          "media_count": 229,
+          "tweet_count": 1428
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

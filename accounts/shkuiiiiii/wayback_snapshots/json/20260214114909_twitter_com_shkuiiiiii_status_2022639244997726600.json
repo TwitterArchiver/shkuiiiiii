@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2022619783838191779",
+    "created_at": "2026-02-14T11:49:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T12:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022639244997726600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1279738200626466816",
+          "start": 0,
+          "username": "Rain76318015"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022639244997726600",
+    "in_reply_to_user_id": "1279738200626466816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022639041989255231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain76318015 对对对😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2022619783838191779",
+        "created_at": "2026-02-14T11:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T12:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022639244997726600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1279738200626466816",
+              "start": 0,
+              "username": "Rain76318015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022639244997726600",
+        "in_reply_to_user_id": "1279738200626466816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022639041989255231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain76318015 对对对😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279738200626466816",
+        "conversation_id": "2022619783838191779",
+        "created_at": "2026-02-14T11:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T12:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022639041989255231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022639041989255231",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022636616620347619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 呵呵主要一到这种时候就一边想知道自己有没有被爱，一边又怕说的多让人烦，憋着又觉得自己委屈，凭什么别人不说。然后越来越质疑别人质疑自己，甚至脑子自己胡编乱造了，，，我会感觉自己好不平等吧，，，但是没有别人又好像活不下去了😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "2019456404327686611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 71,
+          "like_count": 10870,
+          "listed_count": 4,
+          "media_count": 248,
+          "tweet_count": 1931
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-05T11:25:50.000Z",
+        "description": "顺直男\n如果有人互动会很开心\n无人在意的角落碎碎念\n🚪68888888太阳系可飞",
+        "id": "1279738200626466816",
+        "name": "UuuU",
+        "pinned_tweet_id": "1997079425351864588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015566256632406016/w5W1HRIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 127,
+          "like_count": 3354,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 710
+        },
+        "username": "Rain76318015",
+        "verified": false
+      }
+    ]
+  }
+}

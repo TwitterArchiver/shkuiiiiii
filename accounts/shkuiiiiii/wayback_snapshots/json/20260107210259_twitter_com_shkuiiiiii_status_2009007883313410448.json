@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2008169682101305658",
+    "created_at": "2026-01-07T21:02:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T22:02:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009007883313410448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2008767893287374849",
+          "start": 0,
+          "username": "ABCD263001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009007883313410448",
+    "in_reply_to_user_id": "2008767893287374849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008858547191468061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ABCD263001 謝謝你TAT❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2008169682101305658",
+        "created_at": "2026-01-07T21:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T22:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009007883313410448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008767893287374849",
+              "start": 0,
+              "username": "ABCD263001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009007883313410448",
+        "in_reply_to_user_id": "2008767893287374849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008858547191468061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ABCD263001 謝謝你TAT❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008767893287374849",
+        "conversation_id": "2008169682101305658",
+        "created_at": "2026-01-07T11:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T12:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008858547191468061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ],
+          "urls": [
+            {
+              "description": "-, 视频播放量 346346、弹幕量 69、点赞数 7060、投硬币枚数 3368、收藏人数 13840、转发人数 1993, 视频作者 GalaxyMorrie, 作者简介 ，相关视频：432Hz 彻底恢复和治愈身体|清除负能量光环|通过森林树木，432Hz - 最深层的疗愈，消除所有负能量 - 释放压力、焦虑并促进褪黑激素，大地之母丨能量再生丨制造新的磁场丨放松音乐丨迷人的森林丨大自然的声音丨缓解压力，疗愈水频率432hz丨风铃冥想灵气音乐丨强效去除负面障碍丨能量场洗净丨净化心灵丨内在平衡，【自制】安全感｜链接大地｜获得母系力量｜深度休息｜释放情绪｜开中焦｜七脉轮平衡 ·在地母的怀里沉沉睡去（客定公开版），『高频能量音疗』超强净化▪提高振动频率▪缓解疲劳▪释放潜意识障碍▪去除负能量▪增强运势▪清净磁场▪深度放松助眠（睡觉时听，可以在睡梦中清理负面情绪释放压力），『书隐声药系列』528Hz再生修复C胞+雨声入肾静心安神＋颂钵清除负能净化磁场（适用于学习工作压力大，低频负能，记忆力减退，疲劳乏力，重度失眠等人群），『魔法·补血回蓝』能量精力恢复 需看简介说明食用，『五音疗疾精选』养心气疏肝气，保养心阳，解郁忘忧，调节情志，助眠安神，缓解压力，理气明目；胆小多疑，失眠惊梦，视物模糊，面色萎黄，抑郁情绪低落等可多听用。，循环播放，增强木气，增强木的能量",
+              "display_url": "b23.tv/mIfyzL3",
+              "end": 61,
+              "expanded_url": "https://b23.tv/mIfyzL3",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2008858554711846912/5JQVuzJf?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2008858554711846912/5JQVuzJf?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 38,
+              "status": 200,
+              "title": "自然疗愈频率｜海洋&森林能量_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1554y1x7eW/?buvid=XUACBF5AAD42808A1CED93E8BCFB85A623419&from_spmid=main.my-cache.0.0&is_story_h5=false&mid=H2y%2FlL2bYQFRxHU34I36sA%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=645f1559-02c2-41b5-9256-e0cad46a93dd&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1767783995&unique_k=mIfyzL3&up_id=33635073",
+              "url": "https://t.co/h4Ks2oqv2m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008858547191468061",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008169682101305658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 【自然疗愈频率｜海洋&amp;森林能量-哔哩哔哩】 https://t.co/h4Ks2oqv2m\n可以聽聽看這個\n辛苦了\n你真的很棒的哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 73,
+          "like_count": 8458,
+          "listed_count": 4,
+          "media_count": 231,
+          "tweet_count": 1486
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T05:09:43.000Z",
+        "description": "",
+        "id": "2008767893287374849",
+        "name": "ABCD",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008767987562745856/Ioi1qjwr_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 177,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 124
+        },
+        "username": "ABCD263001",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2063997880516694224",
+    "created_at": "2026-06-09T04:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T05:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064204147235357094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1018136026693300226",
+          "start": 0,
+          "username": "Gu_Jin_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064204147235357094",
+    "in_reply_to_user_id": "1018136026693300226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064087399274278986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gu_Jin_ 对对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2063997880516694224",
+        "created_at": "2026-06-09T04:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T05:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064204147235357094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1018136026693300226",
+              "start": 0,
+              "username": "Gu_Jin_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064204147235357094",
+        "in_reply_to_user_id": "1018136026693300226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064087399274278986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gu_Jin_ 对对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1018136026693300226",
+        "conversation_id": "2063997880516694224",
+        "created_at": "2026-06-08T20:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T21:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064087399274278986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064087399274278986",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063997880516694224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 云烟很好抽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuureikoinu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuureikoinu",
+                "start": 0,
+                "url": "https://t.co/x3tImtkrnU"
+              }
+            ]
+          }
+        },
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "2063643205296672984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063646077333757952/dJ2jH7Df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 93,
+          "like_count": 12848,
+          "listed_count": 3,
+          "media_count": 296,
+          "tweet_count": 2300
+        },
+        "url": "https://t.co/x3tImtkrnU",
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-14T14:11:59.000Z",
+        "description": "私信限制了+q2336588986\n♂丨2001.10.28丨♏丨摄影师丨PCgame丨DJ学习中丨钓鱼🎣丨游戏时间（PCtime）：19:00-1:00丨出差工作时玩不了，其他时候可预约丨🎮：ARC Raiders丨Hunt:Showdown丨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@guj1nnnnn?si=…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@guj1nnnnn?si=OVCD8zSMJVXD2Paf",
+                "start": 0,
+                "url": "https://t.co/VDkXLFTwSs"
+              }
+            ]
+          }
+        },
+        "id": "1018136026693300226",
+        "location": "南京桥洞底（现在在苏州）",
+        "name": "小石碎胸口",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958464775329050624/RanArZBQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 3536,
+          "like_count": 3014,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1573
+        },
+        "url": "https://t.co/VDkXLFTwSs",
+        "username": "Gu_Jin_",
+        "verified": false
+      }
+    ]
+  }
+}

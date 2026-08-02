@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1915495269086749163",
+    "created_at": "2025-04-24T19:57:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T20:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1915495269086749163"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1915495269086749163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉今天在外面很開心染到了好看的頭髮還吃了好吃的飯 但是一到家我吃完葯我頭都在抖，我整個人像在虛空中一樣好難受，要暈過去了，我也太慘了這就是代價嗎？？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1915495269086749163",
+        "created_at": "2025-04-24T19:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T20:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915495269086749163"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1915495269086749163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉今天在外面很開心染到了好看的頭髮還吃了好吃的飯 但是一到家我吃完葯我頭都在抖，我整個人像在虛空中一樣好難受，要暈過去了，我也太慘了這就是代價嗎？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "我是小苟 粉紅滾",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910019062761152515/MpKvTiZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 31,
+          "like_count": 2325,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 403
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

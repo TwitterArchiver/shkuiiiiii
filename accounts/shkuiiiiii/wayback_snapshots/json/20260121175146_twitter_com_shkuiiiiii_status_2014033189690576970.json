@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2014033189690576970",
+    "created_at": "2026-01-21T17:51:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T18:51:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014033189690576970"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2014033189690576970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小苟把膝蓋摔出血了明天後天都不用出門了好輕鬆哦，但是小苟還是會偷偷摸摸一個人出門，要是我寶寶在就好了我要和他一起壓馬路，其實我寶寶在的話我出不出門都可以嘞。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2014033189690576970",
+        "created_at": "2026-01-21T17:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T18:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014033189690576970"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014033189690576970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小苟把膝蓋摔出血了明天後天都不用出門了好輕鬆哦，但是小苟還是會偷偷摸摸一個人出門，要是我寶寶在就好了我要和他一起壓馬路，其實我寶寶在的話我出不出門都可以嘞。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 81,
+          "like_count": 8977,
+          "listed_count": 4,
+          "media_count": 235,
+          "tweet_count": 1588
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

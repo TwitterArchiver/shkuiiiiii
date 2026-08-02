@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2000224169565524022",
+    "created_at": "2025-12-14T17:53:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T18:53:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000262913081438521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1789309717225025536",
+          "start": 0,
+          "username": "tang_wumin83444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000262913081438521",
+    "in_reply_to_user_id": "1789309717225025536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000242042547618045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tang_wumin83444 呃啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2000224169565524022",
+        "created_at": "2025-12-14T17:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T18:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000262913081438521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1789309717225025536",
+              "start": 0,
+              "username": "tang_wumin83444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000262913081438521",
+        "in_reply_to_user_id": "1789309717225025536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000242042547618045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tang_wumin83444 呃啊！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789309717225025536",
+        "conversation_id": "2000224169565524022",
+        "created_at": "2025-12-14T16:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T17:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000242042547618045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000242042547618045",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000224169565524022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 输入代码/kill"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995433565438504961/bd-6nfSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 67,
+          "like_count": 7065,
+          "listed_count": 4,
+          "media_count": 221,
+          "tweet_count": 1348
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-11T15:01:53.000Z",
+        "description": "",
+        "id": "1789309717225025536",
+        "name": "看不懂乱溜达的该溜子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985392962520674304/rED1ItsR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 17,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 294
+        },
+        "username": "tang_wumin83444",
+        "verified": false
+      }
+    ]
+  }
+}

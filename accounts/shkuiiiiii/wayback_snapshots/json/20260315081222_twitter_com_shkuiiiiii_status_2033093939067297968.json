@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2032889215126798832",
+    "created_at": "2026-03-15T08:12:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T09:12:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033093939067297968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1869045674429554688",
+          "start": 0,
+          "username": "xiomo0831"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033093939067297968",
+    "in_reply_to_user_id": "1869045674429554688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033092074430665180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiomo0831 收到！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2032889215126798832",
+        "created_at": "2026-03-15T08:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T09:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033093939067297968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1869045674429554688",
+              "start": 0,
+              "username": "xiomo0831"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033093939067297968",
+        "in_reply_to_user_id": "1869045674429554688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033092074430665180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiomo0831 收到！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869045674429554688",
+        "conversation_id": "2032889215126798832",
+        "created_at": "2026-03-15T08:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T09:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033092074430665180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033092074430665180",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032889215126798832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 女孩子來互fo吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1995791304341495847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 86,
+          "like_count": 11738,
+          "listed_count": 4,
+          "media_count": 260,
+          "tweet_count": 2084
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-17T15:43:29.000Z",
+        "description": "俺の彼女から離れろ、さもないと死ね^^\n                           一番好きです: @The_emonn6060",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "The_emonn6060"
+              }
+            ]
+          }
+        },
+        "id": "1869045674429554688",
+        "location": "Taiwan",
+        "name": "唉、愛",
+        "pinned_tweet_id": "1936095087299379563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026599318518640642/wQc-lNOH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 46,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 111
+        },
+        "username": "xiomo0831",
+        "verified": false
+      }
+    ]
+  }
+}

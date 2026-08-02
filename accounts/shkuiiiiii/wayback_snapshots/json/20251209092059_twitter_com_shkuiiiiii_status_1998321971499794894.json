@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1998273306970173759",
+    "created_at": "2025-12-09T09:20:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T10:20:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998321971499794894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "797756020202160132",
+          "start": 0,
+          "username": "hiroki0705s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998321971499794894",
+    "in_reply_to_user_id": "797756020202160132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998311708293771425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hiroki0705s 我去！謝謝你！！！！！❤️❤️❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1998273306970173759",
+        "created_at": "2025-12-09T09:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T10:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998321971499794894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "797756020202160132",
+              "start": 0,
+              "username": "hiroki0705s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998321971499794894",
+        "in_reply_to_user_id": "797756020202160132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998311708293771425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hiroki0705s 我去！謝謝你！！！！！❤️❤️❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "797756020202160132",
+        "conversation_id": "1998273306970173759",
+        "created_at": "2025-12-09T08:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T09:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998311708293771425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998311708293771425",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998273306970173759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 自然色的话萌乱家，彩的话宇宙营业中ww都是认识的人经营的店不会出错！追求丰富和价格再便宜点的话大佬家也不错！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1995528421066375297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995433565438504961/bd-6nfSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 66,
+          "like_count": 6818,
+          "listed_count": 4,
+          "media_count": 216,
+          "tweet_count": 1299
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-13T11:00:31.000Z",
+        "description": "地雷系男子👁有在玩cos兴趣调酒。互fo交友大欢迎！中国語、日本語🉑entj",
+        "id": "797756020202160132",
+        "location": "上海",
+        "name": "ヒロキ💜🍸",
+        "pinned_tweet_id": "1989859851963679026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990278918889426944/zrCkC17V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 866,
+          "like_count": 951,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 330
+        },
+        "username": "hiroki0705s",
+        "verified": false
+      }
+    ]
+  }
+}

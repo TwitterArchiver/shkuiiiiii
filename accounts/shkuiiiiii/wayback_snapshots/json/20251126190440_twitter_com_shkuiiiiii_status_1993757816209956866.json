@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1993755725362090145",
+    "created_at": "2025-11-26T19:04:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T20:04:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993757816209956866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1811764478104731650",
+          "start": 0,
+          "username": "mulinsen0101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993757816209956866",
+    "in_reply_to_user_id": "1811764478104731650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993757210267275574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mulinsen0101 咋沒人給我發！好讓我樂呵一下！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1993755725362090145",
+        "created_at": "2025-11-26T19:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T20:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993757816209956866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811764478104731650",
+              "start": 0,
+              "username": "mulinsen0101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993757816209956866",
+        "in_reply_to_user_id": "1811764478104731650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993757210267275574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mulinsen0101 咋沒人給我發！好讓我樂呵一下！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811764478104731650",
+        "conversation_id": "1993755725362090145",
+        "created_at": "2025-11-26T19:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T20:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993757210267275574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993757210267275574",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993756972756443449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 哈哈哈哈哈哈哈，不像我，老是有骗子给我发私信，还能逗逗他们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 64,
+          "like_count": 4336,
+          "listed_count": 2,
+          "media_count": 191,
+          "tweet_count": 893
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T14:08:18.000Z",
+        "description": "交个朋友嘛\n喜欢碎碎念",
+        "id": "1811764478104731650",
+        "name": "mulinsen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992634197396365312/anBhNMLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 8,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 135
+        },
+        "username": "mulinsen0101",
+        "verified": false
+      }
+    ]
+  }
+}

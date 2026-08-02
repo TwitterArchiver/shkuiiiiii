@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1929747664864006574",
+    "created_at": "2025-06-03T12:59:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T13:59:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929885764571353187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1909553877739085825",
+          "start": 0,
+          "username": "Tokyo8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929885764571353187",
+    "in_reply_to_user_id": "1909553877739085825",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929747664864006574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tokyo8964 對這很賤了支全都是畜生"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9000,
+        "height": 1280,
+        "media_key": "13_1929747470361436160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1929747470361436160/img/3kBQffn99VhffKTx.jpg",
+        "public_metrics": {
+          "view_count": 1591
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929747470361436160/vid/avc1/320x624/htzSNajOLn1sCBhy.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929747470361436160/vid/avc1/480x936/_usRdbIced_dYGyM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929747470361436160/vid/avc1/656x1280/f5tXt96kKkSakpUV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1929747470361436160/pl/qjUpUG7_1NFayimJ.m3u8"
+          }
+        ],
+        "width": 656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1929747664864006574",
+        "created_at": "2025-06-03T12:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T13:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929885764571353187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1909553877739085825",
+              "start": 0,
+              "username": "Tokyo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929885764571353187",
+        "in_reply_to_user_id": "1909553877739085825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929747664864006574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tokyo8964 對這很賤了支全都是畜生"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1929747470361436160"
+          ]
+        },
+        "author_id": "1909553877739085825",
+        "conversation_id": "1929747664864006574",
+        "created_at": "2025-06-03T03:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T04:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929747664864006574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FbPNByszeV",
+              "end": 63,
+              "expanded_url": "https://x.com/Tokyo8964/status/1929747664864006574/video/1",
+              "media_key": "13_1929747470361436160",
+              "start": 40,
+              "url": "https://t.co/FbPNByszeV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929747664864006574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3565,
+          "like_count": 66,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "国内的傻逼二次元，打着所谓的爱国之名，实则上却是对别人搞霸凌，真是他妈的闹麻了 https://t.co/FbPNByszeV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 52,
+          "like_count": 2778,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 514
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T10:28:26.000Z",
+        "description": "自由民主日本萬歲 消滅獨裁專制 前b站小世界抽象鉴证TV主播 你永远是中国人的发明者 07無藥男娘 IP日本東京新宿 成分複雜：鉴证｜抽象｜二次元｜神友🌊｜罕见｜中華民國派｜cosplay｜LGBTQ｜女裝｜舞萌痴｜永雏塔菲｜東雪蓮 ｜互fo扩列请私信可线下交友月抛 （骂人兔左会拉黑）逃生舱@heshan8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 146,
+                "username": "heshan8964"
+              }
+            ]
+          }
+        },
+        "id": "1909553877739085825",
+        "location": "東京 新宿区",
+        "name": "抽象耶格尔🇯🇵 🇹🇼",
+        "pinned_tweet_id": "1927402828684755079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929183924754001920/wE9gPvZc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2481,
+          "following_count": 415,
+          "like_count": 520,
+          "listed_count": 10,
+          "media_count": 139,
+          "tweet_count": 271
+        },
+        "username": "Tokyo8964",
+        "verified": false
+      }
+    ]
+  }
+}

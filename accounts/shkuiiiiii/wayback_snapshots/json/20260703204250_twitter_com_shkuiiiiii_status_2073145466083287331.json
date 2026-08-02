@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2072910841654214774",
+    "created_at": "2026-07-03T20:42:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T21:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073145466083287331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1429048411416719361",
+          "start": 0,
+          "username": "jknona2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073145466083287331",
+    "in_reply_to_user_id": "1429048411416719361",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073141529812795847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jknona2 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2072910841654214774",
+        "created_at": "2026-07-03T20:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T21:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073145466083287331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1429048411416719361",
+              "start": 0,
+              "username": "jknona2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073145466083287331",
+        "in_reply_to_user_id": "1429048411416719361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073141529812795847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jknona2 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429048411416719361",
+        "conversation_id": "2072910841654214774",
+        "created_at": "2026-07-03T20:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T21:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073141529812795847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073141529812795847",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072910841654214774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 我靠 神了！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 然后贱人死开 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuureikoinu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuureikoinu",
+                "start": 0,
+                "url": "https://t.co/x3tImtkrnU"
+              }
+            ]
+          }
+        },
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "2066441052245176824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063646077333757952/dJ2jH7Df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 92,
+          "like_count": 13168,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 2369
+        },
+        "url": "https://t.co/x3tImtkrnU",
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-21T11:51:14.000Z",
+        "description": "infp",
+        "id": "1429048411416719361",
+        "location": "（＾ω＾）",
+        "name": "nona",
+        "pinned_tweet_id": "1980843689850359994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429049349992898567/0UukG3Zl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 115,
+          "like_count": 986,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 2882
+        },
+        "url": "",
+        "username": "jknona2",
+        "verified": false
+      }
+    ]
+  }
+}

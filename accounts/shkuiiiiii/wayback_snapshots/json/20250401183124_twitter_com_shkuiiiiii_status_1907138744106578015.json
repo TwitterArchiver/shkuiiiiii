@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907138741371899904",
+        "3_1907138741476696064"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "conversation_id": "1907138744106578015",
+    "created_at": "2025-04-01T18:31:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T19:31:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907138744106578015"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/J8z8f0OmIf",
+          "end": 41,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1907138744106578015/photo/1",
+          "media_key": "3_1907138741371899904",
+          "start": 18,
+          "url": "https://t.co/J8z8f0OmIf"
+        },
+        {
+          "display_url": "pic.x.com/J8z8f0OmIf",
+          "end": 41,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1907138744106578015/photo/1",
+          "media_key": "3_1907138741476696064",
+          "start": 18,
+          "url": "https://t.co/J8z8f0OmIf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907138744106578015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "用了模板畫了自設꒰ *•ɷ•* ꒱ https://t.co/J8z8f0OmIf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1907138741371899904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GneElLDbkAA2jh3.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1907138741476696064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GneElLcaoAA5pWu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907138741371899904",
+            "3_1907138741476696064"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "1907138744106578015",
+        "created_at": "2025-04-01T18:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T19:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907138744106578015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J8z8f0OmIf",
+              "end": 41,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1907138744106578015/photo/1",
+              "media_key": "3_1907138741371899904",
+              "start": 18,
+              "url": "https://t.co/J8z8f0OmIf"
+            },
+            {
+              "display_url": "pic.x.com/J8z8f0OmIf",
+              "end": 41,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1907138744106578015/photo/1",
+              "media_key": "3_1907138741476696064",
+              "start": 18,
+              "url": "https://t.co/J8z8f0OmIf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907138744106578015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用了模板畫了自設꒰ *•ɷ•* ꒱ https://t.co/J8z8f0OmIf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "我是小苟",
+        "id": "1569279849126297602",
+        "name": "彼岸花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907095324143050752/gQyLnEz5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 94,
+          "like_count": 2135,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 344
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

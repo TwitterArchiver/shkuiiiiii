@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2007382549912531196",
+    "created_at": "2026-01-03T12:57:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T13:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007436245551456725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "804938069111513088",
+          "start": 0,
+          "username": "ngkyk_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007436245551456725",
+    "in_reply_to_user_id": "804938069111513088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007413461979197447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ngkyk_01 良かったです！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2007382549912531196",
+        "created_at": "2026-01-03T12:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T13:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007436245551456725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "804938069111513088",
+              "start": 0,
+              "username": "ngkyk_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007436245551456725",
+        "in_reply_to_user_id": "804938069111513088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007413461979197447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ngkyk_01 良かったです！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "804938069111513088",
+        "conversation_id": "2007382549912531196",
+        "created_at": "2026-01-03T11:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T12:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007413461979197447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007413461979197447",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007382549912531196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 死なないよ！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 73,
+          "like_count": 8259,
+          "listed_count": 4,
+          "media_count": 230,
+          "tweet_count": 1458
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-03T06:39:25.000Z",
+        "description": "乃木ちゃん櫻ちゃん日向ちゃん、みんな素敵でキレイで可愛らしい(’-’*)♪🌸\nほんと最高のグループです💕今は、あのちゃんが大好きです(*´ω｀*)あのちゃんに近づきたい！あっ！ネコも好きです！動物のちびっこも好きです(’-’*)♪",
+        "id": "804938069111513088",
+        "location": "アリアハン",
+        "name": "PN,坂道大好きっ子(’-’*)♪💕",
+        "pinned_tweet_id": "1413134814727729152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1052817658750464000/QMgKpFFB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4258,
+          "following_count": 5461,
+          "like_count": 358154,
+          "listed_count": 22,
+          "media_count": 6895,
+          "tweet_count": 13122
+        },
+        "username": "ngkyk_01",
+        "verified": false
+      }
+    ]
+  }
+}

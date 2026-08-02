@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1937072486845395017",
+    "created_at": "2025-06-23T08:57:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T09:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1937072486845395017"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1937072486845395017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不開心我把媽媽甩走了還駡了她，然後我一個人心情很差的坐地鐵亂逛了，我真是畜生我有點累了我待會找找有沒有店有眉刀吧買一個玩玩，要是沒有就試試燙煙疤吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1937072486845395017",
+        "created_at": "2025-06-23T08:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T09:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937072486845395017"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937072486845395017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不開心我把媽媽甩走了還駡了她，然後我一個人心情很差的坐地鐵亂逛了，我真是畜生我有點累了我待會找找有沒有店有眉刀吧買一個玩玩，要是沒有就試試燙煙疤吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 49,
+          "like_count": 3015,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 601
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

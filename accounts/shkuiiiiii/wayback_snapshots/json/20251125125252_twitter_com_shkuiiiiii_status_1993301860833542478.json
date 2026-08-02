@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1993280853175386493",
+    "created_at": "2025-11-25T12:52:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T13:52:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993301860833542478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1948395176831131648",
+          "start": 0,
+          "username": "zy89644"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993301860833542478",
+    "in_reply_to_user_id": "1948395176831131648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993280853175386493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zy89644 我將👁️👁️👁️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1120,
+        "media_key": "3_1993280850797248522",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6mOX3lbwAoigNE.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1993280853175386493",
+        "created_at": "2025-11-25T12:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T13:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993301860833542478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1948395176831131648",
+              "start": 0,
+              "username": "zy89644"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993301860833542478",
+        "in_reply_to_user_id": "1948395176831131648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993280853175386493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zy89644 我將👁️👁️👁️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993280850797248522"
+          ]
+        },
+        "author_id": "1948395176831131648",
+        "conversation_id": "1993280853175386493",
+        "created_at": "2025-11-25T11:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T12:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993280853175386493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hdpDVPG0Mx",
+              "end": 33,
+              "expanded_url": "https://x.com/zy89644/status/1993280853175386493/photo/1",
+              "media_key": "3_1993280850797248522",
+              "start": 10,
+              "url": "https://t.co/hdpDVPG0Mx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993280853175386493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 53,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也被视奸了的说😋 https://t.co/hdpDVPG0Mx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 我喜歡看碎碎念，我們來互fo吧…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 73,
+          "like_count": 3973,
+          "listed_count": 2,
+          "media_count": 185,
+          "tweet_count": 773
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T14:50:02.000Z",
+        "description": "我要吃抹茶冰淇淋 抹茶蛋糕 抹茶奶茶 总之要来点抹茶吗\n\n视奸我就关注你 天天偷看你\n\nfofo我吧(⁠✷⁠‿⁠✷⁠)\n\n1764817612（神秘号码",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zy89644",
+                "end": 23,
+                "expanded_url": "http://ngl.link/zy89644",
+                "start": 0,
+                "url": "https://t.co/tLgc8L3Uoh"
+              }
+            ]
+          }
+        },
+        "id": "1948395176831131648",
+        "location": "亚洲的某处深山老林中",
+        "name": "偷吃冰淇淋的이이이本人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993278355576438793/0plnXNep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 131,
+          "like_count": 7699,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 2197
+        },
+        "url": "https://t.co/tLgc8L3Uoh",
+        "username": "zy89644",
+        "verified": false
+      }
+    ]
+  }
+}

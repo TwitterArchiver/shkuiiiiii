@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1994043173606392086",
+    "created_at": "2025-11-27T15:29:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T16:29:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994065955694272822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1983213298708574208",
+          "start": 0,
+          "username": "cosmorisa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994065955694272822",
+    "in_reply_to_user_id": "1983213298708574208",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994065414226325510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cosmorisa ❤️❤️❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1994043173606392086",
+        "created_at": "2025-11-27T15:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T16:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994065955694272822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1983213298708574208",
+              "start": 0,
+              "username": "cosmorisa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994065955694272822",
+        "in_reply_to_user_id": "1983213298708574208",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994065414226325510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cosmorisa ❤️❤️❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983213298708574208",
+        "conversation_id": "1994043173606392086",
+        "created_at": "2025-11-27T15:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T16:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994065414226325510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994065414226325510",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994043173606392086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 好帅😩😩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 54,
+          "like_count": 4545,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 947
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-28T16:44:41.000Z",
+        "description": "07年大只夜猫子(变小中)｜BPD venttwt｜喜欢哲学、社科、艺术、设计｜后现代、后安那其Ⓐ哲学｜性别虚无主义者🏴 LGBTQ+🏳️‍🌈🏳️‍⚧️Ally｜警察不要找我，激动会紫砂｜大五:高O/两极化C/低E/情景化A/高N｜INXP-T｜河南高三自学ing｜同类快来互fo！会回fo🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/cosmorisa",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/cosmorisa",
+                "start": 0,
+                "url": "https://t.co/bMdrCBFSLn"
+              }
+            ]
+          }
+        },
+        "id": "1983213298708574208",
+        "location": "Digital Nomad",
+        "name": "CosMorisa",
+        "pinned_tweet_id": "1993619441519906953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983813859032158208/VjhU6-7U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 237,
+          "like_count": 2785,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 492
+        },
+        "url": "https://t.co/bMdrCBFSLn",
+        "username": "cosmorisa",
+        "verified": true
+      }
+    ]
+  }
+}

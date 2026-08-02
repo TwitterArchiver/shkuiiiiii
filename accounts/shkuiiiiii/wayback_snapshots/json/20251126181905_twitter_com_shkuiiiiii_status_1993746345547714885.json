@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1993743584433185204",
+    "created_at": "2025-11-26T18:19:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T19:19:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993746345547714885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1991577326791073792",
+          "start": 0,
+          "username": "shuishuiyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993746345547714885",
+    "in_reply_to_user_id": "1991577326791073792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993746170301305198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuishuiyo 還可以這樣……！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1993743584433185204",
+        "created_at": "2025-11-26T18:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T19:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993746345547714885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1991577326791073792",
+              "start": 0,
+              "username": "shuishuiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993746345547714885",
+        "in_reply_to_user_id": "1991577326791073792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993746170301305198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuishuiyo 還可以這樣……！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991577326791073792",
+        "conversation_id": "1993743584433185204",
+        "created_at": "2025-11-26T18:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T19:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993746170301305198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993746170301305198",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993743584433185204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 我无聊时会吃点泻药，拉拉屎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 60,
+          "like_count": 4278,
+          "listed_count": 2,
+          "media_count": 188,
+          "tweet_count": 841
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T18:40:18.000Z",
+        "description": "谨慎关注我，因为我的推文非常非常无聊，会污染你的时间线",
+        "id": "1991577326791073792",
+        "name": "水水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991577635475111936/WP4ZpUmL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 97
+        },
+        "username": "shuishuiyo",
+        "verified": false
+      }
+    ]
+  }
+}

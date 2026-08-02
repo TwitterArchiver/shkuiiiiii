@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1995791304341495847",
+    "created_at": "2025-12-02T11:10:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T12:10:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995812897054683500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1620518530171936770",
+          "start": 0,
+          "username": "cuteorange0827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995812897054683500",
+    "in_reply_to_user_id": "1620518530171936770",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995812663356784659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuteorange0827 (๑‾ ꇴ ‾๑)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1995791304341495847",
+        "created_at": "2025-12-02T11:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T12:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995812897054683500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1620518530171936770",
+              "start": 0,
+              "username": "cuteorange0827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995812897054683500",
+        "in_reply_to_user_id": "1620518530171936770",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995812663356784659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuteorange0827 (๑‾ ꇴ ‾๑)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620518530171936770",
+        "conversation_id": "1995791304341495847",
+        "created_at": "2025-12-02T11:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T12:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995812663356784659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995812663356784659",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995791304341495847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 好酷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1995528421066375297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995433565438504961/bd-6nfSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 59,
+          "like_count": 6135,
+          "listed_count": 4,
+          "media_count": 213,
+          "tweet_count": 1215
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T20:25:09.000Z",
+        "description": "INTJ/♍️/这里当树洞碎碎念/祝所有人天天开心(♡˙︶˙♡) /男同勿扰/HYPE信徒",
+        "id": "1620518530171936770",
+        "location": "温柔贩卖机",
+        "name": "coco(950)",
+        "pinned_tweet_id": "1940717356634067023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963245821249667073/RURAm2fo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 786,
+          "like_count": 26676,
+          "listed_count": 1,
+          "media_count": 490,
+          "tweet_count": 7985
+        },
+        "username": "cuteorange0827",
+        "verified": false
+      }
+    ]
+  }
+}

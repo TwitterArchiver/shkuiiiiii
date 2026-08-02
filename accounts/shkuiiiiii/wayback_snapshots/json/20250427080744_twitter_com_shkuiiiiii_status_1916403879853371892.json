@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1916403879853371892",
+    "created_at": "2025-04-27T08:07:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T09:07:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916403879853371892"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1916403879853371892",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我當時想要是上來不親他我以後再也沒有主動的機會了 強人锁男了屬於。其實我就和他見過幾面 出去玩過兩次但是我都沒和他說過話。。但是我其實很喜歡他他吃東西的樣子很可愛而且穿搭也很好 他還很活潑我真的好喜歡。。可惜當時我在和我前任談戀愛 其實如果沒有我前任我也遇不到他。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1916403879853371892",
+        "created_at": "2025-04-27T08:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T09:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916403879853371892"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916403879853371892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我當時想要是上來不親他我以後再也沒有主動的機會了 強人锁男了屬於。其實我就和他見過幾面 出去玩過兩次但是我都沒和他說過話。。但是我其實很喜歡他他吃東西的樣子很可愛而且穿搭也很好 他還很活潑我真的好喜歡。。可惜當時我在和我前任談戀愛 其實如果沒有我前任我也遇不到他。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "我是小苟 一只晴天娃娃 粉紅滾",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910019062761152515/MpKvTiZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 33,
+          "like_count": 2352,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 407
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

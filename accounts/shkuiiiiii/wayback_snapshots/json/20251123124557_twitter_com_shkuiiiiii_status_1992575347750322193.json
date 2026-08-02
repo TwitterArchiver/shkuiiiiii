@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992575333212786689",
+        "7_1992575335867801600",
+        "3_1992575336455036928"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1992575347750322193",
+    "created_at": "2025-11-23T12:45:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T13:45:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992575347750322193"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ig4jVVGI2j",
+          "end": 31,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1992575347750322193/video/1",
+          "media_key": "3_1992575333212786689",
+          "start": 8,
+          "url": "https://t.co/ig4jVVGI2j"
+        },
+        {
+          "display_url": "pic.x.com/ig4jVVGI2j",
+          "end": 31,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1992575347750322193/video/1",
+          "media_key": "7_1992575335867801600",
+          "start": 8,
+          "url": "https://t.co/ig4jVVGI2j"
+        },
+        {
+          "display_url": "pic.x.com/ig4jVVGI2j",
+          "end": 31,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1992575347750322193/video/1",
+          "media_key": "3_1992575336455036928",
+          "start": 8,
+          "url": "https://t.co/ig4jVVGI2j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992575347750322193",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我要吃土了…… https://t.co/ig4jVVGI2j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992575333212786689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6cMtVxakAEvOdJ.jpg",
+        "width": 922
+      },
+      {
+        "duration_ms": 3271,
+        "height": 960,
+        "media_key": "7_1992575335867801600",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1992575335867801600/pu/img/BeIO3QdscMmFCksT.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1992575335867801600/pu/vid/avc1/320x426/mT6mWEEJbpFH4yth.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1992575335867801600/pu/vid/avc1/480x640/qFfKsNeskQpE4tG7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1992575335867801600/pu/vid/avc1/720x960/KGS2Ifl1GMOLmkQS.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1992575335867801600/pu/pl/TqBPrGiDUKLp9JZa.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1992575336455036928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6cMth2bYAASFGy.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992575333212786689",
+            "7_1992575335867801600",
+            "3_1992575336455036928"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1992575347750322193",
+        "created_at": "2025-11-23T12:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T13:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992575347750322193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ig4jVVGI2j",
+              "end": 31,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1992575347750322193/video/1",
+              "media_key": "3_1992575333212786689",
+              "start": 8,
+              "url": "https://t.co/ig4jVVGI2j"
+            },
+            {
+              "display_url": "pic.x.com/ig4jVVGI2j",
+              "end": 31,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1992575347750322193/video/1",
+              "media_key": "7_1992575335867801600",
+              "start": 8,
+              "url": "https://t.co/ig4jVVGI2j"
+            },
+            {
+              "display_url": "pic.x.com/ig4jVVGI2j",
+              "end": 31,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1992575347750322193/video/1",
+              "media_key": "3_1992575336455036928",
+              "start": 8,
+              "url": "https://t.co/ig4jVVGI2j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992575347750322193",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要吃土了…… https://t.co/ig4jVVGI2j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 我喜歡看碎碎念，我們來互fo吧…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 60,
+          "like_count": 3693,
+          "listed_count": 2,
+          "media_count": 182,
+          "tweet_count": 733
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013092830697119744"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2012907783876759746",
+    "created_at": "2026-01-19T03:35:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T04:35:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013092839669064081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974688655513096192",
+          "start": 0,
+          "username": "lin_dialog"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pzoevREhve",
+          "end": 51,
+          "expanded_url": "https://x.com/shkuiiiiii/status/2013092839669064081/photo/1",
+          "media_key": "3_2013092830697119744",
+          "start": 28,
+          "url": "https://t.co/pzoevREhve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013092839669064081",
+    "in_reply_to_user_id": "1974688655513096192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012907783876759746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lin_dialog 荒阪狗！（x）我的交通卡也是！ https://t.co/pzoevREhve"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 979,
+        "media_key": "3_2013092830697119744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-_xQ4GWYAAlcsJ.jpg",
+        "width": 1256
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2012907770295582720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-9I88YXgAAYPij.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013092830697119744"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2012907783876759746",
+        "created_at": "2026-01-19T03:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T04:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013092839669064081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974688655513096192",
+              "start": 0,
+              "username": "lin_dialog"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pzoevREhve",
+              "end": 51,
+              "expanded_url": "https://x.com/shkuiiiiii/status/2013092839669064081/photo/1",
+              "media_key": "3_2013092830697119744",
+              "start": 28,
+              "url": "https://t.co/pzoevREhve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013092839669064081",
+        "in_reply_to_user_id": "1974688655513096192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012907783876759746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lin_dialog 荒阪狗！（x）我的交通卡也是！ https://t.co/pzoevREhve"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012907770295582720"
+          ]
+        },
+        "author_id": "1974688655513096192",
+        "conversation_id": "2012907783876759746",
+        "created_at": "2026-01-18T15:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T16:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012907783876759746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kWHHvObEGx",
+              "end": 48,
+              "expanded_url": "https://x.com/lin_dialog/status/2012907783876759746/photo/1",
+              "media_key": "3_2012907770295582720",
+              "start": 25,
+              "url": "https://t.co/kWHHvObEGx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012907783876759746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 293,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "包子们 我打算在胳膊上纹个这个，等我回广州吧！。 https://t.co/kWHHvObEGx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 77,
+          "like_count": 8680,
+          "listed_count": 4,
+          "media_count": 233,
+          "tweet_count": 1524
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T04:10:53.000Z",
+        "description": "竹霖♡ 18 they/them｜shedtwt odtwt｜bmi14.87｜more moots!｜烟酒割药四毒俱全｜无政府个人主义｜LGBTQ+🏳️‍🌈全友好^^｜互fo私信 选拒",
+        "id": "1974688655513096192",
+        "name": "竹霖",
+        "pinned_tweet_id": "2006041221995847931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011688510689001472/Jxs1mRH-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 182,
+          "like_count": 808,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 1467
+        },
+        "username": "lin_dialog",
+        "verified": false
+      }
+    ]
+  }
+}

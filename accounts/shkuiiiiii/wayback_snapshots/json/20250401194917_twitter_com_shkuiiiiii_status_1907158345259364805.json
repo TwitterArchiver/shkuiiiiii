@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1907158345259364805",
+    "created_at": "2025-04-01T19:49:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T20:49:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907158345259364805"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1907158345259364805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每次翻相冊都好懷念 其實以前我也是有朋友的，每次看到那些記錄都好傷心 現在我最好的朋友就是我的前女友和我鬧掰，別的學校裡有了好多好朋友，而我休學在家什麼也沒有，以前我也有開心的時候我也有能和朋友談聲笑語的時候，好懷念當時 我其實是一個很幸福的小女孩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1907158345259364805",
+        "created_at": "2025-04-01T19:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T20:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907158345259364805"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907158345259364805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次翻相冊都好懷念 其實以前我也是有朋友的，每次看到那些記錄都好傷心 現在我最好的朋友就是我的前女友和我鬧掰，別的學校裡有了好多好朋友，而我休學在家什麼也沒有，以前我也有開心的時候我也有能和朋友談聲笑語的時候，好懷念當時 我其實是一個很幸福的小女孩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "我是小苟",
+        "id": "1569279849126297602",
+        "name": "彼岸花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907095324143050752/gQyLnEz5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 94,
+          "like_count": 2136,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 344
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1911646006355038208"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "conversation_id": "1911646036231430341",
+    "created_at": "2025-04-14T05:01:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T06:01:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1911646036231430341"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QTQ8G6AHx3",
+          "end": 48,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1911646036231430341/photo/1",
+          "media_key": "3_1911646006355038208",
+          "start": 25,
+          "url": "https://t.co/QTQ8G6AHx3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911646036231430341",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我喜歡這個鞋子(⌯︎¤̴̶̷̀ω¤̴̶̷́)✧︎ https://t.co/QTQ8G6AHx3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1911646006355038208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoeH6hkWEAAKskw.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911646006355038208"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "1911646036231430341",
+        "created_at": "2025-04-14T05:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T06:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911646036231430341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QTQ8G6AHx3",
+              "end": 48,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1911646036231430341/photo/1",
+              "media_key": "3_1911646006355038208",
+              "start": 25,
+              "url": "https://t.co/QTQ8G6AHx3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911646036231430341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喜歡這個鞋子(⌯︎¤̴̶̷̀ω¤̴̶̷́)✧︎ https://t.co/QTQ8G6AHx3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "我是小苟 粉紅滾",
+        "id": "1569279849126297602",
+        "name": "彼岸花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910019062761152515/MpKvTiZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 29,
+          "like_count": 2245,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 379
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

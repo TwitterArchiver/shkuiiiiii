@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1997020756342173796",
+    "created_at": "2025-12-05T19:10:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T20:10:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997020756342173796"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1997020756342173796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我特別特別敏感多疑衹要對象今天説我愛你説的聲音輕了點也會感覺他不愛我了！對的就是今天，拿本子記下來……其實我不太會說我愛你我感覺怪怪的但是寶寶你知道嗎我很愛你！我不太敢説這三個字所以每次都糾結好久……但是我真的很愛你……所以明天能不能多給我發消息能不能天天打語音能不能一直陪我一起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1997020756342173796",
+        "created_at": "2025-12-05T19:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T20:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997020756342173796"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997020756342173796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我特別特別敏感多疑衹要對象今天説我愛你説的聲音輕了點也會感覺他不愛我了！對的就是今天，拿本子記下來……其實我不太會說我愛你我感覺怪怪的但是寶寶你知道嗎我很愛你！我不太敢説這三個字所以每次都糾結好久……但是我真的很愛你……所以明天能不能多給我發消息能不能天天打語音能不能一直陪我一起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1995528421066375297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995433565438504961/bd-6nfSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 64,
+          "like_count": 6483,
+          "listed_count": 4,
+          "media_count": 215,
+          "tweet_count": 1251
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

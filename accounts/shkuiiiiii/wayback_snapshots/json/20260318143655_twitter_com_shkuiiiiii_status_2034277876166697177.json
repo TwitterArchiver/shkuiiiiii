@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2034228195244019915",
+    "created_at": "2026-03-18T14:36:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T15:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034277876166697177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1877992679453454336",
+          "start": 0,
+          "username": "BladeStarr0714"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034277876166697177",
+    "in_reply_to_user_id": "1877992679453454336",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034268362717749469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BladeStarr0714 😚😚😚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2034228195244019915",
+        "created_at": "2026-03-18T14:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T15:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034277876166697177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1877992679453454336",
+              "start": 0,
+              "username": "BladeStarr0714"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034277876166697177",
+        "in_reply_to_user_id": "1877992679453454336",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034268362717749469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BladeStarr0714 😚😚😚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877992679453454336",
+        "conversation_id": "2034228195244019915",
+        "created_at": "2026-03-18T13:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T14:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034268362717749469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034268362717749469",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034228195244019915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 萌爆了！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1995791304341495847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 99,
+          "like_count": 12165,
+          "listed_count": 4,
+          "media_count": 266,
+          "tweet_count": 2122
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T08:15:31.000Z",
+        "description": "这里是小蛙！很擅长夸夸！最喜欢花花！还有抱大家！\n @Frogly2887是暴露狂蛙的黄色废料小号所以只过互关！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "Frogly2887"
+              }
+            ]
+          }
+        },
+        "id": "1877992679453454336",
+        "name": "ff",
+        "pinned_tweet_id": "2031031420953735469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924760681330704384/xQ-xUWFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1649,
+          "following_count": 863,
+          "like_count": 40576,
+          "listed_count": 11,
+          "media_count": 602,
+          "tweet_count": 30831
+        },
+        "username": "BladeStarr0714",
+        "verified": false
+      }
+    ]
+  }
+}

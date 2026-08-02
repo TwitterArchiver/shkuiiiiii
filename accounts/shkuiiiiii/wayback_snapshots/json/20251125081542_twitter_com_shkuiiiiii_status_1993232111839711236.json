@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1993231924433924509",
+    "created_at": "2025-11-25T08:15:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T09:15:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993232111839711236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1518083228136984576",
+          "start": 0,
+          "username": "ArivenDar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993232111839711236",
+    "in_reply_to_user_id": "1518083228136984576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993231924433924509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ArivenDar 抱抱梨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1993231924433924509",
+        "created_at": "2025-11-25T08:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T09:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993232111839711236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1518083228136984576",
+              "start": 0,
+              "username": "ArivenDar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993232111839711236",
+        "in_reply_to_user_id": "1518083228136984576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993231924433924509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArivenDar 抱抱梨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518083228136984576",
+        "conversation_id": "1993231924433924509",
+        "created_at": "2025-11-25T08:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T09:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993231924433924509"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993231924433924509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有人在意。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 我喜歡看碎碎念，我們來互fo吧…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 70,
+          "like_count": 3823,
+          "listed_count": 2,
+          "media_count": 185,
+          "tweet_count": 761
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-24T04:24:13.000Z",
+        "description": "无数次的推演创造了我，我也只是故事的一个章节",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ariven_dar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ariven_dar",
+                "start": 0,
+                "url": "https://t.co/6Edl84NS2Q"
+              }
+            ]
+          }
+        },
+        "id": "1518083228136984576",
+        "location": "好想吃好吃的。",
+        "name": "白烏鴉.",
+        "pinned_tweet_id": "1993231924433924509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989660609923690496/l6A43qmV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 2102,
+          "like_count": 102329,
+          "listed_count": 5,
+          "media_count": 1301,
+          "tweet_count": 11368
+        },
+        "url": "https://t.co/6Edl84NS2Q",
+        "username": "ArivenDar",
+        "verified": false
+      }
+    ]
+  }
+}

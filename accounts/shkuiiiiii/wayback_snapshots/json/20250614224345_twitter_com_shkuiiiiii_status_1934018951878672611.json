@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1933959455483551845",
+    "created_at": "2025-06-14T22:43:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T23:43:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934018951878672611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1909553877739085825",
+          "start": 0,
+          "username": "Tokyo8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934018951878672611",
+    "in_reply_to_user_id": "1909553877739085825",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933959455483551845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tokyo8964 太豪堪了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1933959451607961600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtbN3-saEAAisUl.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1933959455483551845",
+        "created_at": "2025-06-14T22:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T23:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934018951878672611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1909553877739085825",
+              "start": 0,
+              "username": "Tokyo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934018951878672611",
+        "in_reply_to_user_id": "1909553877739085825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933959455483551845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tokyo8964 太豪堪了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933959451607961600"
+          ]
+        },
+        "author_id": "1909553877739085825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1933959455483551845",
+        "created_at": "2025-06-14T18:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T19:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933959455483551845"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "男娘"
+            },
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "永雏塔菲"
+            },
+            {
+              "end": 36,
+              "start": 28,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1193aWJNm0",
+              "end": 60,
+              "expanded_url": "https://x.com/Tokyo8964/status/1933959455483551845/photo/1",
+              "media_key": "3_1933959451607961600",
+              "start": 37,
+              "url": "https://t.co/1193aWJNm0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933959455483551845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1147,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关注永雏塔菲喵，关注永雏塔菲谢谢喵 #男娘 #永雏塔菲 #cosplay https://t.co/1193aWJNm0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 47,
+          "like_count": 2947,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 587
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T10:28:26.000Z",
+        "description": "不自由毋宁死 冲浪找史炒作高手 07无药男娘 IP🇯🇵日本東京 成分复杂：键政｜抽象｜二次元｜神友｜自由民主｜民国派｜无神论｜LGBTQ🏳️‍🌈｜女裝｜舞萌痴｜永雏塔菲｜東雪蓮 ｜进击的巨人｜MYGO｜平常会更新女装照或者爱国TV 互fo扩列请私信 欢迎线下找我玩（小粉红会拉黑 ）逃生舱@heshan8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 144,
+                "username": "heshan8964"
+              }
+            ]
+          }
+        },
+        "id": "1909553877739085825",
+        "location": "東京",
+        "name": "抽象東雪蓮🌊",
+        "pinned_tweet_id": "1932095364385153188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933503133885538304/_v8qIPnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3156,
+          "following_count": 517,
+          "like_count": 587,
+          "listed_count": 10,
+          "media_count": 193,
+          "tweet_count": 360
+        },
+        "username": "Tokyo8964",
+        "verified": false
+      }
+    ]
+  }
+}

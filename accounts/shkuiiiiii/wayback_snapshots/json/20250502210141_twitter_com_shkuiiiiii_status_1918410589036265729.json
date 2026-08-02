@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1918410589036265729",
+    "created_at": "2025-05-02T21:01:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T22:01:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918410589036265729"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1918410589036265729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天淩晨登小黑盒發現fl把我好友刪了好像，好難過我又少了一個視奸的機會。可能因為沒吃什麼東西所以今天在床上要奄奄一息了，呼吸不過來，今天fl和myr又去ktv了我好嫉妒，我覺得她們的全家都死了吧…好噁心我想到她們就好噁心。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1918410589036265729",
+        "created_at": "2025-05-02T21:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T22:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918410589036265729"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918410589036265729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天淩晨登小黑盒發現fl把我好友刪了好像，好難過我又少了一個視奸的機會。可能因為沒吃什麼東西所以今天在床上要奄奄一息了，呼吸不過來，今天fl和myr又去ktv了我好嫉妒，我覺得她們的全家都死了吧…好噁心我想到她們就好噁心。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "我是小苟 一只晴天娃娃 粉紅滾",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910019062761152515/MpKvTiZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 33,
+          "like_count": 2387,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 416
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1994616306075930948",
+    "created_at": "2025-11-29T10:20:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T11:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994712947210555453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1085343638261948416",
+          "start": 0,
+          "username": "bdsm520k9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994712947210555453",
+    "in_reply_to_user_id": "1085343638261948416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994709678366789832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bdsm520k9 嚎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1994616306075930948",
+        "created_at": "2025-11-29T10:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T11:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994712947210555453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1085343638261948416",
+              "start": 0,
+              "username": "bdsm520k9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994712947210555453",
+        "in_reply_to_user_id": "1085343638261948416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994709678366789832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bdsm520k9 嚎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1085343638261948416",
+        "conversation_id": "1994616306075930948",
+        "created_at": "2025-11-29T10:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T11:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994709678366789832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994709678366789832",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994616306075930948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 我在万达广场"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1994360240175771669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994300924265914368/HW_9esMV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 58,
+          "like_count": 5034,
+          "listed_count": 3,
+          "media_count": 200,
+          "tweet_count": 1037
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-16T01:11:02.000Z",
+        "description": "兴趣使然的猫咪/色图分享转载  喜欢请鼓励我多发  侵权联系我删除 欢迎找我聊天!",
+        "id": "1085343638261948416",
+        "name": "猫猫色图站（健身ing）",
+        "pinned_tweet_id": "1993986265533042954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1096085291025088513/Ia6b3d_M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 308,
+          "like_count": 2396,
+          "listed_count": 10,
+          "media_count": 499,
+          "tweet_count": 3266
+        },
+        "username": "bdsm520k9",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016724483701428225"
+      ],
+      "media_source_tweet_id": [
+        "2016724498440212662"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2017025470160916985",
+    "created_at": "2026-01-30T00:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T01:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017025470160916985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "882261202923016192",
+          "start": 3,
+          "username": "moraeneukdae"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z9GlpnMGTG",
+          "end": 52,
+          "expanded_url": "https://x.com/moraeneukdae/status/2016724498440212662/photo/1",
+          "media_key": "3_2016724483701428225",
+          "start": 29,
+          "url": "https://t.co/z9GlpnMGTG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017025470160916985",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 112
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016724498440212662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moraeneukdae: 쿠로코 호시노♡♡♡ https://t.co/z9GlpnMGTG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2624,
+        "media_key": "3_2016724483701428225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_zYO5zbUAEYxGn.jpg",
+        "width": 3632
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016724483701428225"
+          ],
+          "media_source_tweet_id": [
+            "2016724498440212662"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2017025470160916985",
+        "created_at": "2026-01-30T00:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T01:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017025470160916985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "882261202923016192",
+              "start": 3,
+              "username": "moraeneukdae"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z9GlpnMGTG",
+              "end": 52,
+              "expanded_url": "https://x.com/moraeneukdae/status/2016724498440212662/photo/1",
+              "media_key": "3_2016724483701428225",
+              "start": 29,
+              "url": "https://t.co/z9GlpnMGTG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017025470160916985",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 112
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016724498440212662",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moraeneukdae: 쿠로코 호시노♡♡♡ https://t.co/z9GlpnMGTG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016724483701428225"
+          ]
+        },
+        "author_id": "882261202923016192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016724498440212662",
+        "created_at": "2026-01-29T04:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T05:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016724498440212662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z9GlpnMGTG",
+              "end": 34,
+              "expanded_url": "https://x.com/moraeneukdae/status/2016724498440212662/photo/1",
+              "media_key": "3_2016724483701428225",
+              "start": 11,
+              "url": "https://t.co/z9GlpnMGTG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016724498440212662",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 14738,
+          "like_count": 1080,
+          "quote_count": 11,
+          "reply_count": 10,
+          "retweet_count": 112
+        },
+        "reply_settings": "everyone",
+        "text": "쿠로코 호시노♡♡♡ https://t.co/z9GlpnMGTG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 83,
+          "like_count": 9998,
+          "listed_count": 4,
+          "media_count": 238,
+          "tweet_count": 1771
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-04T15:33:57.000Z",
+        "description": "게임, 굿즈, 시로코 및 아비도스 학생 위주로 글 올려요 요즘 시로코한테 과몰입이 더 심해져서 불편하실 수 있습니다 (／。＼) (누구나 맞팔 권유하시면 넙죽 받습니다 멘션 확인 느릴수도 있음)",
+        "id": "882261202923016192",
+        "name": "모래늑대🐺",
+        "pinned_tweet_id": "1944954071271792899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001965814904451072/OZQrEH7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28028,
+          "following_count": 2806,
+          "like_count": 44758,
+          "listed_count": 8,
+          "media_count": 2149,
+          "tweet_count": 9786
+        },
+        "username": "moraeneukdae",
+        "verified": true
+      }
+    ]
+  }
+}

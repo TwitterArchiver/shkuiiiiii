@@ -1,0 +1,486 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013544894611038208"
+      ],
+      "media_source_tweet_id": [
+        "2013545219514319137"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Spa and Medical Spa",
+          "id": "855066047157649408",
+          "name": "Spas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Spa Bathing",
+          "id": "855073024814469120",
+          "name": "Spa Bathing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Spa Bathing",
+          "id": "855073024814469120",
+          "name": "Spa Bathing"
+        }
+      }
+    ],
+    "conversation_id": "2014066417050722388",
+    "created_at": "2026-01-21T20:03:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T21:03:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014066417050722388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1442103080091226115",
+          "start": 3,
+          "username": "whit_blanc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Es2nanI3jN",
+          "end": 52,
+          "expanded_url": "https://x.com/whit_blanc/status/2013545219514319137/photo/1",
+          "media_key": "3_2013544894611038208",
+          "start": 29,
+          "url": "https://t.co/Es2nanI3jN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014066417050722388",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1339
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013545219514319137",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whit_blanc: 温泉に行ったレッドフード https://t.co/Es2nanI3jN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2013544894611038208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_GMadaXoAAZhWX.jpg",
+        "width": 2593
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013544894611038208"
+          ],
+          "media_source_tweet_id": [
+            "2013545219514319137"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Spa and Medical Spa",
+              "id": "855066047157649408",
+              "name": "Spas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          }
+        ],
+        "conversation_id": "2014066417050722388",
+        "created_at": "2026-01-21T20:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T21:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014066417050722388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1442103080091226115",
+              "start": 3,
+              "username": "whit_blanc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Es2nanI3jN",
+              "end": 52,
+              "expanded_url": "https://x.com/whit_blanc/status/2013545219514319137/photo/1",
+              "media_key": "3_2013544894611038208",
+              "start": 29,
+              "url": "https://t.co/Es2nanI3jN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014066417050722388",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1339
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013545219514319137",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whit_blanc: 温泉に行ったレッドフード https://t.co/Es2nanI3jN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013544894611038208"
+          ]
+        },
+        "author_id": "1442103080091226115",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Spa and Medical Spa",
+              "id": "855066047157649408",
+              "name": "Spas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          }
+        ],
+        "conversation_id": "2013545219514319137",
+        "created_at": "2026-01-20T09:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T10:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013545219514319137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Es2nanI3jN",
+              "end": 36,
+              "expanded_url": "https://x.com/whit_blanc/status/2013545219514319137/photo/1",
+              "media_key": "3_2013544894611038208",
+              "start": 13,
+              "url": "https://t.co/Es2nanI3jN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013545219514319137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2226,
+          "impression_count": 124187,
+          "like_count": 15848,
+          "quote_count": 5,
+          "reply_count": 18,
+          "retweet_count": 1339
+        },
+        "reply_settings": "everyone",
+        "text": "温泉に行ったレッドフード https://t.co/Es2nanI3jN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 81,
+          "like_count": 9017,
+          "listed_count": 4,
+          "media_count": 235,
+          "tweet_count": 1594
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-26T12:25:49.000Z",
+        "description": "contact or work: okoh7922@naver.com\n \nteam:@WAVEArtsX\nstudy:https://t.co/OUx6l2HKVW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "WAVEArtsX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sinalium.net/instructors/54",
+                "end": 83,
+                "expanded_url": "https://sinalium.net/instructors/54",
+                "start": 60,
+                "url": "https://t.co/OUx6l2HKVW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/85213297",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/85213297",
+                "start": 0,
+                "url": "https://t.co/BxtNlRK41n"
+              }
+            ]
+          }
+        },
+        "id": "1442103080091226115",
+        "name": "blance🗨️Sinalium 2월 일페",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962939720406859778/BUHXR3Mj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94283,
+          "following_count": 2447,
+          "like_count": 20542,
+          "listed_count": 562,
+          "media_count": 685,
+          "tweet_count": 9702
+        },
+        "url": "https://t.co/BxtNlRK41n",
+        "username": "whit_blanc",
+        "verified": false
+      }
+    ]
+  }
+}

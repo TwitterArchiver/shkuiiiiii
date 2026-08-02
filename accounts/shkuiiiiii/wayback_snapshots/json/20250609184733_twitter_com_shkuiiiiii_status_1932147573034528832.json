@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1932147573034528832",
+    "created_at": "2025-06-09T18:47:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T19:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932147573034528832"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1932147573034528832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我糙你媽的死姨媽我昨天剛剛説我已經幾個月沒來姨媽了今天就來了，我腰他媽酸死了我要死了我操，，，臥槽我明白了！！！上帝我已經幾個月沒發财了能不能給我點錢錢🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1932147573034528832",
+        "created_at": "2025-06-09T18:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T19:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932147573034528832"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932147573034528832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我糙你媽的死姨媽我昨天剛剛説我已經幾個月沒來姨媽了今天就來了，我腰他媽酸死了我要死了我操，，，臥槽我明白了！！！上帝我已經幾個月沒發财了能不能給我點錢錢🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 43,
+          "like_count": 2917,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 558
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

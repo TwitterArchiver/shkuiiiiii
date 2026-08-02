@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958905673842073600",
+        "3_1958905671166173185",
+        "3_1958905669895299073"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1958905678132887738",
+    "created_at": "2025-08-22T14:54:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T15:54:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958905678132887738"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6SnQLMj9Ne",
+          "end": 31,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1958905678132887738/photo/1",
+          "media_key": "3_1958905673842073600",
+          "start": 8,
+          "url": "https://t.co/6SnQLMj9Ne"
+        },
+        {
+          "display_url": "pic.x.com/6SnQLMj9Ne",
+          "end": 31,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1958905678132887738/photo/1",
+          "media_key": "3_1958905671166173185",
+          "start": 8,
+          "url": "https://t.co/6SnQLMj9Ne"
+        },
+        {
+          "display_url": "pic.x.com/6SnQLMj9Ne",
+          "end": 31,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1958905678132887738/photo/1",
+          "media_key": "3_1958905669895299073",
+          "start": 8,
+          "url": "https://t.co/6SnQLMj9Ne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958905678132887738",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天 好累口牙 https://t.co/6SnQLMj9Ne"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1958905673842073600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy9uVOXaoAAQT5E.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1958905671166173185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy9uVEZboAEk1Rr.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1958905669895299073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy9uU_qboAEtptA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958905673842073600",
+            "3_1958905671166173185",
+            "3_1958905669895299073"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1958905678132887738",
+        "created_at": "2025-08-22T14:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T15:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958905678132887738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6SnQLMj9Ne",
+              "end": 31,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1958905678132887738/photo/1",
+              "media_key": "3_1958905673842073600",
+              "start": 8,
+              "url": "https://t.co/6SnQLMj9Ne"
+            },
+            {
+              "display_url": "pic.x.com/6SnQLMj9Ne",
+              "end": 31,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1958905678132887738/photo/1",
+              "media_key": "3_1958905671166173185",
+              "start": 8,
+              "url": "https://t.co/6SnQLMj9Ne"
+            },
+            {
+              "display_url": "pic.x.com/6SnQLMj9Ne",
+              "end": 31,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1958905678132887738/photo/1",
+              "media_key": "3_1958905669895299073",
+              "start": 8,
+              "url": "https://t.co/6SnQLMj9Ne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958905678132887738",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天 好累口牙 https://t.co/6SnQLMj9Ne"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 50,
+          "like_count": 3221,
+          "listed_count": 1,
+          "media_count": 181,
+          "tweet_count": 649
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

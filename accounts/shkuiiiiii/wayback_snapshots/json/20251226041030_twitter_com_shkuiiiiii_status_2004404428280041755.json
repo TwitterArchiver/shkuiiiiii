@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2004404428280041755",
+    "created_at": "2025-12-26T04:10:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T05:10:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004404428280041755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1914521439392423939",
+          "start": 3,
+          "username": "2gqLIfyM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004404428280041755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004188036444442693",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2gqLIfyM: 有钱真好，有钱学不好可以出国，有钱抑郁症可以旅游，有钱被校园暴力可以果断休学，有钱可以不用担心看病钱，有钱可以打车不用做公交车，有钱可以玩Cosplay，有钱可以随便点外卖吃，有钱可以不用省空调电费，有钱真好啊下辈子我也要当有钱人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2004404428280041755",
+        "created_at": "2025-12-26T04:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T05:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004404428280041755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1914521439392423939",
+              "start": 3,
+              "username": "2gqLIfyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004404428280041755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004188036444442693",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2gqLIfyM: 有钱真好，有钱学不好可以出国，有钱抑郁症可以旅游，有钱被校园暴力可以果断休学，有钱可以不用担心看病钱，有钱可以打车不用做公交车，有钱可以玩Cosplay，有钱可以随便点外卖吃，有钱可以不用省空调电费，有钱真好啊下辈子我也要当有钱人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914521439392423939",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2004188036444442693",
+        "created_at": "2025-12-25T13:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T14:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004188036444442693"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004188036444442693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 50471,
+          "like_count": 992,
+          "quote_count": 9,
+          "reply_count": 31,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "有钱真好，有钱学不好可以出国，有钱抑郁症可以旅游，有钱被校园暴力可以果断休学，有钱可以不用担心看病钱，有钱可以打车不用做公交车，有钱可以玩Cosplay，有钱可以随便点外卖吃，有钱可以不用省空调电费，有钱真好啊下辈子我也要当有钱人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004398947511816193/tMHFRDHc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 70,
+          "like_count": 7597,
+          "listed_count": 4,
+          "media_count": 228,
+          "tweet_count": 1415
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T03:28:06.000Z",
+        "description": "我是外星人别管我了 不接推广",
+        "id": "1914521439392423939",
+        "location": "🚪200/520",
+        "name": "我踏马受够这个逼世界了",
+        "pinned_tweet_id": "1984258317863256431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993944465795641344/e_ZquwVd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15271,
+          "following_count": 41,
+          "like_count": 403,
+          "listed_count": 40,
+          "media_count": 98,
+          "tweet_count": 616
+        },
+        "username": "2gqLIfyM",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1928420856755065093",
+    "created_at": "2025-05-30T11:58:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T12:58:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928420856755065093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1796903090551132160",
+          "start": 3,
+          "username": "ysy_Teriberak"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928420856755065093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928017610534166858",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ysy_Teriberak: 你故意推荐一些视频文案 是你想对他说不出口的话 把喜欢设置成公开 想让他知道你的性格你的爱好 你喜欢听的歌 可爱的小猫小狗 想去的地方 期待他能为你做的事 其实他从来没在意 在他眼里你无聊至极"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1928420856755065093",
+        "created_at": "2025-05-30T11:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T12:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928420856755065093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1796903090551132160",
+              "start": 3,
+              "username": "ysy_Teriberak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928420856755065093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928017610534166858",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ysy_Teriberak: 你故意推荐一些视频文案 是你想对他说不出口的话 把喜欢设置成公开 想让他知道你的性格你的爱好 你喜欢听的歌 可爱的小猫小狗 想去的地方 期待他能为你做的事 其实他从来没在意 在他眼里你无聊至极"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796903090551132160",
+        "conversation_id": "1928017610534166858",
+        "created_at": "2025-05-29T09:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T10:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928017610534166858"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928017610534166858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 23784,
+          "like_count": 326,
+          "quote_count": 7,
+          "reply_count": 57,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "你故意推荐一些视频文案 是你想对他说不出口的话 把喜欢设置成公开 想让他知道你的性格你的爱好 你喜欢听的歌 可爱的小猫小狗 想去的地方 期待他能为你做的事 其实他从来没在意 在他眼里你无聊至极"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 46,
+          "like_count": 2720,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 494
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T13:54:24.000Z",
+        "description": "infp/上网就是为了到处看看/谢谢大家喜欢/私信看到会回的，就是不太会说话，感谢理解/https://t.co/A0tBxMIjYu提问在这里，欢迎大家找我玩/直男！！！！/🚪25（普通忍法帖）/50（火影月卡）/52（数字好看）/198（高级忍法帖/或者漂泊歹徒）过🚪私信或者凭转账截图私我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/6666645275",
+                "end": 67,
+                "expanded_url": "https://ngl.link/6666645275",
+                "start": 44,
+                "url": "https://t.co/A0tBxMIjYu"
+              }
+            ]
+          }
+        },
+        "id": "1796903090551132160",
+        "location": "你心里",
+        "name": "渔思鱼",
+        "pinned_tweet_id": "1923733494607266274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916670298042114048/2ymQgdjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 116,
+          "like_count": 369,
+          "listed_count": 4,
+          "media_count": 216,
+          "tweet_count": 821
+        },
+        "username": "ysy_Teriberak",
+        "verified": false
+      }
+    ]
+  }
+}

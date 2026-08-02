@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2077066966540628305",
+    "created_at": "2026-07-16T08:29:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T09:29:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077671860066750547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1840230821099384833",
+          "start": 0,
+          "username": "GalileiNammer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077671860066750547",
+    "in_reply_to_user_id": "1840230821099384833",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077168025355370619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GalileiNammer 鹅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2077066966540628305",
+        "created_at": "2026-07-16T08:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077671860066750547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1840230821099384833",
+              "start": 0,
+              "username": "GalileiNammer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077671860066750547",
+        "in_reply_to_user_id": "1840230821099384833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077168025355370619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GalileiNammer 鹅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840230821099384833",
+        "conversation_id": "2077066966540628305",
+        "created_at": "2026-07-14T23:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T00:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077168025355370619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077168025355370619",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077066966540628305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 有点眼熟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 然后贱人死开 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuureikoinu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuureikoinu",
+                "start": 0,
+                "url": "https://t.co/x3tImtkrnU"
+              }
+            ]
+          }
+        },
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "2066441052245176824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063646077333757952/dJ2jH7Df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 92,
+          "like_count": 13467,
+          "listed_count": 3,
+          "media_count": 312,
+          "tweet_count": 2429
+        },
+        "url": "https://t.co/x3tImtkrnU",
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-29T03:23:25.000Z",
+        "description": "在這個B時代\n“你是個正常人” \n已經是最高的褒獎和認可了\n🇯🇵留學中⋯",
+        "id": "1840230821099384833",
+        "location": "首都-南京",
+        "name": "窩還是肖楚楠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058831164891353088/3JLVXFDE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 775,
+          "like_count": 278,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 62
+        },
+        "url": "",
+        "username": "GalileiNammer",
+        "verified": false
+      }
+    ]
+  }
+}

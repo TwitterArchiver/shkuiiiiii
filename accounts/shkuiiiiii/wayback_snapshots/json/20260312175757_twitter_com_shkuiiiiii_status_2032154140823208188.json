@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2032154140823208188",
+    "created_at": "2026-03-12T17:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T18:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032154140823208188"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032154140823208188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我忍你們好久了（不是說你們這些可愛的小天使）你們不要再出現在我面前了好嗎太噁心了！割的好！o的好！快點死吧快點死吧快點死吧這倆逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2032154140823208188",
+        "created_at": "2026-03-12T17:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T18:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032154140823208188"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032154140823208188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我忍你們好久了（不是說你們這些可愛的小天使）你們不要再出現在我面前了好嗎太噁心了！割的好！o的好！快點死吧快點死吧快點死吧這倆逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 69,
+          "like_count": 11466,
+          "listed_count": 4,
+          "media_count": 257,
+          "tweet_count": 2035
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

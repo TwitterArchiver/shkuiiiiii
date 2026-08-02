@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1906812222522957856",
+    "created_at": "2025-03-31T20:53:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T21:53:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906812222522957856"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1906812222522957856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我也想交朋友我也想有人陪我也想和一群人一塊出去玩听他們聊天，我不再孤單。可是我做不到像一個正常人那樣去社交，我太難了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1906812222522957856",
+        "created_at": "2025-03-31T20:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T21:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906812222522957856"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906812222522957856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也想交朋友我也想有人陪我也想和一群人一塊出去玩听他們聊天，我不再孤單。可是我做不到像一個正常人那樣去社交，我太難了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "",
+        "id": "1569279849126297602",
+        "name": "小苟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906806669826514944/kdjjDdlC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 99,
+          "like_count": 2123,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 342
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

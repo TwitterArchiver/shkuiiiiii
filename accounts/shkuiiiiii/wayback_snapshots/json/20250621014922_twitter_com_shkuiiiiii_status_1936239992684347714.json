@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1936239992684347714",
+    "created_at": "2025-06-21T01:49:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T02:49:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936239992684347714"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1936239992684347714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天早上又o了8t普瑞然後去常州咯我要去吃野果我心心念念的嘻嘻。我下週二要住院了所以沒手機好桑心啊聽說夏天一周洗兩次澡我有點內個了，本苟會加油過好每一天的%！今天下高鐵藥效就上來了我好暈呀ww就這樣一直活下去吧+%-…z"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1936239992684347714",
+        "created_at": "2025-06-21T01:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T02:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936239992684347714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936239992684347714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天早上又o了8t普瑞然後去常州咯我要去吃野果我心心念念的嘻嘻。我下週二要住院了所以沒手機好桑心啊聽說夏天一周洗兩次澡我有點內個了，本苟會加油過好每一天的%！今天下高鐵藥效就上來了我好暈呀ww就這樣一直活下去吧+%-…z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 49,
+          "like_count": 2986,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 595
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2030947824494592084",
+    "created_at": "2026-03-10T15:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T16:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031390965580312677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1926222610020360192",
+          "start": 0,
+          "username": "xiow221325"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031390965580312677",
+    "in_reply_to_user_id": "1926222610020360192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031364210769416557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiow221325 謝謝你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2030947824494592084",
+        "created_at": "2026-03-10T15:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T16:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031390965580312677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1926222610020360192",
+              "start": 0,
+              "username": "xiow221325"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031390965580312677",
+        "in_reply_to_user_id": "1926222610020360192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031364210769416557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiow221325 謝謝你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926222610020360192",
+        "conversation_id": "2030947824494592084",
+        "created_at": "2026-03-10T13:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T14:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031364210769416557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031364210769416557",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030947824494592084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 萌妹子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "2019456404327686611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 71,
+          "like_count": 11421,
+          "listed_count": 4,
+          "media_count": 256,
+          "tweet_count": 2020
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T10:24:04.000Z",
+        "description": "風雨の後にはいつも虹があります。私はすべての人に優しくすることを忘れません。もしあなたが何か言いにくいことがあったら、私と話すことができて、私は活発な学生です",
+        "id": "1926222610020360192",
+        "name": "初夏の伊白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926222801406492672/Fe1zzsud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 25,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 109
+        },
+        "username": "xiow221325",
+        "verified": false
+      }
+    ]
+  }
+}

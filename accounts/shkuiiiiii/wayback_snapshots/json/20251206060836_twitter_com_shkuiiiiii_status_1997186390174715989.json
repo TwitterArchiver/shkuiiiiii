@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1997027978858070030",
+    "created_at": "2025-12-06T06:08:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T07:08:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997186390174715989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1826205863599915008",
+          "start": 0,
+          "username": "fukuyuutaso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997186390174715989",
+    "in_reply_to_user_id": "1826205863599915008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997131577084776560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fukuyuutaso 嘿嘿睡一覺就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1997027978858070030",
+        "created_at": "2025-12-06T06:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T07:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997186390174715989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1826205863599915008",
+              "start": 0,
+              "username": "fukuyuutaso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997186390174715989",
+        "in_reply_to_user_id": "1826205863599915008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997131577084776560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fukuyuutaso 嘿嘿睡一覺就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826205863599915008",
+        "conversation_id": "1997027978858070030",
+        "created_at": "2025-12-06T02:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T03:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997131577084776560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997131577084776560",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997027978858070030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 你还好吗？？\n出什么事了(´･ ･｀)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1995528421066375297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995433565438504961/bd-6nfSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 64,
+          "like_count": 6497,
+          "listed_count": 4,
+          "media_count": 215,
+          "tweet_count": 1257
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T10:33:12.000Z",
+        "description": "01 だらだらとやってます。仲良くしてくだ",
+        "id": "1826205863599915008",
+        "location": "きゅーしゅー",
+        "name": "ゆうたそ",
+        "pinned_tweet_id": "1831984249215561796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838437640988954625/pOV_NDrX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 22,
+          "like_count": 774,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 197
+        },
+        "username": "fukuyuutaso",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2008169682101305658",
+    "created_at": "2026-01-06T10:24:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T11:24:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008484837964083205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1279738200626466816",
+          "start": 0,
+          "username": "Rain76318015"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008484837964083205",
+    "in_reply_to_user_id": "1279738200626466816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008172186587066520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain76318015 已沒事！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2008169682101305658",
+        "created_at": "2026-01-06T10:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T11:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008484837964083205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1279738200626466816",
+              "start": 0,
+              "username": "Rain76318015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008484837964083205",
+        "in_reply_to_user_id": "1279738200626466816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008172186587066520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain76318015 已沒事！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279738200626466816",
+        "conversation_id": "2008169682101305658",
+        "created_at": "2026-01-05T13:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T14:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008172186587066520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008172186587066520",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008169682101305658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 🫂🫂喝点饮料深呼吸躺会呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 73,
+          "like_count": 8460,
+          "listed_count": 4,
+          "media_count": 231,
+          "tweet_count": 1482
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-05T11:25:50.000Z",
+        "description": "顺直男\n祈祷不会掉马甲\n无人在意的角落碎碎念\n🚪688888",
+        "id": "1279738200626466816",
+        "name": "U",
+        "pinned_tweet_id": "1997079425351864588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008200994794930177/NkAXkCk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 86,
+          "like_count": 2041,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 359
+        },
+        "username": "Rain76318015",
+        "verified": false
+      }
+    ]
+  }
+}

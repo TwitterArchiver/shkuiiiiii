@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2032885136468181014",
+    "created_at": "2026-03-14T18:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T19:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032885136468181014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1623016625204252673",
+          "start": 3,
+          "username": "71411z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032885136468181014",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 459
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032203259465908669",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @71411z: 视奸最爽的就是发现那个人有了更亲密的人之后 心脏那种闷闷的钝痛感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2032885136468181014",
+        "created_at": "2026-03-14T18:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T19:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032885136468181014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1623016625204252673",
+              "start": 3,
+              "username": "71411z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032885136468181014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 459
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032203259465908669",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @71411z: 视奸最爽的就是发现那个人有了更亲密的人之后 心脏那种闷闷的钝痛感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1623016625204252673",
+        "conversation_id": "2032203259465908669",
+        "created_at": "2026-03-12T21:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T22:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032203259465908669"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032203259465908669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 230,
+          "impression_count": 342716,
+          "like_count": 4551,
+          "quote_count": 97,
+          "reply_count": 272,
+          "retweet_count": 459
+        },
+        "reply_settings": "everyone",
+        "text": "视奸最爽的就是发现那个人有了更亲密的人之后 心脏那种闷闷的钝痛感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 69,
+          "like_count": 11599,
+          "listed_count": 4,
+          "media_count": 257,
+          "tweet_count": 2053
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-07T17:51:43.000Z",
+        "description": "我会幸福的 ➡️互关通过@evszv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 12,
+                "username": "evszv"
+              }
+            ]
+          }
+        },
+        "id": "1623016625204252673",
+        "name": "收敛水",
+        "pinned_tweet_id": "1987814546795569393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843336344086736896/ZgfJD3XW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4850,
+          "following_count": 817,
+          "like_count": 3914,
+          "listed_count": 13,
+          "media_count": 240,
+          "tweet_count": 999
+        },
+        "username": "71411z",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2017024862766977302",
+    "created_at": "2026-01-29T23:59:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T00:59:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017024862766977302"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2017024862766977302",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其實剛剛我想到了我是不是不應該通宵第二天會睡很久然後我寶寶和我聊天的時間就很少了，其實我一直很害怕我犯了哪些不知道不重要的錯誤導致慢慢的我們就分手了，好害怕我要不還是不熬夜了……但是熬夜好酥服，對不起我是一個不稱職的女朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2017024862766977302",
+        "created_at": "2026-01-29T23:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T00:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017024862766977302"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017024862766977302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其實剛剛我想到了我是不是不應該通宵第二天會睡很久然後我寶寶和我聊天的時間就很少了，其實我一直很害怕我犯了哪些不知道不重要的錯誤導致慢慢的我們就分手了，好害怕我要不還是不熬夜了……但是熬夜好酥服，對不起我是一個不稱職的女朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 83,
+          "like_count": 9970,
+          "listed_count": 4,
+          "media_count": 238,
+          "tweet_count": 1768
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1924077649581813760"
+      ],
+      "media_source_tweet_id": [
+        "1924077751390335465"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1924407293330051096",
+    "created_at": "2025-05-19T10:10:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T11:10:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924407293330051096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1909553877739085825",
+          "start": 3,
+          "username": "Tokyo8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9NYG4TvdSI",
+          "end": 54,
+          "expanded_url": "https://x.com/Tokyo8964/status/1924077751390335465/video/1",
+          "media_key": "13_1924077649581813760",
+          "start": 31,
+          "url": "https://t.co/9NYG4TvdSI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924407293330051096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924077751390335465",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tokyo8964: 你永远是中国人合集一次性溜个爽 https://t.co/9NYG4TvdSI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 81882,
+        "height": 1280,
+        "media_key": "13_1924077649581813760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1924077649581813760/img/5AKukmjm-7jQ6z9e.jpg",
+        "public_metrics": {
+          "view_count": 48745
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1924077649581813760/vid/avc1/320x568/-B3xfCFxKNQU2rB2.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1924077649581813760/vid/avc1/480x852/3sAKBHBaGdI3HERj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1924077649581813760/vid/avc1/720x1280/J5Fh1UBI6DnYRFzE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1924077649581813760/pl/UQ1iCrhGFCOcWSbg.m3u8?v=aa0"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1924077649581813760"
+          ],
+          "media_source_tweet_id": [
+            "1924077751390335465"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1924407293330051096",
+        "created_at": "2025-05-19T10:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T11:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924407293330051096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1909553877739085825",
+              "start": 3,
+              "username": "Tokyo8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9NYG4TvdSI",
+              "end": 54,
+              "expanded_url": "https://x.com/Tokyo8964/status/1924077751390335465/video/1",
+              "media_key": "13_1924077649581813760",
+              "start": 31,
+              "url": "https://t.co/9NYG4TvdSI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924407293330051096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924077751390335465",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tokyo8964: 你永远是中国人合集一次性溜个爽 https://t.co/9NYG4TvdSI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1924077649581813760"
+          ]
+        },
+        "author_id": "1909553877739085825",
+        "conversation_id": "1924077751390335465",
+        "created_at": "2025-05-18T12:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T13:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924077751390335465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9NYG4TvdSI",
+              "end": 39,
+              "expanded_url": "https://x.com/Tokyo8964/status/1924077751390335465/video/1",
+              "media_key": "13_1924077649581813760",
+              "start": 16,
+              "url": "https://t.co/9NYG4TvdSI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924077751390335465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 245,
+          "impression_count": 121453,
+          "like_count": 704,
+          "quote_count": 16,
+          "reply_count": 119,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "你永远是中国人合集一次性溜个爽 https://t.co/9NYG4TvdSI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920921110893522947/Nv5kwqEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 33,
+          "like_count": 2443,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 453
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T10:28:26.000Z",
+        "description": "前b站qq小世界搬史up主 07小男娘 IP日本東京新宿.（ 🚪58）成分複雜：鉴证/抽象/自由主義/民主日本/中華民國/神友🌊/二次元/cosplay/双性戀🏳️‍🌈/女裝/maimai/瓦/（互fo私信）可以找我交朋友或🈷️ 自由のために,心臓を捧げよ！逃生舱：@Japan114514258",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 133,
+                "username": "Japan114514258"
+              }
+            ]
+          }
+        },
+        "id": "1909553877739085825",
+        "location": "東京 新宿区",
+        "name": "抽象耶格尔🇯🇵🇹🇼",
+        "pinned_tweet_id": "1910378497186611630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924039138187071488/az9KJ_3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1363,
+          "following_count": 338,
+          "like_count": 404,
+          "listed_count": 6,
+          "media_count": 74,
+          "tweet_count": 143
+        },
+        "username": "Tokyo8964",
+        "verified": false
+      }
+    ]
+  }
+}

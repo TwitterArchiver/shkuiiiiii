@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1993738173017719116",
+    "created_at": "2025-11-26T18:50:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T19:50:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993754220663853350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1993407102065561600",
+          "start": 0,
+          "username": "tR8NWV6Ma578252"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993754220663853350",
+    "in_reply_to_user_id": "1993407102065561600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993753397137428853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tR8NWV6Ma578252 實惠！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1993738173017719116",
+        "created_at": "2025-11-26T18:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T19:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993754220663853350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1993407102065561600",
+              "start": 0,
+              "username": "tR8NWV6Ma578252"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993754220663853350",
+        "in_reply_to_user_id": "1993407102065561600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993753397137428853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tR8NWV6Ma578252 實惠！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993407102065561600",
+        "conversation_id": "1993738173017719116",
+        "created_at": "2025-11-26T18:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T19:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993753397137428853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993753397137428853",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993738173017719116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 买辆奥迪送你，太贵\n请你出国旅游，浪费\n约你海吃一顿，伤胃\n送你一枝玫瑰，误会\n给你一个热吻，不对\n只好在推祝你快乐，实惠!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 60,
+          "like_count": 4333,
+          "listed_count": 2,
+          "media_count": 190,
+          "tweet_count": 880
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T19:51:16.000Z",
+        "description": "",
+        "id": "1993407102065561600",
+        "name": "K",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993412884681072640/m1vlE1Mk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 6,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "tR8NWV6Ma578252",
+        "verified": false
+      }
+    ]
+  }
+}

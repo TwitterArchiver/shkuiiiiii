@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926633849968050176",
+        "3_1926633850613960704",
+        "3_1926633851486396416"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "conversation_id": "1926633854984495252",
+    "created_at": "2025-05-25T13:38:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T14:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1926633854984495252"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GOnS22GMxq",
+          "end": 84,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1926633854984495252/photo/1",
+          "media_key": "3_1926633849968050176",
+          "start": 61,
+          "url": "https://t.co/GOnS22GMxq"
+        },
+        {
+          "display_url": "pic.x.com/GOnS22GMxq",
+          "end": 84,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1926633854984495252/photo/1",
+          "media_key": "3_1926633850613960704",
+          "start": 61,
+          "url": "https://t.co/GOnS22GMxq"
+        },
+        {
+          "display_url": "pic.x.com/GOnS22GMxq",
+          "end": 84,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1926633854984495252/photo/1",
+          "media_key": "3_1926633851486396416",
+          "start": 61,
+          "url": "https://t.co/GOnS22GMxq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926633854984495252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "臥槽其實我現實像豬精一樣但是拍出來然後p一下就很哇塞喲。。。唉太牛逼了我，今天我姐原相機拍我我差點沒嚇死這也太尼瑪丑了😂 https://t.co/GOnS22GMxq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1926633849968050176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrzHR1-WwAACxpe.jpg",
+        "width": 1052
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1926633850613960704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrzHR4YWkAAby5M.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1926633851486396416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrzHR7oW4AA2OYm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926633849968050176",
+            "3_1926633850613960704",
+            "3_1926633851486396416"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "1926633854984495252",
+        "created_at": "2025-05-25T13:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T14:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926633854984495252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GOnS22GMxq",
+              "end": 84,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1926633854984495252/photo/1",
+              "media_key": "3_1926633849968050176",
+              "start": 61,
+              "url": "https://t.co/GOnS22GMxq"
+            },
+            {
+              "display_url": "pic.x.com/GOnS22GMxq",
+              "end": 84,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1926633854984495252/photo/1",
+              "media_key": "3_1926633850613960704",
+              "start": 61,
+              "url": "https://t.co/GOnS22GMxq"
+            },
+            {
+              "display_url": "pic.x.com/GOnS22GMxq",
+              "end": 84,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1926633854984495252/photo/1",
+              "media_key": "3_1926633851486396416",
+              "start": 61,
+              "url": "https://t.co/GOnS22GMxq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926633854984495252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "臥槽其實我現實像豬精一樣但是拍出來然後p一下就很哇塞喲。。。唉太牛逼了我，今天我姐原相機拍我我差點沒嚇死這也太尼瑪丑了😂 https://t.co/GOnS22GMxq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920921110893522947/Nv5kwqEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 33,
+          "like_count": 2522,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 468
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

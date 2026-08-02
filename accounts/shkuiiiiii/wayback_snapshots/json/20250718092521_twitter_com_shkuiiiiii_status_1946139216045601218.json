@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1946139216045601218",
+    "created_at": "2025-07-18T09:25:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T10:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946139216045601218"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1946139216045601218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "臥槽我住院的時候一直在哭一直在哭每天都會哭好多次尤其是剛進去一周見不到家長沒有手機，我真的當時好絕望好崩潰，我終於熬出頭了你們知道我怎麼熬過來的嗎？我在裡面好痛苦的。。。醫生怎麼說都不放我出去我好難受。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1946139216045601218",
+        "created_at": "2025-07-18T09:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T10:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946139216045601218"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946139216045601218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "臥槽我住院的時候一直在哭一直在哭每天都會哭好多次尤其是剛進去一周見不到家長沒有手機，我真的當時好絕望好崩潰，我終於熬出頭了你們知道我怎麼熬過來的嗎？我在裡面好痛苦的。。。醫生怎麼說都不放我出去我好難受。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 48,
+          "like_count": 2984,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 605
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

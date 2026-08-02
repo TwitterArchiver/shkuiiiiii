@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2055891438626582624",
+    "created_at": "2026-05-17T16:00:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T17:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056042074286530750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1772911113996496896",
+          "start": 0,
+          "username": "gan623337788673"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056042074286530750",
+    "in_reply_to_user_id": "1772911113996496896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055891438626582624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gan623337788673 我也是一條苟苟"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2055891438626582624].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2055891438626582624",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2055891438626582624"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2055891438626582624",
+        "created_at": "2026-05-17T16:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056042074286530750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1772911113996496896",
+              "start": 0,
+              "username": "gan623337788673"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056042074286530750",
+        "in_reply_to_user_id": "1772911113996496896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055891438626582624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gan623337788673 我也是一條苟苟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuureikoinu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuureikoinu",
+                "start": 0,
+                "url": "https://t.co/x3tImtkrnU"
+              }
+            ]
+          }
+        },
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1995791304341495847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 97,
+          "like_count": 12900,
+          "listed_count": 3,
+          "media_count": 289,
+          "tweet_count": 2249
+        },
+        "url": "https://t.co/x3tImtkrnU",
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T08:59:03.000Z",
+        "description": "无人在意，世间美好全与我无关。",
+        "id": "1772911113996496896",
+        "name": "整容之后还是丑就去死",
+        "pinned_tweet_id": "1953475904153268434",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 884,
+          "like_count": 7658,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 4367
+        },
+        "username": "gan623337788673",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1919421762384871864",
+    "created_at": "2025-05-05T15:59:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T16:59:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919421762384871864"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1919421762384871864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好難受情緒好低弱，沒有人主動找我聊天，什麼都沒有了，沒有朋友沒有愛沒有了一切，衹能刷刷朋友圈刷刷抖音但是發現你們都有朋友…你們媽死了知道不，整天我朋友我朋友我草泥馬啊，傻逼才需要朋友，你們這群賤人都不值得我和你們交朋友，我草泥馬……好難受我連傻逼都不如🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1919421762384871864",
+        "created_at": "2025-05-05T15:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T16:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919421762384871864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919421762384871864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好難受情緒好低弱，沒有人主動找我聊天，什麼都沒有了，沒有朋友沒有愛沒有了一切，衹能刷刷朋友圈刷刷抖音但是發現你們都有朋友…你們媽死了知道不，整天我朋友我朋友我草泥馬啊，傻逼才需要朋友，你們這群賤人都不值得我和你們交朋友，我草泥馬……好難受我連傻逼都不如🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "我是小苟 一只晴天娃娃 粉紅滾",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910019062761152515/MpKvTiZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 33,
+          "like_count": 2400,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 422
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

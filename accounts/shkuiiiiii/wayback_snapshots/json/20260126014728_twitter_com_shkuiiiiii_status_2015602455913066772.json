@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2015599866454704492",
+    "created_at": "2026-01-26T01:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T02:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015602455913066772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1936091086470193152",
+          "start": 0,
+          "username": "yui1225love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015602455913066772",
+    "in_reply_to_user_id": "1936091086470193152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015599866454704492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yui1225love 太萌了這個小兔嘰……以及我發現了發自拍的標籤！（偷走）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2015599859559010304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_jZZKZXkAAzgYu.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2015599866454704492",
+        "created_at": "2026-01-26T01:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T02:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015602455913066772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1936091086470193152",
+              "start": 0,
+              "username": "yui1225love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015602455913066772",
+        "in_reply_to_user_id": "1936091086470193152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015599866454704492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yui1225love 太萌了這個小兔嘰……以及我發現了發自拍的標籤！（偷走）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015599859559010304"
+          ]
+        },
+        "author_id": "1936091086470193152",
+        "conversation_id": "2015599866454704492",
+        "created_at": "2026-01-26T01:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T02:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015599866454704492"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 16,
+              "start": 7,
+              "tag": "jiraikei"
+            },
+            {
+              "end": 27,
+              "start": 18,
+              "tag": "jiraitwt"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "地雷系"
+            },
+            {
+              "end": 39,
+              "start": 33,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 44,
+              "start": 40,
+              "tag": "自撮り"
+            },
+            {
+              "end": 51,
+              "start": 45,
+              "tag": "自撮り女子"
+            },
+            {
+              "end": 64,
+              "start": 52,
+              "tag": "自撮り界限と繋がりたい"
+            },
+            {
+              "end": 77,
+              "start": 65,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 92,
+              "start": 78,
+              "tag": "病み垢男子さんと繋がりたい"
+            },
+            {
+              "end": 108,
+              "start": 94,
+              "tag": "病み垢女子さんと繋がりたい"
+            },
+            {
+              "end": 115,
+              "start": 109,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 121,
+              "start": 116,
+              "tag": "友達募集"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3kySHy2ZMq",
+              "end": 145,
+              "expanded_url": "https://x.com/yui1225love/status/2015599866454704492/photo/1",
+              "media_key": "3_2015599859559010304",
+              "start": 122,
+              "url": "https://t.co/3kySHy2ZMq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015599866454704492",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈 #jiraikei  #jiraitwt #地雷系 #地雷系女子 #自撮り #自撮り女子 #自撮り界限と繋がりたい #病み垢さんと繋がりたい #病み垢男子さんと繋がりたい  #病み垢女子さんと繋がりたい #病み垢女子 #友達募集 https://t.co/3kySHy2ZMq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 80,
+          "like_count": 9738,
+          "listed_count": 4,
+          "media_count": 238,
+          "tweet_count": 1713
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-20T15:58:54.000Z",
+        "description": "碎碎念，偶尔搞同人♡我喜欢可爱的女孩子，请和我互fo！♡我不会对药效期间任何言论和行为负责♡私信被吞没回可以在置顶提醒一下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yui1225love?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/yui1225love?igsh=MWZmYmttbml4Nm40aA==",
+                "start": 0,
+                "url": "https://t.co/5R7R0p3v6t"
+              }
+            ]
+          }
+        },
+        "id": "1936091086470193152",
+        "location": "纯绿🚪赞赏码52好友位，88聊天",
+        "name": "这里没有你要找的好小兔",
+        "pinned_tweet_id": "2014691800724681025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008196339608244224/gwKTHD6O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 83,
+          "like_count": 510,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 708
+        },
+        "url": "https://t.co/5R7R0p3v6t",
+        "username": "yui1225love",
+        "verified": false
+      }
+    ]
+  }
+}

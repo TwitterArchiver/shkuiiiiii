@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1956403486217891955",
+    "created_at": "2025-08-15T17:11:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T18:11:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956403486217891955"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1956403486217891955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "還有十五天就開學了我怎麼辦我已經胖了25斤了我真的好崩潰。我不想去學校我跟頭豬一樣一直在吃，如果我不住院的話我不知道我現在能瘦多少斤。。。世界毀滅吧，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1956403486217891955",
+        "created_at": "2025-08-15T17:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T18:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956403486217891955"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956403486217891955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "還有十五天就開學了我怎麼辦我已經胖了25斤了我真的好崩潰。我不想去學校我跟頭豬一樣一直在吃，如果我不住院的話我不知道我現在能瘦多少斤。。。世界毀滅吧，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 51,
+          "like_count": 3204,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 645
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

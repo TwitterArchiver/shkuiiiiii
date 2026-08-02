@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1924363784539500850",
+    "created_at": "2025-05-19T07:17:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T08:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1924363784539500850"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1924363784539500850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其實之前剛剛認識的時候他叫我把煙戒掉我還真想這樣但是沒一起幾天就鬧掰了，我還是好好抽我的煙吧現在沒有人可以讓我戒掉了，唉！等到我自己真的幸福的時候再說吧。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1924363784539500850",
+        "created_at": "2025-05-19T07:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T08:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924363784539500850"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924363784539500850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其實之前剛剛認識的時候他叫我把煙戒掉我還真想這樣但是沒一起幾天就鬧掰了，我還是好好抽我的煙吧現在沒有人可以讓我戒掉了，唉！等到我自己真的幸福的時候再說吧。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920921110893522947/Nv5kwqEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 33,
+          "like_count": 2441,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 452
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

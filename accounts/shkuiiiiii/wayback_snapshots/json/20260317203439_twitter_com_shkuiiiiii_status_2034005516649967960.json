@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2034005244666171770",
+    "created_at": "2026-03-17T20:34:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T21:34:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034005516649967960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1572766613337931778",
+          "start": 0,
+          "username": "hinanawi9tenshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034005516649967960",
+    "in_reply_to_user_id": "1572766613337931778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034005244666171770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hinanawi9tenshi 出門多穿點呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2034005244666171770",
+        "created_at": "2026-03-17T20:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T21:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034005516649967960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1572766613337931778",
+              "start": 0,
+              "username": "hinanawi9tenshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034005516649967960",
+        "in_reply_to_user_id": "1572766613337931778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034005244666171770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hinanawi9tenshi 出門多穿點呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572766613337931778",
+        "conversation_id": "2034005244666171770",
+        "created_at": "2026-03-17T20:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T21:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034005244666171770"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034005244666171770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "准备出门抽烟\n但是外面在下雨而且好冷\n虽然睡不着但是床上好舒服不想起床\n在家里抽又怕第二天让妈妈闻到烟味\n额啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1995791304341495847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 96,
+          "like_count": 11946,
+          "listed_count": 4,
+          "media_count": 262,
+          "tweet_count": 2103
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-22T01:56:21.000Z",
+        "description": "大一在讀。infp　音ゲーやってる\nツユ、ヒトリエ、ヨルシカ、神聖かまってちゃん、きのこ帝国、八十八ヶ所巡礼が大好きです。\nsteam code:1012272402",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "train-guide.westjr.co.jp/hokurikubiwako…",
+                "end": 23,
+                "expanded_url": "https://www.train-guide.westjr.co.jp/hokurikubiwako.html?st=0509",
+                "start": 0,
+                "url": "https://t.co/HAxUUaslaO"
+              }
+            ]
+          }
+        },
+        "id": "1572766613337931778",
+        "location": "Kanazawa-shi, Ishikawa",
+        "name": "moktus",
+        "pinned_tweet_id": "2016935828283674899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959212577768251392/QvH2pKYt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 602,
+          "like_count": 27959,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 1711
+        },
+        "url": "https://t.co/HAxUUaslaO",
+        "username": "hinanawi9tenshi",
+        "verified": false
+      }
+    ]
+  }
+}

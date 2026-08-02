@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2024453324414546074",
+    "created_at": "2026-02-19T15:03:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T16:03:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024500166326440080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1998568087382274049",
+          "start": 0,
+          "username": "bvdsvge12071"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024500166326440080",
+    "in_reply_to_user_id": "1998568087382274049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024453324414546074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bvdsvge12071 姐姐……好美麗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024453305980579840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBhNjkdWcAAf3j4.jpg",
+        "width": 1175
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2024453324414546074",
+        "created_at": "2026-02-19T15:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T16:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024500166326440080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1998568087382274049",
+              "start": 0,
+              "username": "bvdsvge12071"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024500166326440080",
+        "in_reply_to_user_id": "1998568087382274049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024453324414546074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bvdsvge12071 姐姐……好美麗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024453305980579840"
+          ]
+        },
+        "author_id": "1998568087382274049",
+        "conversation_id": "2024453324414546074",
+        "created_at": "2026-02-19T11:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024453324414546074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PMSDB0oWBQ",
+              "end": 28,
+              "expanded_url": "https://x.com/bvdsvge12071/status/2024453324414546074/photo/1",
+              "media_key": "3_2024453305980579840",
+              "start": 5,
+              "url": "https://t.co/PMSDB0oWBQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024453324414546074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "形單影隻 https://t.co/PMSDB0oWBQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "2019456404327686611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 71,
+          "like_count": 11086,
+          "listed_count": 4,
+          "media_count": 250,
+          "tweet_count": 1958
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T01:39:28.000Z",
+        "description": "你们好呀！这里是阿宁！🥰 05｜温良宅女｜gbg｜穿孔｜酗酒｜日番日漫｜焦虑症吃药治疗中｜欢迎互fo｜喜欢在评论区互动。高浓度上网★私信开放 可聊天",
+        "id": "1998568087382274049",
+        "name": "为何痛苦总是如影随形",
+        "pinned_tweet_id": "2024453324414546074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000815325521068041/4eeyWtxs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 119,
+          "like_count": 7678,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 663
+        },
+        "username": "bvdsvge12071",
+        "verified": false
+      }
+    ]
+  }
+}

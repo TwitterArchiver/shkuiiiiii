@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1992628438822457631",
+    "created_at": "2025-11-23T16:16:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T17:16:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992628438822457631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1138331212710178819",
+          "start": 3,
+          "username": "akane311320"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992628438822457631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992276645764276683",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akane311320: 我人生的第一个错误就是离开子宫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1992628438822457631",
+        "created_at": "2025-11-23T16:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T17:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992628438822457631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1138331212710178819",
+              "start": 3,
+              "username": "akane311320"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992628438822457631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992276645764276683",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akane311320: 我人生的第一个错误就是离开子宫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1138331212710178819",
+        "conversation_id": "1992276645764276683",
+        "created_at": "2025-11-22T16:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T17:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992276645764276683"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992276645764276683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 566,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我人生的第一个错误就是离开子宫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 我喜歡看碎碎念，我們來互fo吧…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 61,
+          "like_count": 3705,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 724
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-11T06:24:45.000Z",
+        "description": "距离奇迹发生还有＿天 备用号@akane3203",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "akane3203"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akane26634",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akane26634",
+                "start": 0,
+                "url": "https://t.co/5Ra3x0vJvv"
+              }
+            ]
+          }
+        },
+        "id": "1138331212710178819",
+        "location": "问坐标20r",
+        "name": "茜",
+        "pinned_tweet_id": "1951186399761191118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947569319358971904/JQ3fGSLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 56,
+          "like_count": 343,
+          "listed_count": 4,
+          "media_count": 249,
+          "tweet_count": 1434
+        },
+        "url": "https://t.co/5Ra3x0vJvv",
+        "username": "akane311320",
+        "verified": false
+      }
+    ]
+  }
+}

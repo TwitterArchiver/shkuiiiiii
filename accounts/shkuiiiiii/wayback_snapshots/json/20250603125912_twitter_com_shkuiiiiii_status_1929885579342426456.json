@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1929156714223542579",
+    "created_at": "2025-06-03T12:59:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T13:59:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929885579342426456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2596381225",
+          "start": 0,
+          "username": "vir_coconut"
+        },
+        {
+          "end": 26,
+          "id": "1867639848569372672",
+          "start": 13,
+          "username": "overdose_day"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929885579342426456",
+    "in_reply_to_user_id": "2596381225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929772876271702032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vir_coconut @overdose_day 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1929156714223542579",
+        "created_at": "2025-06-03T12:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T13:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929885579342426456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2596381225",
+              "start": 0,
+              "username": "vir_coconut"
+            },
+            {
+              "end": 26,
+              "id": "1867639848569372672",
+              "start": 13,
+              "username": "overdose_day"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929885579342426456",
+        "in_reply_to_user_id": "2596381225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929772876271702032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vir_coconut @overdose_day 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2596381225",
+        "conversation_id": "1929156714223542579",
+        "created_at": "2025-06-03T05:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T06:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929772876271702032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1867639848569372672",
+              "start": 0,
+              "username": "overdose_day"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929772876271702032",
+        "in_reply_to_user_id": "1867639848569372672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 587,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929156714223542579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_day 你那张脸收9.9门槛都要挨骂😒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 52,
+          "like_count": 2776,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 513
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-30T13:25:34.000Z",
+        "description": "坐标杭州｜私信只回口令红包其余拉黑",
+        "id": "2596381225",
+        "location": "🚪288/520/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924127069442633729/M__zGfEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23954,
+          "following_count": 297,
+          "like_count": 3507,
+          "listed_count": 37,
+          "media_count": 58,
+          "tweet_count": 2027
+        },
+        "username": "vir_coconut",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T18:37:15.000Z",
+        "description": "官网:https://t.co/bwfCFLxN8g",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 26,
+                "expanded_url": "https://overdose.day",
+                "start": 3,
+                "url": "https://t.co/bwfCFLxN8g"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/W009AsBfUr"
+              }
+            ]
+          }
+        },
+        "id": "1867639848569372672",
+        "name": "化学极乐百科⚛️",
+        "pinned_tweet_id": "1921444982461718757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909493731260289024/ezggnfUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3253,
+          "following_count": 1464,
+          "like_count": 793,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1132
+        },
+        "url": "https://t.co/W009AsBfUr",
+        "username": "overdose_day",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999046836229947392"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "conversation_id": "1999046873605443695",
+    "created_at": "2025-12-11T09:21:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T10:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999046873605443695"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UQSrgkdUTd",
+          "end": 61,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1999046873605443695/photo/1",
+          "media_key": "3_1999046836229947392",
+          "start": 38,
+          "url": "https://t.co/UQSrgkdUTd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999046873605443695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天小苟嘗試了假髮……然後我發現我一段時間狂刷推一段時間每天就上一次🌚🌚🌚 https://t.co/UQSrgkdUTd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999046836229947392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G74KgZLawAAoNoK.jpg",
+        "width": 1482
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999046836229947392"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "1999046873605443695",
+        "created_at": "2025-12-11T09:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T10:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999046873605443695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UQSrgkdUTd",
+              "end": 61,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1999046873605443695/photo/1",
+              "media_key": "3_1999046836229947392",
+              "start": 38,
+              "url": "https://t.co/UQSrgkdUTd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999046873605443695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天小苟嘗試了假髮……然後我發現我一段時間狂刷推一段時間每天就上一次🌚🌚🌚 https://t.co/UQSrgkdUTd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1995528421066375297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995433565438504961/bd-6nfSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 66,
+          "like_count": 6823,
+          "listed_count": 4,
+          "media_count": 218,
+          "tweet_count": 1303
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

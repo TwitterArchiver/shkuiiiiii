@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932350855824670720",
+        "3_1932350855732465664"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "conversation_id": "1932350858479698139",
+    "created_at": "2025-06-10T08:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T09:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932350858479698139"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/q5Rp2GE4q1",
+          "end": 69,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1932350858479698139/photo/1",
+          "media_key": "3_1932350855824670720",
+          "start": 46,
+          "url": "https://t.co/q5Rp2GE4q1"
+        },
+        {
+          "display_url": "pic.x.com/q5Rp2GE4q1",
+          "end": 69,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1932350858479698139/photo/1",
+          "media_key": "3_1932350855732465664",
+          "start": 46,
+          "url": "https://t.co/q5Rp2GE4q1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932350858479698139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天坐公交車拍的，咋感覺一般所以我不發朋友圈了發這裡反正這裡沒啥人認識我꒰ *•ɷ•* ꒱ https://t.co/q5Rp2GE4q1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1439,
+        "media_key": "3_1932350855824670720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtEW3YbaAAAI7Sk.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1932350855732465664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtEW3YFbEAAlkm8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932350855824670720",
+            "3_1932350855732465664"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "1932350858479698139",
+        "created_at": "2025-06-10T08:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T09:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932350858479698139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q5Rp2GE4q1",
+              "end": 69,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1932350858479698139/photo/1",
+              "media_key": "3_1932350855824670720",
+              "start": 46,
+              "url": "https://t.co/q5Rp2GE4q1"
+            },
+            {
+              "display_url": "pic.x.com/q5Rp2GE4q1",
+              "end": 69,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1932350858479698139/photo/1",
+              "media_key": "3_1932350855732465664",
+              "start": 46,
+              "url": "https://t.co/q5Rp2GE4q1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932350858479698139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天坐公交車拍的，咋感覺一般所以我不發朋友圈了發這裡反正這裡沒啥人認識我꒰ *•ɷ•* ꒱ https://t.co/q5Rp2GE4q1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 44,
+          "like_count": 2942,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 566
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

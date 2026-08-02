@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1934363735378063766",
+    "created_at": "2025-06-15T21:33:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T22:33:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934363735378063766"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1934363735378063766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老子好他媽難受我就是一個容易受別人情緒影響的人無論是誰你們一字一句我都會反復深刻的解讀。而且之後也總會像我難過的那一方發展。。。好難受我想安樂死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1934363735378063766",
+        "created_at": "2025-06-15T21:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T22:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934363735378063766"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934363735378063766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老子好他媽難受我就是一個容易受別人情緒影響的人無論是誰你們一字一句我都會反復深刻的解讀。而且之後也總會像我難過的那一方發展。。。好難受我想安樂死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 47,
+          "like_count": 2955,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 590
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966809742703312896",
+        "3_1966809743869267969",
+        "3_1966809743483375616"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "conversation_id": "1966809753452998966",
+    "created_at": "2025-09-13T10:22:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T11:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966809753452998966"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IB1qnHl6VQ",
+          "end": 70,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1966809753452998966/photo/1",
+          "media_key": "3_1966809742703312896",
+          "start": 47,
+          "url": "https://t.co/IB1qnHl6VQ"
+        },
+        {
+          "display_url": "pic.x.com/IB1qnHl6VQ",
+          "end": 70,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1966809753452998966/photo/1",
+          "media_key": "3_1966809743869267969",
+          "start": 47,
+          "url": "https://t.co/IB1qnHl6VQ"
+        },
+        {
+          "display_url": "pic.x.com/IB1qnHl6VQ",
+          "end": 70,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1966809753452998966/photo/1",
+          "media_key": "3_1966809743483375616",
+          "start": 47,
+          "url": "https://t.co/IB1qnHl6VQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966809753452998966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天和hako去試婚紗，然後狂拍照，好熱好熱，然後去江蘇路買煙，之後我一個人去環球港電玩城玩 https://t.co/IB1qnHl6VQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1452,
+        "media_key": "3_1966809742703312896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0uDClabwAAaSUo.jpg",
+        "width": 1080
+      },
+      {
+        "height": 768,
+        "media_key": "3_1966809743869267969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0uDCpwa0AEFBRe.jpg",
+        "width": 576
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1966809743483375616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0uDCoUakAAnCM8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966809742703312896",
+            "3_1966809743869267969",
+            "3_1966809743483375616"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "1966809753452998966",
+        "created_at": "2025-09-13T10:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T11:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966809753452998966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IB1qnHl6VQ",
+              "end": 70,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1966809753452998966/photo/1",
+              "media_key": "3_1966809742703312896",
+              "start": 47,
+              "url": "https://t.co/IB1qnHl6VQ"
+            },
+            {
+              "display_url": "pic.x.com/IB1qnHl6VQ",
+              "end": 70,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1966809753452998966/photo/1",
+              "media_key": "3_1966809743869267969",
+              "start": 47,
+              "url": "https://t.co/IB1qnHl6VQ"
+            },
+            {
+              "display_url": "pic.x.com/IB1qnHl6VQ",
+              "end": 70,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1966809753452998966/photo/1",
+              "media_key": "3_1966809743483375616",
+              "start": 47,
+              "url": "https://t.co/IB1qnHl6VQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966809753452998966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天和hako去試婚紗，然後狂拍照，好熱好熱，然後去江蘇路買煙，之後我一個人去環球港電玩城玩 https://t.co/IB1qnHl6VQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 50,
+          "like_count": 3283,
+          "listed_count": 2,
+          "media_count": 184,
+          "tweet_count": 677
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

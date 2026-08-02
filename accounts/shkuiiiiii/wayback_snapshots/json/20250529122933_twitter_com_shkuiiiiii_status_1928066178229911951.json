@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928066174207807490",
+        "3_1928066174140735488",
+        "3_1928066173624799233",
+        "3_1928066173452832768"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "conversation_id": "1928066178229911951",
+    "created_at": "2025-05-29T12:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T13:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928066178229911951"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AJAZqDSTHw",
+          "end": 101,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1928066178229911951/photo/1",
+          "media_key": "3_1928066174207807490",
+          "start": 78,
+          "url": "https://t.co/AJAZqDSTHw"
+        },
+        {
+          "display_url": "pic.x.com/AJAZqDSTHw",
+          "end": 101,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1928066178229911951/photo/1",
+          "media_key": "3_1928066174140735488",
+          "start": 78,
+          "url": "https://t.co/AJAZqDSTHw"
+        },
+        {
+          "display_url": "pic.x.com/AJAZqDSTHw",
+          "end": 101,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1928066178229911951/photo/1",
+          "media_key": "3_1928066173624799233",
+          "start": 78,
+          "url": "https://t.co/AJAZqDSTHw"
+        },
+        {
+          "display_url": "pic.x.com/AJAZqDSTHw",
+          "end": 101,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1928066178229911951/photo/1",
+          "media_key": "3_1928066173452832768",
+          "start": 78,
+          "url": "https://t.co/AJAZqDSTHw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928066178229911951",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉都覺得p1好看我其實覺得p4最好看我審美是不是不太好啊😭😭😭總之就是今天去ktv唱了四小時我爺太牛逼了然後吃了麥當勞，我覺得高達芝士不如原版雙吉士其實。 https://t.co/AJAZqDSTHw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1928066174207807490",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsHd-FkaUAI2Vi_.jpg",
+        "width": 1538
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1928066174140735488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsHd-FUa4AAWD2g.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1928066173624799233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsHd-DZaUAEssF7.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1413,
+        "media_key": "3_1928066173452832768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsHd-CwaUAAD5PT.jpg",
+        "width": 1049
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928066174207807490",
+            "3_1928066174140735488",
+            "3_1928066173624799233",
+            "3_1928066173452832768"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "1928066178229911951",
+        "created_at": "2025-05-29T12:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T13:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928066178229911951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AJAZqDSTHw",
+              "end": 101,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1928066178229911951/photo/1",
+              "media_key": "3_1928066174207807490",
+              "start": 78,
+              "url": "https://t.co/AJAZqDSTHw"
+            },
+            {
+              "display_url": "pic.x.com/AJAZqDSTHw",
+              "end": 101,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1928066178229911951/photo/1",
+              "media_key": "3_1928066174140735488",
+              "start": 78,
+              "url": "https://t.co/AJAZqDSTHw"
+            },
+            {
+              "display_url": "pic.x.com/AJAZqDSTHw",
+              "end": 101,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1928066178229911951/photo/1",
+              "media_key": "3_1928066173624799233",
+              "start": 78,
+              "url": "https://t.co/AJAZqDSTHw"
+            },
+            {
+              "display_url": "pic.x.com/AJAZqDSTHw",
+              "end": 101,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1928066178229911951/photo/1",
+              "media_key": "3_1928066173452832768",
+              "start": 78,
+              "url": "https://t.co/AJAZqDSTHw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928066178229911951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉都覺得p1好看我其實覺得p4最好看我審美是不是不太好啊😭😭😭總之就是今天去ktv唱了四小時我爺太牛逼了然後吃了麥當勞，我覺得高達芝士不如原版雙吉士其實。 https://t.co/AJAZqDSTHw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 45,
+          "like_count": 2694,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 490
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

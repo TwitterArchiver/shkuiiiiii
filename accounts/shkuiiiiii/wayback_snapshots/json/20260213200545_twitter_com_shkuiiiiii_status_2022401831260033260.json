@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2020746254524064128",
+    "created_at": "2026-02-13T20:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T21:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022401831260033260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1542551161948884997",
+          "start": 0,
+          "username": "Gshyovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022401831260033260",
+    "in_reply_to_user_id": "1542551161948884997",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022378884667515025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gshyovo 木啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2020746254524064128",
+        "created_at": "2026-02-13T20:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T21:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022401831260033260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1542551161948884997",
+              "start": 0,
+              "username": "Gshyovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022401831260033260",
+        "in_reply_to_user_id": "1542551161948884997",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022378884667515025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gshyovo 木啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542551161948884997",
+        "conversation_id": "2020746254524064128",
+        "created_at": "2026-02-13T18:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T19:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022378884667515025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022378884667515025",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020746254524064128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 我爱上了这个女孩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "2019456404327686611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 71,
+          "like_count": 10795,
+          "listed_count": 4,
+          "media_count": 245,
+          "tweet_count": 1914
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-30T16:50:40.000Z",
+        "description": "玉山將傾 其石補天 天光初亮 其色孤白。",
+        "id": "1542551161948884997",
+        "location": "我想要成为人",
+        "name": "难分和",
+        "pinned_tweet_id": "2020736990556430374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020464637452722177/FQnasQ27_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 121,
+          "like_count": 819,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 685
+        },
+        "username": "Gshyovo",
+        "verified": false
+      }
+    ]
+  }
+}

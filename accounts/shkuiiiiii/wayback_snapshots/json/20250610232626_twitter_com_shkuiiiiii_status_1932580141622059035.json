@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1932580141622059035",
+    "created_at": "2025-06-10T23:26:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T00:26:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932580141622059035"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1932580141622059035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃完4t普瑞出門本來以為沒啥事就是暈結果到了ktv我就攤下來了…我身體一直在抽搐我打字都打不好我不受控制了我腦子一下子故障了我快要暈了，我好難受我不想呆下去了我好累\n好以上是我睡前想發的，結果沒點發佈就睡著了🌚結果員工都下班了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1932580141622059035",
+        "created_at": "2025-06-10T23:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T00:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932580141622059035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932580141622059035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃完4t普瑞出門本來以為沒啥事就是暈結果到了ktv我就攤下來了…我身體一直在抽搐我打字都打不好我不受控制了我腦子一下子故障了我快要暈了，我好難受我不想呆下去了我好累\n好以上是我睡前想發的，結果沒點發佈就睡著了🌚結果員工都下班了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 44,
+          "like_count": 2953,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 570
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

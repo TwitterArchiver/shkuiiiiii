@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2079913976251498598",
+    "created_at": "2026-07-22T12:59:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T13:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079914147006083265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1868905416924561408",
+          "start": 0,
+          "username": "Sren070728"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079914147006083265",
+    "in_reply_to_user_id": "1868905416924561408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079913976251498598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sren070728 帅！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10438,
+        "height": 1280,
+        "media_key": "13_2079913913529823232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079913913529823232/img/OOksys21MSbRBd5p.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079913913529823232/vid/avc1/320x568/rZIaDw9a0us2oZsG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079913913529823232/vid/avc1/480x852/LkVz2fWOnJgRxCQu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079913913529823232/vid/avc1/720x1280/-yvPYAr2UygDbu4G.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079913913529823232/pl/1j3l4HIClw5M9U0Q.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2079913976251498598",
+        "created_at": "2026-07-22T12:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T13:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079914147006083265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1868905416924561408",
+              "start": 0,
+              "username": "Sren070728"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079914147006083265",
+        "in_reply_to_user_id": "1868905416924561408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079913976251498598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sren070728 帅！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079913913529823232"
+          ]
+        },
+        "author_id": "1868905416924561408",
+        "conversation_id": "2079913976251498598",
+        "created_at": "2026-07-22T12:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T13:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079913976251498598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9EMwByljQj",
+              "end": 30,
+              "expanded_url": "https://x.com/Sren070728/status/2079913976251498598/video/1",
+              "media_key": "13_2079913913529823232",
+              "start": 7,
+              "url": "https://t.co/9EMwByljQj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079913976251498598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很满意的眼妆 https://t.co/9EMwByljQj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 然后贱人死开 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuureikoinu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuureikoinu",
+                "start": 0,
+                "url": "https://t.co/x3tImtkrnU"
+              }
+            ]
+          }
+        },
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "2066441052245176824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077672933875703808/mSc_uFvl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 94,
+          "like_count": 13560,
+          "listed_count": 3,
+          "media_count": 320,
+          "tweet_count": 2457
+        },
+        "url": "https://t.co/x3tImtkrnU",
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-17T06:25:58.000Z",
+        "description": "07/infp 坐标：東京江東区\n纯自恋 自愿转账：🚪10 不闲聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/VSSnr7cWPB",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/VSSnr7cWPB",
+                "start": 0,
+                "url": "https://t.co/5iBWFbyAso"
+              }
+            ]
+          }
+        },
+        "id": "1868905416924561408",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "せレン，梦想哭了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019106902001741828/PFPUepzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 180,
+          "like_count": 1563,
+          "listed_count": 0,
+          "media_count": 220,
+          "tweet_count": 1938
+        },
+        "url": "https://t.co/5iBWFbyAso",
+        "username": "Sren070728",
+        "verified": false
+      }
+    ]
+  }
+}

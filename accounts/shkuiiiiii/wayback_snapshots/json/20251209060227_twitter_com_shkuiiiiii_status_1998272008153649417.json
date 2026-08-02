@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1998272008153649417",
+    "created_at": "2025-12-09T06:02:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T07:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998272008153649417"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1998272008153649417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一日不見甚是想念，但是我忘記我昨天幹啥了🌚總之我現在要去五角場…我沒有化妝我決定走走就回家，嗯對，回家把手柄裝飾一下然後美美打遊戲了😏😏😏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1998272008153649417",
+        "created_at": "2025-12-09T06:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T07:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998272008153649417"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998272008153649417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一日不見甚是想念，但是我忘記我昨天幹啥了🌚總之我現在要去五角場…我沒有化妝我決定走走就回家，嗯對，回家把手柄裝飾一下然後美美打遊戲了😏😏😏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1995528421066375297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995433565438504961/bd-6nfSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 66,
+          "like_count": 6787,
+          "listed_count": 4,
+          "media_count": 216,
+          "tweet_count": 1293
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

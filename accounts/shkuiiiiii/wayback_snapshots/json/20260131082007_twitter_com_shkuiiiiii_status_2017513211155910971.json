@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2017472081852854358",
+    "created_at": "2026-01-31T08:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T09:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017513211155910971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1936091086470193152",
+          "start": 0,
+          "username": "yui1225love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017513211155910971",
+    "in_reply_to_user_id": "1936091086470193152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017472081852854358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yui1225love 姐姐姐姐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1483,
+        "media_key": "3_2017472070280736768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_-AKK1a8AAjviq.jpg",
+        "width": 1092
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2017472081852854358",
+        "created_at": "2026-01-31T08:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T09:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017513211155910971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1936091086470193152",
+              "start": 0,
+              "username": "yui1225love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017513211155910971",
+        "in_reply_to_user_id": "1936091086470193152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017472081852854358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yui1225love 姐姐姐姐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017472070280736768"
+          ]
+        },
+        "author_id": "1936091086470193152",
+        "conversation_id": "2017472081852854358",
+        "created_at": "2026-01-31T05:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T06:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017472081852854358"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "地雷系"
+            },
+            {
+              "end": 18,
+              "start": 12,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "自撮り"
+            },
+            {
+              "end": 30,
+              "start": 24,
+              "tag": "自撮り女子"
+            },
+            {
+              "end": 43,
+              "start": 31,
+              "tag": "自撮り界限と繋がりたい"
+            },
+            {
+              "end": 56,
+              "start": 44,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 71,
+              "start": 57,
+              "tag": "病み垢男子さんと繋がりたい"
+            },
+            {
+              "end": 87,
+              "start": 73,
+              "tag": "病み垢女子さんと繋がりたい"
+            },
+            {
+              "end": 94,
+              "start": 88,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 100,
+              "start": 95,
+              "tag": "友達募集"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qyoxv8k2a7",
+              "end": 124,
+              "expanded_url": "https://x.com/yui1225love/status/2017472081852854358/photo/1",
+              "media_key": "3_2017472070280736768",
+              "start": 101,
+              "url": "https://t.co/Qyoxv8k2a7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017472081852854358",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈 #地雷系 #地雷系女子 #自撮り #自撮り女子 #自撮り界限と繋がりたい #病み垢さんと繋がりたい #病み垢男子さんと繋がりたい  #病み垢女子さんと繋がりたい #病み垢女子 #友達募集 https://t.co/Qyoxv8k2a7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 67,
+          "like_count": 10127,
+          "listed_count": 4,
+          "media_count": 240,
+          "tweet_count": 1791
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-20T15:58:54.000Z",
+        "description": "碎碎念，偶尔搞同人♡我喜欢可爱的女孩子，请和我互fo！♡我不会对药效期间任何言论和行为负责♡私信只回口令和有意思的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yui1225love?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/yui1225love?igsh=MWZmYmttbml4Nm40aA==",
+                "start": 0,
+                "url": "https://t.co/5R7R0p3v6t"
+              }
+            ]
+          }
+        },
+        "id": "1936091086470193152",
+        "name": "这里没有你要找的好小兔",
+        "pinned_tweet_id": "2014691800724681025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008196339608244224/gwKTHD6O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 97,
+          "like_count": 966,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 957
+        },
+        "url": "https://t.co/5R7R0p3v6t",
+        "username": "yui1225love",
+        "verified": false
+      }
+    ]
+  }
+}

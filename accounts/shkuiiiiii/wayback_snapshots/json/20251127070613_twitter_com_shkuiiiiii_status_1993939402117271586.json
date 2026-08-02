@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1993870525022785878",
+    "created_at": "2025-11-27T07:06:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T08:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993939402117271586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965246583379034117",
+          "start": 0,
+          "username": "hyunjennagua"
+        },
+        {
+          "end": 29,
+          "id": "1813772293568704512",
+          "start": 14,
+          "username": "linlinlin12358"
+        },
+        {
+          "end": 43,
+          "id": "1768165061103640576",
+          "start": 30,
+          "username": "SEISEI_YUYU_"
+        },
+        {
+          "end": 60,
+          "id": "1531874456997863424",
+          "start": 44,
+          "username": "guodongmaikefe2"
+        },
+        {
+          "end": 74,
+          "id": "1977975962961932288",
+          "start": 61,
+          "username": "hahagehahaha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993939402117271586",
+    "in_reply_to_user_id": "1965246583379034117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993870525022785878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyunjennagua @linlinlin12358 @SEISEI_YUYU_ @guodongmaikefe2 @hahagehahaha 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1993870516625829888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6umq7-bcAAX0Oi.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1993870525022785878",
+        "created_at": "2025-11-27T07:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T08:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993939402117271586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            },
+            {
+              "end": 29,
+              "id": "1813772293568704512",
+              "start": 14,
+              "username": "linlinlin12358"
+            },
+            {
+              "end": 43,
+              "id": "1768165061103640576",
+              "start": 30,
+              "username": "SEISEI_YUYU_"
+            },
+            {
+              "end": 60,
+              "id": "1531874456997863424",
+              "start": 44,
+              "username": "guodongmaikefe2"
+            },
+            {
+              "end": 74,
+              "id": "1977975962961932288",
+              "start": 61,
+              "username": "hahagehahaha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993939402117271586",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993870525022785878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua @linlinlin12358 @SEISEI_YUYU_ @guodongmaikefe2 @hahagehahaha 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993870516625829888"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "1993870525022785878",
+        "created_at": "2025-11-27T02:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T03:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993870525022785878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "1813772293568704512",
+              "start": 22,
+              "username": "linlinlin12358"
+            },
+            {
+              "end": 51,
+              "id": "1768165061103640576",
+              "start": 38,
+              "username": "SEISEI_YUYU_"
+            },
+            {
+              "end": 74,
+              "id": "1531874456997863424",
+              "start": 58,
+              "username": "guodongmaikefe2"
+            },
+            {
+              "end": 92,
+              "id": "1569279849126297602",
+              "start": 81,
+              "username": "shkuiiiiii"
+            },
+            {
+              "end": 106,
+              "id": "1977975962961932288",
+              "start": 93,
+              "username": "hahagehahaha"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infintytweet.me/family-tree?la…",
+              "end": 134,
+              "expanded_url": "https://infintytweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1992426624772685824/tS2_mcNg?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1992426624772685824/tS2_mcNg?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 111,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infintytweet.me/family-tree?lang=zh",
+              "url": "https://t.co/WAKew1yq0e"
+            },
+            {
+              "display_url": "pic.x.com/Gf81Nt7BDO",
+              "end": 158,
+              "expanded_url": "https://x.com/hyunjennagua/status/1993870525022785878/photo/1",
+              "media_key": "3_1993870516625829888",
+              "start": 135,
+              "url": "https://t.co/Gf81Nt7BDO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993870525022785878",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1097,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @linlinlin12358 @SEISEI_YUYU_\n👰 配偶: @guodongmaikefe2\n👶 孩子: @shkuiiiiii @hahagehahaha\n\n➡️ https://t.co/WAKew1yq0e https://t.co/Gf81Nt7BDO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 54,
+          "like_count": 4399,
+          "listed_count": 2,
+          "media_count": 191,
+          "tweet_count": 914
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "互fo(⸝⸝•‧̫•⸝⸝)",
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 113,
+          "like_count": 399,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 245
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T03:06:39.000Z",
+        "description": "喵",
+        "id": "1813772293568704512",
+        "location": "Hong Kong",
+        "name": "林林林",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813772470568251394/nAU9utW2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 133,
+          "like_count": 2225,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 1153
+        },
+        "username": "linlinlin12358",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T06:39:47.000Z",
+        "description": "04ㅣINFPㅣ特撮丨寶可夢ㅣ🇨🇳🇭🇰🇲🇴🇹🇼🇯🇵🇰🇷🇰🇵🇻🇳漢字文化圏ㅣ古典日本語&中世朝鮮語ㅣ我很孤獨，友達欲しいㅣOD&リスカㅣ叫我青悠即可ㅣ坐標鄭州，歡迎來找我玩捏",
+        "id": "1768165061103640576",
+        "location": "無間地獄  ",
+        "name": "青々悠々",
+        "pinned_tweet_id": "1988855157132611824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985156389103443968/NUQryyY1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 743,
+          "like_count": 8578,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 884
+        },
+        "username": "SEISEI_YUYU_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T05:45:36.000Z",
+        "description": "纵欲无故，嗑药无度/不要做药物的奴隶，不要被任何事物掌控/我会一直给你点赞⌓‿⌓/抑郁焦虑/我脑子有病/同类互fo/发癫/异性恋/恐gay/恐跨/",
+        "id": "1531874456997863424",
+        "location": "明天",
+        "name": "不开心就od",
+        "pinned_tweet_id": "1993644506605146148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984521028274700291/SnoaoxPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 123,
+          "like_count": 4839,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 665
+        },
+        "username": "guodongmaikefe2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T05:53:23.000Z",
+        "description": "红红火火恍恍惚惚",
+        "id": "1977975962961932288",
+        "location": "十万八千里",
+        "name": "哦哦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979882984720252928/AC_zcl3R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 180,
+          "like_count": 716,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 537
+        },
+        "username": "hahagehahaha",
+        "verified": false
+      }
+    ]
+  }
+}

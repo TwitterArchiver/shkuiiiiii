@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1993022230176186719",
+    "created_at": "2025-11-25T02:36:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T03:36:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993146775021273307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1931634000453345280",
+          "start": 0,
+          "username": "ll97515"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993146775021273307",
+    "in_reply_to_user_id": "1931634000453345280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993022230176186719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ll97515 麼麼噠"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993022205790474240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ijIv2bUAA9w_K.jpg",
+        "width": 1534
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1993022205786308609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ijIv1bwAET-WV.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1993022205748531200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ijIvsbUAAdxEx.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1993022230176186719",
+        "created_at": "2025-11-25T02:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T03:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993146775021273307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1931634000453345280",
+              "start": 0,
+              "username": "ll97515"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993146775021273307",
+        "in_reply_to_user_id": "1931634000453345280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993022230176186719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ll97515 麼麼噠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993022205790474240",
+            "3_1993022205786308609",
+            "3_1993022205748531200"
+          ]
+        },
+        "author_id": "1931634000453345280",
+        "conversation_id": "1993022230176186719",
+        "created_at": "2025-11-24T18:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T19:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993022230176186719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qT8UThrviy",
+              "end": 29,
+              "expanded_url": "https://x.com/ll97515/status/1993022230176186719/photo/1",
+              "media_key": "3_1993022205790474240",
+              "start": 6,
+              "url": "https://t.co/qT8UThrviy"
+            },
+            {
+              "display_url": "pic.x.com/qT8UThrviy",
+              "end": 29,
+              "expanded_url": "https://x.com/ll97515/status/1993022230176186719/photo/1",
+              "media_key": "3_1993022205786308609",
+              "start": 6,
+              "url": "https://t.co/qT8UThrviy"
+            },
+            {
+              "display_url": "pic.x.com/qT8UThrviy",
+              "end": 29,
+              "expanded_url": "https://x.com/ll97515/status/1993022230176186719/photo/1",
+              "media_key": "3_1993022205748531200",
+              "start": 6,
+              "url": "https://t.co/qT8UThrviy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993022230176186719",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1959,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "地雷妹一日 https://t.co/qT8UThrviy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 我喜歡看碎碎念，我們來互fo吧…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 67,
+          "like_count": 3754,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 742
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T08:46:56.000Z",
+        "description": "自残 | 应该是地雷女来的。？| 有对象 恶臭男滚(ФωФ) 不定时崩溃 喜欢互动 玩一些舞萌 可以来找我互fo聊天˃ʍ˂",
+        "id": "1931634000453345280",
+        "name": "(●─●)",
+        "pinned_tweet_id": "1992340876644020677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987318821154324480/qCEPNWhB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 518,
+          "like_count": 1897,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 570
+        },
+        "username": "ll97515",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926013558908694528"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "conversation_id": "1926013562062848462",
+    "created_at": "2025-05-23T20:33:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T21:33:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1926013562062848462"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KdaUOAXOKT",
+          "end": 119,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1926013562062848462/photo/1",
+          "media_key": "3_1926013558908694528",
+          "start": 96,
+          "url": "https://t.co/KdaUOAXOKT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926013562062848462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉好難過……我前任也買給我過當時還沒在一起她也沒那麼多錢她説她給我買了个東西我還沒怎麼在意，當時清楚感覺到她買這個東西之後沒啥錢了然後我收到發現是祛疤膏，但是我還沒用過她就已經離開我了。。。 https://t.co/KdaUOAXOKT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1926013558908694528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrqTIJtWsAAIERN.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926013558908694528"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "1926013562062848462",
+        "created_at": "2025-05-23T20:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T21:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926013562062848462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KdaUOAXOKT",
+              "end": 119,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1926013562062848462/photo/1",
+              "media_key": "3_1926013558908694528",
+              "start": 96,
+              "url": "https://t.co/KdaUOAXOKT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926013562062848462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉好難過……我前任也買給我過當時還沒在一起她也沒那麼多錢她説她給我買了个東西我還沒怎麼在意，當時清楚感覺到她買這個東西之後沒啥錢了然後我收到發現是祛疤膏，但是我還沒用過她就已經離開我了。。。 https://t.co/KdaUOAXOKT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920921110893522947/Nv5kwqEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 33,
+          "like_count": 2515,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 466
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

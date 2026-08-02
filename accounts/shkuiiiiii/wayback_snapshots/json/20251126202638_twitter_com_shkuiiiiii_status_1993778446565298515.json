@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1993764493118279890",
+    "created_at": "2025-11-26T20:26:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T21:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993778446565298515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1993650008491724800",
+          "start": 0,
+          "username": "0r1gaim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993778446565298515",
+    "in_reply_to_user_id": "1993650008491724800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993777609336082949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0r1gaim 活的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1993764493118279890",
+        "created_at": "2025-11-26T20:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T21:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993778446565298515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1993650008491724800",
+              "start": 0,
+              "username": "0r1gaim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993778446565298515",
+        "in_reply_to_user_id": "1993650008491724800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993777609336082949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0r1gaim 活的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993650008491724800",
+        "conversation_id": "1993764493118279890",
+        "created_at": "2025-11-26T20:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T21:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993777609336082949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993777609336082949",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993776845674762749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 活的还是个。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 54,
+          "like_count": 4395,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 922
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T11:56:29.000Z",
+        "description": "",
+        "id": "1993650008491724800",
+        "name": "0r1giam",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993651468046655488/uR6y7ksq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "0r1gaim",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1932500851278688723",
+    "created_at": "2025-06-10T18:11:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T19:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932500851278688723"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1932500851278688723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喔想到我今天去環球港的時候走路遇到一個小姐姐沖上來説你好漂亮你好可愛要不要試試手膜，臥槽我開心死了然後她也一直在夸我我要哭了！但是我去外灘的時候突然來了个男的想和我握手説我氣質特別好想認識一下我叫啥啥啥名字我忘記了讓我加他微信，我媽直接讓我遠離這種人唉但是其實有人夸我就會特別開心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1932500851278688723",
+        "created_at": "2025-06-10T18:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T19:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932500851278688723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932500851278688723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喔想到我今天去環球港的時候走路遇到一個小姐姐沖上來説你好漂亮你好可愛要不要試試手膜，臥槽我開心死了然後她也一直在夸我我要哭了！但是我去外灘的時候突然來了个男的想和我握手説我氣質特別好想認識一下我叫啥啥啥名字我忘記了讓我加他微信，我媽直接讓我遠離這種人唉但是其實有人夸我就會特別開心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 44,
+          "like_count": 2951,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 569
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932261353361952768"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "conversation_id": "1932261378020278434",
+    "created_at": "2025-06-10T02:19:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T03:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932261378020278434"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pJEzBsuOKc",
+          "end": 94,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1932261378020278434/photo/1",
+          "media_key": "3_1932261353361952768",
+          "start": 71,
+          "url": "https://t.co/pJEzBsuOKc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932261378020278434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "沒睡覺。。。繼續出門晃悠，這次是我一個人我穿著小裙裙撐著小傘出門了🤓我還背了mmc的痛包上面還挂了个白子的掛件臥槽這也太美了美美去逛街了😋😋 https://t.co/pJEzBsuOKc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1932261353361952768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtDFdpxa0AApJg9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932261353361952768"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "1932261378020278434",
+        "created_at": "2025-06-10T02:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T03:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932261378020278434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pJEzBsuOKc",
+              "end": 94,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1932261378020278434/photo/1",
+              "media_key": "3_1932261353361952768",
+              "start": 71,
+              "url": "https://t.co/pJEzBsuOKc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932261378020278434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沒睡覺。。。繼續出門晃悠，這次是我一個人我穿著小裙裙撐著小傘出門了🤓我還背了mmc的痛包上面還挂了个白子的掛件臥槽這也太美了美美去逛街了😋😋 https://t.co/pJEzBsuOKc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 44,
+          "like_count": 2939,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 565
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

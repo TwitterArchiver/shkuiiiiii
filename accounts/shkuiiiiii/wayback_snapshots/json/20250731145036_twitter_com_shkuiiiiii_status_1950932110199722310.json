@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950932107683074048",
+        "3_1950932102633168896"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "conversation_id": "1950932110199722310",
+    "created_at": "2025-07-31T14:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T15:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950932110199722310"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GUuo2vrrrc",
+          "end": 81,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1950932110199722310/photo/1",
+          "media_key": "3_1950932107683074048",
+          "start": 58,
+          "url": "https://t.co/GUuo2vrrrc"
+        },
+        {
+          "display_url": "pic.x.com/GUuo2vrrrc",
+          "end": 81,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1950932110199722310/photo/1",
+          "media_key": "3_1950932102633168896",
+          "start": 58,
+          "url": "https://t.co/GUuo2vrrrc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950932110199722310",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看辣舞來舞中，看了感覺真的好好可以和朋友組成偶像讓所有人都開心，唉其實偶有一個想當小偶像的夢……看的我要哭出來了唉 https://t.co/GUuo2vrrrc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1260,
+        "media_key": "3_1950932107683074048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxMaaltakAAz0Gp.jpg",
+        "width": 2179
+      },
+      {
+        "height": 1260,
+        "media_key": "3_1950932102633168896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxMaaS5bIAAz0Pa.jpg",
+        "width": 2174
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950932107683074048",
+            "3_1950932102633168896"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "1950932110199722310",
+        "created_at": "2025-07-31T14:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T15:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950932110199722310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GUuo2vrrrc",
+              "end": 81,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1950932110199722310/photo/1",
+              "media_key": "3_1950932107683074048",
+              "start": 58,
+              "url": "https://t.co/GUuo2vrrrc"
+            },
+            {
+              "display_url": "pic.x.com/GUuo2vrrrc",
+              "end": 81,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1950932110199722310/photo/1",
+              "media_key": "3_1950932102633168896",
+              "start": 58,
+              "url": "https://t.co/GUuo2vrrrc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950932110199722310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看辣舞來舞中，看了感覺真的好好可以和朋友組成偶像讓所有人都開心，唉其實偶有一個想當小偶像的夢……看的我要哭出來了唉 https://t.co/GUuo2vrrrc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 50,
+          "like_count": 3100,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 622
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

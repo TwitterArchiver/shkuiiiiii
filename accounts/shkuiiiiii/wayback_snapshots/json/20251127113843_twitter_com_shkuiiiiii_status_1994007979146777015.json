@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1994007979146777015",
+    "created_at": "2025-11-27T11:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T12:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994007979146777015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1826321786834944000",
+          "start": 3,
+          "username": "hgds520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994007979146777015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993932177072115714",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds520: 对朋友：宝宝怎么啦\n对同学：宝宝怎么啦\n对路人：宝宝怎么啦\n对喜欢的人：哥们你咋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1994007979146777015",
+        "created_at": "2025-11-27T11:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T12:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994007979146777015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1826321786834944000",
+              "start": 3,
+              "username": "hgds520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994007979146777015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993932177072115714",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds520: 对朋友：宝宝怎么啦\n对同学：宝宝怎么啦\n对路人：宝宝怎么啦\n对喜欢的人：哥们你咋了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826321786834944000",
+        "conversation_id": "1993932177072115714",
+        "created_at": "2025-11-27T06:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T07:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993932177072115714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993932177072115714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 17600,
+          "like_count": 386,
+          "quote_count": 5,
+          "reply_count": 18,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "对朋友：宝宝怎么啦\n对同学：宝宝怎么啦\n对路人：宝宝怎么啦\n对喜欢的人：哥们你咋了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 54,
+          "like_count": 4474,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 935
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T18:13:55.000Z",
+        "description": "感谢关注和支持/文案来源于网络 祝大家天天开心",
+        "id": "1826321786834944000",
+        "location": "粉",
+        "name": "我掉了一个粉丝.",
+        "pinned_tweet_id": "1993230342703267896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928056822075904002/fV5sMBFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4747,
+          "following_count": 712,
+          "like_count": 10048,
+          "listed_count": 12,
+          "media_count": 137,
+          "tweet_count": 866
+        },
+        "username": "hgds520",
+        "verified": false
+      }
+    ]
+  }
+}

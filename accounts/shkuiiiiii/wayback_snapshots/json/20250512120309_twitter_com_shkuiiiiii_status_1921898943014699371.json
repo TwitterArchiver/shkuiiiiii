@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1921898939399196672"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1921898943014699371",
+    "created_at": "2025-05-12T12:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T13:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1921898943014699371"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/khDic6Jr5w",
+          "end": 55,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1921898943014699371/photo/1",
+          "media_key": "3_1921898939399196672",
+          "start": 32,
+          "url": "https://t.co/khDic6Jr5w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921898943014699371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天藥到了，o了10t晚安，晚安了米娜桑（靜靜等待藥效ing） https://t.co/khDic6Jr5w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1921898939399196672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqv05xkW0AAcdLu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921898939399196672"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1921898943014699371",
+        "created_at": "2025-05-12T12:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T13:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921898943014699371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/khDic6Jr5w",
+              "end": 55,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1921898943014699371/photo/1",
+              "media_key": "3_1921898939399196672",
+              "start": 32,
+              "url": "https://t.co/khDic6Jr5w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921898943014699371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天藥到了，o了10t晚安，晚安了米娜桑（靜靜等待藥效ing） https://t.co/khDic6Jr5w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "我是小苟 一只晴天娃娃 粉紅滾",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920921110893522947/Nv5kwqEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 33,
+          "like_count": 2417,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 433
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

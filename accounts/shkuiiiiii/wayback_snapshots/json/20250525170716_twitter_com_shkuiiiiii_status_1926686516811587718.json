@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1926593086823518398",
+    "created_at": "2025-05-25T17:07:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T18:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926686516811587718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1790370144755351552",
+          "start": 0,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926686516811587718",
+    "in_reply_to_user_id": "1790370144755351552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926593086823518398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FurinaDF 看到兒子就明白一切了🌚"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 49234,
+        "height": 1280,
+        "media_key": "13_1926592865267752960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1926592865267752960/img/GMdwJRlfuAfuO7nB.jpg",
+        "public_metrics": {
+          "view_count": 10251
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926592865267752960/vid/avc1/320x568/mU92SiEHTA0Pk147.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926592865267752960/vid/avc1/480x852/KdyUBee2AnIOCj0M.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926592865267752960/vid/avc1/720x1280/mbB0GrUfYPfhxElt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1926592865267752960/pl/1Nza0Xb2Cvw6-vD2.m3u8?v=e4d"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1926593086823518398",
+        "created_at": "2025-05-25T17:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T18:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926686516811587718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1790370144755351552",
+              "start": 0,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926686516811587718",
+        "in_reply_to_user_id": "1790370144755351552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926593086823518398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FurinaDF 看到兒子就明白一切了🌚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1926592865267752960"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1926593086823518398",
+        "created_at": "2025-05-25T10:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T11:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926593086823518398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ibbyp8Tvcj",
+              "end": 46,
+              "expanded_url": "https://x.com/FurinaDF/status/1926593086823518398/video/1",
+              "media_key": "13_1926592865267752960",
+              "start": 23,
+              "url": "https://t.co/Ibbyp8Tvcj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926593086823518398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 24462,
+          "like_count": 115,
+          "quote_count": 10,
+          "reply_count": 53,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "十个孩子的爸爸——陈宝器\n\n董志民已经过时了 https://t.co/Ibbyp8Tvcj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920921110893522947/Nv5kwqEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 34,
+          "like_count": 2546,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 473
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "哈基米，叮咚鸡，胖宝宝，踩踩背，搞核酸，袋鼠鸡，一带一段，栗老师，小豌豆，蹲芳魂，原上咪，龙扛狼，好好汉，盖伦发发，在美国，叫超人，在中国，叫电棍，老爷爷，动起来，我给你，踩踩背，哈哈哈，哈基米，下下楼，搞搞核酸，叮，你看你爹操作，OK前十是谁呢，圆头耄耋和牢财，胖宝宝u好可爱u，auv小白手套~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zgysd1",
+                "end": 23,
+                "expanded_url": "https://t.me/zgysd1",
+                "start": 0,
+                "url": "https://t.co/UXOSrcHG2X"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "San Jose",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25376,
+          "following_count": 2150,
+          "like_count": 25559,
+          "listed_count": 71,
+          "media_count": 4733,
+          "tweet_count": 8818
+        },
+        "url": "https://t.co/UXOSrcHG2X",
+        "username": "FurinaDF",
+        "verified": true
+      }
+    ]
+  }
+}

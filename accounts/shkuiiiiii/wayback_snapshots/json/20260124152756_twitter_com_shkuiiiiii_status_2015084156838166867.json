@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2014665289871548638",
+    "created_at": "2026-01-24T15:27:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T16:27:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015084156838166867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2001720933388800000",
+          "start": 0,
+          "username": "pmshn9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015084156838166867",
+    "in_reply_to_user_id": "2001720933388800000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015053426594562307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pmshn9 我是不會放棄試探對面的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2014665289871548638",
+        "created_at": "2026-01-24T15:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T16:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015084156838166867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2001720933388800000",
+              "start": 0,
+              "username": "pmshn9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015084156838166867",
+        "in_reply_to_user_id": "2001720933388800000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015053426594562307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pmshn9 我是不會放棄試探對面的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001720933388800000",
+        "conversation_id": "2014665289871548638",
+        "created_at": "2026-01-24T13:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T14:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015053426594562307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015053426594562307",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014665289871548638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 感觉要有共同的爱好会比较好欸？不过也不要太有压力啦随缘一些  不过我也是这种一上来很拘谨  但是发现对方跟我一个货色后说话就会猖狂得没边🌚我是不会放弃试探对面的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 80,
+          "like_count": 9403,
+          "listed_count": 4,
+          "media_count": 238,
+          "tweet_count": 1667
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T18:27:42.000Z",
+        "description": "可以叫我小洵  自残｜垃圾话｜碎碎念｜女孩子互fo大欢迎˃ 𖥦 ˂    @Gshyovo  @FuyuAsuku",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "Gshyovo"
+              },
+              {
+                "end": 57,
+                "start": 47,
+                "username": "FuyuAsuku"
+              }
+            ]
+          }
+        },
+        "id": "2001720933388800000",
+        "location": "床上",
+        "name": "LIN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001730224007057410/1nCgxPE8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 151,
+          "like_count": 2866,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 292
+        },
+        "username": "pmshn9",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1994513558164705521",
+    "created_at": "2025-11-29T00:59:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T01:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994571805705867359"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 10,
+          "normalized_text": "太萌",
+          "probability": 0.8019,
+          "start": 9,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1931634000453345280",
+          "start": 0,
+          "username": "ll97515"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994571805705867359",
+    "in_reply_to_user_id": "1931634000453345280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994513558164705521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ll97515 太萌……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1994513548140318725",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G63vgTCbkAUF3xM.jpg",
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1994513548219953152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G63vgTVasAA7Hzz.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1994513558164705521",
+        "created_at": "2025-11-29T00:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T01:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994571805705867359"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "太萌",
+              "probability": 0.8019,
+              "start": 9,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1931634000453345280",
+              "start": 0,
+              "username": "ll97515"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994571805705867359",
+        "in_reply_to_user_id": "1931634000453345280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994513558164705521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ll97515 太萌……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994513548140318725",
+            "3_1994513548219953152"
+          ]
+        },
+        "author_id": "1931634000453345280",
+        "conversation_id": "1994513558164705521",
+        "created_at": "2025-11-28T21:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T22:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994513558164705521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iQ1ww4KDcV",
+              "end": 36,
+              "expanded_url": "https://x.com/ll97515/status/1994513558164705521/photo/1",
+              "media_key": "3_1994513548140318725",
+              "start": 13,
+              "url": "https://t.co/iQ1ww4KDcV"
+            },
+            {
+              "display_url": "pic.x.com/iQ1ww4KDcV",
+              "end": 36,
+              "expanded_url": "https://x.com/ll97515/status/1994513558164705521/photo/1",
+              "media_key": "3_1994513548219953152",
+              "start": 13,
+              "url": "https://t.co/iQ1ww4KDcV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994513558164705521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2154,
+          "like_count": 90,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不可爱吗？(・᷄ᵌ・᷅) https://t.co/iQ1ww4KDcV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1994360240175771669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994300924265914368/HW_9esMV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 58,
+          "like_count": 4818,
+          "listed_count": 4,
+          "media_count": 196,
+          "tweet_count": 998
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T08:46:56.000Z",
+        "description": "自残 | 应该是地雷女来的。？| 有对象 恶臭男滚(ФωФ) 不定时崩溃 喜欢互动 玩一些舞萌 可以来找我互fo聊天˃ʍ˂",
+        "id": "1931634000453345280",
+        "name": "(●─●)",
+        "pinned_tweet_id": "1993919859449844037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987318821154324480/qCEPNWhB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 513,
+          "like_count": 2398,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 720
+        },
+        "username": "ll97515",
+        "verified": false
+      }
+    ]
+  }
+}

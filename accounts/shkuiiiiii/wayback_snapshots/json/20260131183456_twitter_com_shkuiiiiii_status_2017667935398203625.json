@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2017299522763034904",
+    "created_at": "2026-01-31T18:34:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T19:34:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017667935398203625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1128010587089264640",
+          "start": 0,
+          "username": "uixxixu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017667935398203625",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017299522763034904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uixxixu 生日快樂！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2017299522763034904].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2017299522763034904",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2017299522763034904"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2017299522763034904",
+        "created_at": "2026-01-31T18:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T19:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017667935398203625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017667935398203625",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017299522763034904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 生日快樂！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 69,
+          "like_count": 10202,
+          "listed_count": 4,
+          "media_count": 240,
+          "tweet_count": 1807
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 不混任何圈子 健全人别关注我 想和同类互fo 提问箱：https://t.co/7fLYIdzaxC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 60,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 37,
+                "url": "https://t.co/7fLYIdzaxC"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2016071932660388162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 160,
+          "like_count": 2293,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1239
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

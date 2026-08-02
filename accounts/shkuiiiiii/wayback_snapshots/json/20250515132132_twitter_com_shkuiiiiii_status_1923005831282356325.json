@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1923005831282356325",
+    "created_at": "2025-05-15T13:21:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T14:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923005831282356325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1831042430449471488",
+          "start": 3,
+          "username": "x57688"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923005831282356325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922942057678581826",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x57688: 我说个事吧 我未来老公的手机如果不是为了给我发消息将是毫无用处。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1923005831282356325",
+        "created_at": "2025-05-15T13:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T14:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923005831282356325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1831042430449471488",
+              "start": 3,
+              "username": "x57688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923005831282356325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922942057678581826",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x57688: 我说个事吧 我未来老公的手机如果不是为了给我发消息将是毫无用处。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831042430449471488",
+        "conversation_id": "1922942057678581826",
+        "created_at": "2025-05-15T09:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T10:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922942057678581826"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922942057678581826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 885,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我说个事吧 我未来老公的手机如果不是为了给我发消息将是毫无用处。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920921110893522947/Nv5kwqEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 33,
+          "like_count": 2428,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 442
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T18:52:28.000Z",
+        "description": "妈妈 给我一张赎罪券",
+        "id": "1831042430449471488",
+        "name": "香芋派",
+        "pinned_tweet_id": "1920142635462779018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906616397083623424/y65g1_yu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5569,
+          "following_count": 228,
+          "like_count": 12742,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 7669
+        },
+        "username": "x57688",
+        "verified": false
+      }
+    ]
+  }
+}

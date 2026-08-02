@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2075338393278611944",
+    "created_at": "2026-07-10T13:59:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T14:59:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075580621628506415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1436545079275966468",
+          "start": 0,
+          "username": "demon8077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075580621628506415",
+    "in_reply_to_user_id": "1436545079275966468",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075460984454455648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@demon8077 嘻嘻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2075338393278611944",
+        "created_at": "2026-07-10T13:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075580621628506415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436545079275966468",
+              "start": 0,
+              "username": "demon8077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075580621628506415",
+        "in_reply_to_user_id": "1436545079275966468",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075460984454455648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@demon8077 嘻嘻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436545079275966468",
+        "conversation_id": "2075338393278611944",
+        "created_at": "2026-07-10T06:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T07:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075460984454455648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075460984454455648",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075338393278611944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 可爱，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 然后贱人死开 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuureikoinu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuureikoinu",
+                "start": 0,
+                "url": "https://t.co/x3tImtkrnU"
+              }
+            ]
+          }
+        },
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "2066441052245176824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063646077333757952/dJ2jH7Df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 92,
+          "like_count": 13377,
+          "listed_count": 3,
+          "media_count": 309,
+          "tweet_count": 2401
+        },
+        "url": "https://t.co/x3tImtkrnU",
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-11T04:20:21.000Z",
+        "description": "心态是老头~可以聊天~一切想聊的都可以但是~不约~不约~不约~静静地观赏~",
+        "id": "1436545079275966468",
+        "location": "冥王星",
+        "name": "怠惰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074031206799175680/O3KCIcPU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 1506,
+          "like_count": 20754,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 22315
+        },
+        "url": "",
+        "username": "demon8077",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1933500623166845206",
+    "created_at": "2025-06-13T17:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T18:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933582183165538686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1933191511535239169",
+          "start": 0,
+          "username": "Noesis13_5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933582183165538686",
+    "in_reply_to_user_id": "1933191511535239169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933581533237104903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Noesis13_5 沒關係我媽也在( ˉ͈̀꒳ˉ͈́ )✧謝謝你呀嘻嘻你真好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1933500623166845206",
+        "created_at": "2025-06-13T17:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T18:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933582183165538686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1933191511535239169",
+              "start": 0,
+              "username": "Noesis13_5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933582183165538686",
+        "in_reply_to_user_id": "1933191511535239169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933581533237104903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Noesis13_5 沒關係我媽也在( ˉ͈̀꒳ˉ͈́ )✧謝謝你呀嘻嘻你真好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933191511535239169",
+        "conversation_id": "1933500623166845206",
+        "created_at": "2025-06-13T17:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T18:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933581533237104903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933581533237104903",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933580793676484704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 就算用词很可爱但果然很不妙吧（？）可以的话能私我下位置吗，比较担心你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 45,
+          "like_count": 2971,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 582
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T15:56:02.000Z",
+        "description": "",
+        "id": "1933191511535239169",
+        "name": "Noesis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933191572843302912/30JbqbR__normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "Noesis13_5",
+        "verified": false
+      }
+    ]
+  }
+}

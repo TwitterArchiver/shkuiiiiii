@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1935018156076171731",
+    "created_at": "2025-06-17T16:54:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T17:54:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935018156076171731"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1935018156076171731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我剛剛o了12t普瑞我拍不了照記錄因為我趕時間我家裡人整天在我周圍遊蕩真的煩死了！總之就是靜靜等待藥效ing。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1935018156076171731",
+        "created_at": "2025-06-17T16:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T17:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935018156076171731"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935018156076171731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我剛剛o了12t普瑞我拍不了照記錄因為我趕時間我家裡人整天在我周圍遊蕩真的煩死了！總之就是靜靜等待藥效ing。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 47,
+          "like_count": 2979,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 599
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

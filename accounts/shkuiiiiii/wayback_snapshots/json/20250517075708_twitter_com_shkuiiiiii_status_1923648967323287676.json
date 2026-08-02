@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1923648967323287676",
+    "created_at": "2025-05-17T07:57:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T08:57:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1923648967323287676"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1923648967323287676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "27天前回的上海到現在已經27天沒咋吃飯了，加上晚安所以渾身都在抖，已經減了17斤了因為我算微胖，唉我站著都站不穩，昨天看了心理輔導跟他們直說了我媽也把我葯全扔了，晚上玩使命召喚也打不准手機打字打不準特別慢抖的特別厲害，唉！！！好難過"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1923648967323287676",
+        "created_at": "2025-05-17T07:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T08:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923648967323287676"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1923648967323287676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "27天前回的上海到現在已經27天沒咋吃飯了，加上晚安所以渾身都在抖，已經減了17斤了因為我算微胖，唉我站著都站不穩，昨天看了心理輔導跟他們直說了我媽也把我葯全扔了，晚上玩使命召喚也打不准手機打字打不準特別慢抖的特別厲害，唉！！！好難過"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920921110893522947/Nv5kwqEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 33,
+          "like_count": 2433,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 449
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

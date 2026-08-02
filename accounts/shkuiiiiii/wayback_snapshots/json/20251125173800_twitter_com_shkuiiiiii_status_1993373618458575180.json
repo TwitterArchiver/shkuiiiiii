@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1993373618458575180",
+    "created_at": "2025-11-25T17:38:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T18:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993373618458575180"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1993373618458575180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好無聊，寶寶睡了今天沒啥活頭了！我就這樣圍著他轉，好吧不知道他想不想，我也是應該有點自己的事情幹幹了！不然他會不會覺得我很黏人很討厭沒有自己的事情幹！然後覺得我沒有什麼價值衹是個纍贅然後把我甩了！這種事情不要呀——！小苟會努力充實活好每一天的不要離開我好不好？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1993373618458575180",
+        "created_at": "2025-11-25T17:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T18:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993373618458575180"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993373618458575180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好無聊，寶寶睡了今天沒啥活頭了！我就這樣圍著他轉，好吧不知道他想不想，我也是應該有點自己的事情幹幹了！不然他會不會覺得我很黏人很討厭沒有自己的事情幹！然後覺得我沒有什麼價值衹是個纍贅然後把我甩了！這種事情不要呀——！小苟會努力充實活好每一天的不要離開我好不好？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 我喜歡看碎碎念，我們來互fo吧…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 75,
+          "like_count": 4055,
+          "listed_count": 2,
+          "media_count": 187,
+          "tweet_count": 786
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

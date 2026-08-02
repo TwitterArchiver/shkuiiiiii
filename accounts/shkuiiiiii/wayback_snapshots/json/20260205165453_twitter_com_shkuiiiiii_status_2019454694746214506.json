@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2019452136203952412",
+    "created_at": "2026-02-05T16:54:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T17:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019454694746214506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1653078335709396992",
+          "start": 0,
+          "username": "tsu8asaAcid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019454694746214506",
+    "in_reply_to_user_id": "1653078335709396992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019453711970382141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsu8asaAcid 沒錯！撐住啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2019452136203952412",
+        "created_at": "2026-02-05T16:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T17:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019454694746214506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1653078335709396992",
+              "start": 0,
+              "username": "tsu8asaAcid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019454694746214506",
+        "in_reply_to_user_id": "1653078335709396992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019453711970382141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsu8asaAcid 沒錯！撐住啊！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653078335709396992",
+        "conversation_id": "2019452136203952412",
+        "created_at": "2026-02-05T16:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T17:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019453711970382141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019453711970382141",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019452136203952412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 一起撐住啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 71,
+          "like_count": 10581,
+          "listed_count": 4,
+          "media_count": 244,
+          "tweet_count": 1879
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T16:46:14.000Z",
+        "description": "歡迎互fo！地雷/自殘/負能/高二/美術",
+        "id": "1653078335709396992",
+        "name": "翼米",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018699341930930177/PZZIzv-b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 175,
+          "like_count": 2096,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 512
+        },
+        "username": "tsu8asaAcid",
+        "verified": false
+      }
+    ]
+  }
+}

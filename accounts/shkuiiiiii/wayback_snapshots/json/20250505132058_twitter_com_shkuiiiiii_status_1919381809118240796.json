@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1919381809118240796",
+    "created_at": "2025-05-05T13:20:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T14:20:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919381809118240796"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1919381809118240796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我剛剛本來想和xj玩鬥地主，但是她説她朋友也來玩3v3 可是我最討厭三個人一起了我衹能2人或者4人這種雙數一起玩。我突然就好討厭她。我本來想找蔬菜玩和小鯊玩可是她們都有自己的好朋友都不會主動老找我，我永遠是我深交和朋友的第n選……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1919381809118240796",
+        "created_at": "2025-05-05T13:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T14:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919381809118240796"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919381809118240796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我剛剛本來想和xj玩鬥地主，但是她説她朋友也來玩3v3 可是我最討厭三個人一起了我衹能2人或者4人這種雙數一起玩。我突然就好討厭她。我本來想找蔬菜玩和小鯊玩可是她們都有自己的好朋友都不會主動老找我，我永遠是我深交和朋友的第n選……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "我是小苟 一只晴天娃娃 粉紅滾",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910019062761152515/MpKvTiZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 33,
+          "like_count": 2393,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 420
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

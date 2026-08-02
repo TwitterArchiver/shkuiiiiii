@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2033112087283769575",
+    "created_at": "2026-03-15T09:24:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T10:24:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033112087283769575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1944133891071389699",
+          "start": 3,
+          "username": "xindongzhiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033112087283769575",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032720552260186502",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xindongzhiai: 抽奖还在进行中 已经抽到六个宝宝了 再抽10个9.9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2033112087283769575",
+        "created_at": "2026-03-15T09:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T10:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033112087283769575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1944133891071389699",
+              "start": 3,
+              "username": "xindongzhiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033112087283769575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032720552260186502",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xindongzhiai: 抽奖还在进行中 已经抽到六个宝宝了 再抽10个9.9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944133891071389699",
+        "conversation_id": "2032720552260186502",
+        "created_at": "2026-03-14T07:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T08:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032720552260186502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xindongzhiai/s…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/xindongzhiai/status/2031444782246166588",
+              "start": 27,
+              "url": "https://t.co/Dbh9QFp58D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032720552260186502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031444782246166588",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抽奖还在进行中 已经抽到六个宝宝了 再抽10个9.9 https://t.co/Dbh9QFp58D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1995791304341495847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 88,
+          "like_count": 11739,
+          "listed_count": 4,
+          "media_count": 260,
+          "tweet_count": 2085
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-12T20:37:16.000Z",
+        "description": "欢迎光临小楠的小小世界！ @cjpldsg 没惹任何人第二世 08/174/52 生理男♊ 坐标西安🚪52/88/128互关没有门槛哦/接线下入门咨询哦 微抽象 当朋友圈发的（电子女友）我有精神分裂讨厌我的话屏蔽就好😔👉🏻💔互推互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "cjpldsg"
+              }
+            ]
+          }
+        },
+        "id": "1944133891071389699",
+        "location": " ˏ₍•ɞ•₎ˎ",
+        "name": "没惹（助力我破60fo/求互fo）",
+        "pinned_tweet_id": "2031444782246166588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032717964190113792/nSdm14jH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 113,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 192
+        },
+        "username": "xindongzhiai",
+        "verified": false
+      }
+    ]
+  }
+}

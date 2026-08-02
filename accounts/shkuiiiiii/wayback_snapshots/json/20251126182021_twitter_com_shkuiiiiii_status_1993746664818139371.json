@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1993743584433185204",
+    "created_at": "2025-11-26T18:20:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T19:20:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993746664818139371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1351229284992634884",
+          "start": 0,
+          "username": "aguang110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993746664818139371",
+    "in_reply_to_user_id": "1351229284992634884",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993745992483819573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aguang110 明天一定…！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1993743584433185204",
+        "created_at": "2025-11-26T18:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T19:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993746664818139371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1351229284992634884",
+              "start": 0,
+              "username": "aguang110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993746664818139371",
+        "in_reply_to_user_id": "1351229284992634884",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993745992483819573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aguang110 明天一定…！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1351229284992634884",
+        "conversation_id": "1993743584433185204",
+        "created_at": "2025-11-26T18:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T19:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993745992483819573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993745992483819573",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993743584433185204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 打游戏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 60,
+          "like_count": 4280,
+          "listed_count": 2,
+          "media_count": 188,
+          "tweet_count": 842
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-18T18:05:46.000Z",
+        "description": "真没把你这傻逼当人看",
+        "id": "1351229284992634884",
+        "name": "aguang1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1358614285916676096/wIvIopnx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 85,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 57
+        },
+        "username": "aguang110",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2065099240729432226",
+    "created_at": "2026-06-11T15:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T16:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065100532449263937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1944133891071389699",
+          "start": 0,
+          "username": "xindongzhiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065100532449263937",
+    "in_reply_to_user_id": "1944133891071389699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065099240729432226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xindongzhiai 哈咯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2065099240729432226",
+        "created_at": "2026-06-11T15:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065100532449263937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1944133891071389699",
+              "start": 0,
+              "username": "xindongzhiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065100532449263937",
+        "in_reply_to_user_id": "1944133891071389699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065099240729432226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xindongzhiai 哈咯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944133891071389699",
+        "conversation_id": "2065099240729432226",
+        "created_at": "2026-06-11T15:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065099240729432226"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065099240729432226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈喽。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuureikoinu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuureikoinu",
+                "start": 0,
+                "url": "https://t.co/x3tImtkrnU"
+              }
+            ]
+          }
+        },
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "2063643205296672984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063646077333757952/dJ2jH7Df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 92,
+          "like_count": 12868,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 2306
+        },
+        "url": "https://t.co/x3tImtkrnU",
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-12T20:37:16.000Z",
+        "description": "爱人：@gua77140 欢迎光临小楠的小小世界！ @cjpldsg 没惹任何人第二世 08/174/52 生理性别男♂♊ 坐标西安 欢迎大家来跟我互fo扩列交友 微抽象 当朋友圈发的 我有精神分裂讨厌我的话屏蔽就好😔👉🏻💔",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "gua77140"
+              },
+              {
+                "end": 34,
+                "start": 26,
+                "username": "cjpldsg"
+              }
+            ]
+          }
+        },
+        "id": "1944133891071389699",
+        "location": " ˏ₍•ɞ•₎ˎ",
+        "name": "没惹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039355396184481792/Z989LCCA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 138,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 406
+        },
+        "username": "xindongzhiai",
+        "verified": false
+      }
+    ]
+  }
+}

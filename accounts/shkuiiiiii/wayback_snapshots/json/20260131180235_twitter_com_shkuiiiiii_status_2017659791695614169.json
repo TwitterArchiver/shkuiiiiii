@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2017527047091023872"
+      ],
+      "media_source_tweet_id": [
+        "2017527126715773088"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "conversation_id": "2017659791695614169",
+    "created_at": "2026-01-31T18:02:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T19:02:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017659791695614169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "882261202923016192",
+          "start": 3,
+          "username": "moraeneukdae"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hkjOhNgI94",
+          "end": 51,
+          "expanded_url": "https://x.com/moraeneukdae/status/2017527126715773088/video/1",
+          "media_key": "13_2017527047091023872",
+          "start": 28,
+          "url": "https://t.co/hkjOhNgI94"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017659791695614169",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 738
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017527126715773088",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moraeneukdae: 돌아버린거냐 따거 https://t.co/hkjOhNgI94"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31615,
+        "height": 1280,
+        "media_key": "13_2017527047091023872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2017527047091023872/img/LS27VDDrbp-J3XPH.jpg",
+        "public_metrics": {
+          "view_count": 65712
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017527047091023872/vid/avc1/320x568/B3JGCJtxFIGKs_W5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017527047091023872/vid/avc1/480x852/w8LMawXLSkPoeWKn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017527047091023872/vid/avc1/720x1280/GfBtZFwRGhOVgh09.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017527047091023872/pl/dBsMBYxdquJNTMSz.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017527047091023872"
+          ],
+          "media_source_tweet_id": [
+            "2017527126715773088"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "2017659791695614169",
+        "created_at": "2026-01-31T18:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T19:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017659791695614169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "882261202923016192",
+              "start": 3,
+              "username": "moraeneukdae"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hkjOhNgI94",
+              "end": 51,
+              "expanded_url": "https://x.com/moraeneukdae/status/2017527126715773088/video/1",
+              "media_key": "13_2017527047091023872",
+              "start": 28,
+              "url": "https://t.co/hkjOhNgI94"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017659791695614169",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 738
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017527126715773088",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moraeneukdae: 돌아버린거냐 따거 https://t.co/hkjOhNgI94"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017527047091023872"
+          ]
+        },
+        "author_id": "882261202923016192",
+        "conversation_id": "2017527126715773088",
+        "created_at": "2026-01-31T09:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T10:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017527126715773088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hkjOhNgI94",
+              "end": 33,
+              "expanded_url": "https://x.com/moraeneukdae/status/2017527126715773088/video/1",
+              "media_key": "13_2017527047091023872",
+              "start": 10,
+              "url": "https://t.co/hkjOhNgI94"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017527126715773088",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2392,
+          "impression_count": 147624,
+          "like_count": 7154,
+          "quote_count": 41,
+          "reply_count": 29,
+          "retweet_count": 738
+        },
+        "reply_settings": "everyone",
+        "text": "돌아버린거냐 따거 https://t.co/hkjOhNgI94"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 69,
+          "like_count": 10181,
+          "listed_count": 4,
+          "media_count": 240,
+          "tweet_count": 1801
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-04T15:33:57.000Z",
+        "description": "게임, 굿즈, 시로코 및 아비도스 학생 위주로 글 올려요 요즘 시로코한테 과몰입이 더 심해져서 불편하실 수 있습니다 (／。＼) (누구나 맞팔 권유하시면 넙죽 받습니다 멘션 확인 느릴수도 있음)",
+        "id": "882261202923016192",
+        "name": "모래늑대🐺",
+        "pinned_tweet_id": "1944954071271792899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001965814904451072/OZQrEH7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28167,
+          "following_count": 2807,
+          "like_count": 44872,
+          "listed_count": 9,
+          "media_count": 2164,
+          "tweet_count": 9895
+        },
+        "username": "moraeneukdae",
+        "verified": true
+      }
+    ]
+  }
+}

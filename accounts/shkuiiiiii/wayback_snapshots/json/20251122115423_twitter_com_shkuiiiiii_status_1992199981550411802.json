@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1992199981550411802",
+    "created_at": "2025-11-22T11:54:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T12:54:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992199981550411802"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1992199981550411802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天週末，傻逼才去南京路步行街！好吧我是傻逼……但是坐回家的公交車有位置誒！今天運氣很好喲待會去家門口的羅森坐一會就回家，好開心他説他想我(இωஇ )可以一直想嗎？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1992199981550411802",
+        "created_at": "2025-11-22T11:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T12:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992199981550411802"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992199981550411802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天週末，傻逼才去南京路步行街！好吧我是傻逼……但是坐回家的公交車有位置誒！今天運氣很好喲待會去家門口的羅森坐一會就回家，好開心他説他想我(இωஇ )可以一直想嗎？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 我喜歡看碎碎念，我們來互fo吧…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 54,
+          "like_count": 3625,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 711
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

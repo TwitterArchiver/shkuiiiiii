@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2068881848953098396",
+    "created_at": "2026-06-22T20:42:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T21:42:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069159062168887305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1685597283830956032",
+          "start": 0,
+          "username": "JidianDeOuran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069159062168887305",
+    "in_reply_to_user_id": "1685597283830956032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068881848953098396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JidianDeOuran 好可耐……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1420,
+        "media_key": "3_2068881841692790784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLYlEtha0AA5SKp.jpg",
+        "width": 1075
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2068881848953098396",
+        "created_at": "2026-06-22T20:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T21:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069159062168887305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1685597283830956032",
+              "start": 0,
+              "username": "JidianDeOuran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069159062168887305",
+        "in_reply_to_user_id": "1685597283830956032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068881848953098396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JidianDeOuran 好可耐……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068881841692790784"
+          ]
+        },
+        "author_id": "1685597283830956032",
+        "conversation_id": "2068881848953098396",
+        "created_at": "2026-06-22T02:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T03:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068881848953098396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xr8TrEd0ii",
+              "end": 36,
+              "expanded_url": "https://x.com/JidianDeOuran/status/2068881848953098396/photo/1",
+              "media_key": "3_2068881841692790784",
+              "start": 13,
+              "url": "https://t.co/xr8TrEd0ii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068881848953098396",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "woc手滑给删了我是㊗️ https://t.co/xr8TrEd0ii"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 然后贱人死开 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuureikoinu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuureikoinu",
+                "start": 0,
+                "url": "https://t.co/x3tImtkrnU"
+              }
+            ]
+          }
+        },
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "2066441052245176824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063646077333757952/dJ2jH7Df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 92,
+          "like_count": 12985,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 2331
+        },
+        "url": "https://t.co/x3tImtkrnU",
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T10:24:54.000Z",
+        "description": "不定时碎碎念！医学牲，但是请不要把我当医生使啊喂！究极复杂成分体质，欢迎米娜桑和我交谈！！如果你也喜欢特蕾西娅我们就是好朋友！",
+        "id": "1685597283830956032",
+        "name": "奇点的偶然",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002310098983792640/7TIeEVRK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 98,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 91
+        },
+        "url": "",
+        "username": "JidianDeOuran",
+        "verified": false
+      }
+    ]
+  }
+}

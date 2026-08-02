@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1920919666379182490",
+    "created_at": "2025-05-09T19:11:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T20:11:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920919666379182490"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1920919666379182490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好開心有人需要我好開心我有價值可是我好難受我一直抖我一直想死我一直在意你我又不敢給你發很多消息。你最後肯定會丟下我不管的是不是臥槽好恐怖我好害怕我不想撐到那一天了我單純衹是你把的其中一個妹子罷了是不是……好難過我不想結束我不想我不想我不想。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1920919666379182490",
+        "created_at": "2025-05-09T19:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T20:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920919666379182490"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920919666379182490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好開心有人需要我好開心我有價值可是我好難受我一直抖我一直想死我一直在意你我又不敢給你發很多消息。你最後肯定會丟下我不管的是不是臥槽好恐怖我好害怕我不想撐到那一天了我單純衹是你把的其中一個妹子罷了是不是……好難過我不想結束我不想我不想我不想。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "我是小苟 一只晴天娃娃 粉紅滾",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910019062761152515/MpKvTiZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 33,
+          "like_count": 2414,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 429
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

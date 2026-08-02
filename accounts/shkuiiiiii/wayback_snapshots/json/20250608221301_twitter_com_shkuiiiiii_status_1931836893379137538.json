@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931836870755057664",
+        "3_1931836851972898816",
+        "7_1931836848307073024",
+        "3_1931836859489075200"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "conversation_id": "1931836893379137538",
+    "created_at": "2025-06-08T22:13:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T23:13:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931836893379137538"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/g98U7fSNQr",
+          "end": 156,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1931836893379137538/video/1",
+          "media_key": "3_1931836870755057664",
+          "start": 133,
+          "url": "https://t.co/g98U7fSNQr"
+        },
+        {
+          "display_url": "pic.x.com/g98U7fSNQr",
+          "end": 156,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1931836893379137538/video/1",
+          "media_key": "3_1931836851972898816",
+          "start": 133,
+          "url": "https://t.co/g98U7fSNQr"
+        },
+        {
+          "display_url": "pic.x.com/g98U7fSNQr",
+          "end": 156,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1931836893379137538/video/1",
+          "media_key": "7_1931836848307073024",
+          "start": 133,
+          "url": "https://t.co/g98U7fSNQr"
+        },
+        {
+          "display_url": "pic.x.com/g98U7fSNQr",
+          "end": 156,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1931836893379137538/video/1",
+          "media_key": "3_1931836859489075200",
+          "start": 133,
+          "url": "https://t.co/g98U7fSNQr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931836893379137538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天晚上o了4t普瑞美美出門兜風咯。感覺特別亢奮我像飛了一樣我一直在蹦蹦跳跳的！然後化妝拍了一些照片我媽給我拍的太醜了對啊我就是長這麼醜我能有什麼辦法呢？我今天就喝了一杯一點點所以打車去吃了巴奴我覺得很好次哇服務也可以，晚上一直在下雨我再也不相信天氣預報了呵呵呵！ https://t.co/g98U7fSNQr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1931836870755057664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs9DZg1bgAAHWqG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1931836851972898816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs9DYa3agAALDXA.jpg",
+        "width": 1080
+      },
+      {
+        "duration_ms": 2700,
+        "height": 960,
+        "media_key": "7_1931836848307073024",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1931836848307073024/pu/img/kAOoi-P6q174iMFw.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1931836848307073024/pu/vid/avc1/320x426/tv0VP_1qBGTupjun.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1931836848307073024/pu/vid/avc1/480x640/Fv_68kK3q3rvivna.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1931836848307073024/pu/vid/avc1/720x960/7kbU2QxxBmPCO21N.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1931836848307073024/pu/pl/F2dK-0bbHc_6ChFl.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1931836859489075200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs9DY23aQAAKuWq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931836870755057664",
+            "3_1931836851972898816",
+            "7_1931836848307073024",
+            "3_1931836859489075200"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "1931836893379137538",
+        "created_at": "2025-06-08T22:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T23:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931836893379137538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g98U7fSNQr",
+              "end": 156,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1931836893379137538/video/1",
+              "media_key": "3_1931836870755057664",
+              "start": 133,
+              "url": "https://t.co/g98U7fSNQr"
+            },
+            {
+              "display_url": "pic.x.com/g98U7fSNQr",
+              "end": 156,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1931836893379137538/video/1",
+              "media_key": "3_1931836851972898816",
+              "start": 133,
+              "url": "https://t.co/g98U7fSNQr"
+            },
+            {
+              "display_url": "pic.x.com/g98U7fSNQr",
+              "end": 156,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1931836893379137538/video/1",
+              "media_key": "7_1931836848307073024",
+              "start": 133,
+              "url": "https://t.co/g98U7fSNQr"
+            },
+            {
+              "display_url": "pic.x.com/g98U7fSNQr",
+              "end": 156,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1931836893379137538/video/1",
+              "media_key": "3_1931836859489075200",
+              "start": 133,
+              "url": "https://t.co/g98U7fSNQr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931836893379137538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天晚上o了4t普瑞美美出門兜風咯。感覺特別亢奮我像飛了一樣我一直在蹦蹦跳跳的！然後化妝拍了一些照片我媽給我拍的太醜了對啊我就是長這麼醜我能有什麼辦法呢？我今天就喝了一杯一點點所以打車去吃了巴奴我覺得很好次哇服務也可以，晚上一直在下雨我再也不相信天氣預報了呵呵呵！ https://t.co/g98U7fSNQr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 49,
+          "like_count": 2872,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 537
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

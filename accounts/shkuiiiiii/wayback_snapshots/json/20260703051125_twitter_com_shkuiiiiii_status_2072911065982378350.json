@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2072911036680900608",
+        "7_2072911041403781120"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "conversation_id": "2072911065982378350",
+    "created_at": "2026-07-03T05:11:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T06:11:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072911065982378350"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OkSndX5cQu",
+          "end": 30,
+          "expanded_url": "https://x.com/shkuiiiiii/status/2072911065982378350/video/1",
+          "media_key": "7_2072911036680900608",
+          "start": 7,
+          "url": "https://t.co/OkSndX5cQu"
+        },
+        {
+          "display_url": "pic.x.com/OkSndX5cQu",
+          "end": 30,
+          "expanded_url": "https://x.com/shkuiiiiii/status/2072911065982378350/video/1",
+          "media_key": "7_2072911041403781120",
+          "start": 7,
+          "url": "https://t.co/OkSndX5cQu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072911065982378350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我居然沒有發 https://t.co/OkSndX5cQu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1880,
+        "height": 1280,
+        "media_key": "7_2072911036680900608",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2072911036680900608/pu/img/qcAc3pLAswQW20f3.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072911036680900608/pu/vid/avc1/320x568/iryvmP09g15Llh3z.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072911036680900608/pu/vid/avc1/480x852/j_apEOCafpe0UxOr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072911036680900608/pu/vid/avc1/720x1280/k2CjdOingSxlnDxC.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2072911036680900608/pu/pl/z0R5LtnvcjDWE8CJ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 3204,
+        "height": 1280,
+        "media_key": "7_2072911041403781120",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2072911041403781120/pu/img/rTEP_DTVHixNkP6c.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072911041403781120/pu/vid/avc1/320x568/IqLrMYvnmHKNFkiy.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072911041403781120/pu/vid/avc1/480x852/5QsedLS6qjsOs77u.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072911041403781120/pu/vid/avc1/720x1280/Yt_6yf78K4mmvEy-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2072911041403781120/pu/pl/ukj0ZW8HDzqWQKr3.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2072911036680900608",
+            "7_2072911041403781120"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "2072911065982378350",
+        "created_at": "2026-07-03T05:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T06:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072911065982378350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OkSndX5cQu",
+              "end": 30,
+              "expanded_url": "https://x.com/shkuiiiiii/status/2072911065982378350/video/1",
+              "media_key": "7_2072911036680900608",
+              "start": 7,
+              "url": "https://t.co/OkSndX5cQu"
+            },
+            {
+              "display_url": "pic.x.com/OkSndX5cQu",
+              "end": 30,
+              "expanded_url": "https://x.com/shkuiiiiii/status/2072911065982378350/video/1",
+              "media_key": "7_2072911041403781120",
+              "start": 7,
+              "url": "https://t.co/OkSndX5cQu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072911065982378350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我居然沒有發 https://t.co/OkSndX5cQu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 然后贱人死开 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuureikoinu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuureikoinu",
+                "start": 0,
+                "url": "https://t.co/x3tImtkrnU"
+              }
+            ]
+          }
+        },
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "2066441052245176824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063646077333757952/dJ2jH7Df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 91,
+          "like_count": 13111,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 2362
+        },
+        "url": "https://t.co/x3tImtkrnU",
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

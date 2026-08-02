@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1912950835635691902",
+    "created_at": "2025-04-17T19:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T20:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912950835635691902"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1912950835635691902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我抑鬱症可能一輩子也好不了了吧我不想好 因為這樣他們就能更加重視我他們就能更加愛護我 我可以隨意發脾氣隨意撒潑打滾 我還不想好 我抑鬱症估計也是因為自己矯情才得的    爸爸媽媽你們知道嗎我也很愧疚我花了你們好多錢來看醫生 可是我不想好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1912950835635691902",
+        "created_at": "2025-04-17T19:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T20:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912950835635691902"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912950835635691902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我抑鬱症可能一輩子也好不了了吧我不想好 因為這樣他們就能更加重視我他們就能更加愛護我 我可以隨意發脾氣隨意撒潑打滾 我還不想好 我抑鬱症估計也是因為自己矯情才得的    爸爸媽媽你們知道嗎我也很愧疚我花了你們好多錢來看醫生 可是我不想好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "我是小苟 粉紅滾",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910019062761152515/MpKvTiZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 31,
+          "like_count": 2273,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 391
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

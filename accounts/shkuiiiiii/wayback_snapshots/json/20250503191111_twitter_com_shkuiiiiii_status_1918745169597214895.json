@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1918745169597214895",
+    "created_at": "2025-05-03T19:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T20:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918745169597214895"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1918745169597214895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我知道的你們其實都不喜歡我，看我朋友圈也是把它當樂子看沒說錯吧。你們這一幫賤人都不得好死，我現在也不愛發朋友圈了反正從來也沒人互動…好無奈我擴了再多卻還是那個無人在意的小女孩，哪個平臺哪個世界都是無人在意的小女孩，這就是成神的代價嗎…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1918745169597214895",
+        "created_at": "2025-05-03T19:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T20:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918745169597214895"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918745169597214895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我知道的你們其實都不喜歡我，看我朋友圈也是把它當樂子看沒說錯吧。你們這一幫賤人都不得好死，我現在也不愛發朋友圈了反正從來也沒人互動…好無奈我擴了再多卻還是那個無人在意的小女孩，哪個平臺哪個世界都是無人在意的小女孩，這就是成神的代價嗎…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "我是小苟 一只晴天娃娃 粉紅滾",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910019062761152515/MpKvTiZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 33,
+          "like_count": 2389,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 418
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

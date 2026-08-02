@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908270420962533376"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1908270424611578254",
+    "created_at": "2025-04-04T21:28:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T22:28:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908270424611578254"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/g1bWJoBm5E",
+          "end": 158,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1908270424611578254/photo/1",
+          "media_key": "3_1908270420962533376",
+          "start": 135,
+          "url": "https://t.co/g1bWJoBm5E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908270424611578254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "4.4\n今天和姐姐去吃了自助烤肉特別便宜八十九一個人但是肉味道有點怪 但是還是好吃的 本來主線是去吃肯德基甜筒但是沒有了 最後就去dq買了兩杯 好心疼我的錢😭回家之後讓我媽下了吃雞還有王者陪我一起玩 玩的累鼠我了 就在剛剛還煮了一碗辛拉麵真好吃，又要長胖了(இωஇ ) https://t.co/g1bWJoBm5E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1908270420962533376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnuJ1mDbYAAILvu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908270420962533376"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1908270424611578254",
+        "created_at": "2025-04-04T21:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T22:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908270424611578254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g1bWJoBm5E",
+              "end": 158,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1908270424611578254/photo/1",
+              "media_key": "3_1908270420962533376",
+              "start": 135,
+              "url": "https://t.co/g1bWJoBm5E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908270424611578254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "4.4\n今天和姐姐去吃了自助烤肉特別便宜八十九一個人但是肉味道有點怪 但是還是好吃的 本來主線是去吃肯德基甜筒但是沒有了 最後就去dq買了兩杯 好心疼我的錢😭回家之後讓我媽下了吃雞還有王者陪我一起玩 玩的累鼠我了 就在剛剛還煮了一碗辛拉麵真好吃，又要長胖了(இωஇ ) https://t.co/g1bWJoBm5E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "我是小苟 粉紅滾",
+        "id": "1569279849126297602",
+        "name": "彼岸花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907095324143050752/gQyLnEz5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 26,
+          "like_count": 2168,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 351
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

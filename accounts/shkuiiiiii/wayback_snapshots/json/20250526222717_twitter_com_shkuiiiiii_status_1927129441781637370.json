@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1927129441781637370",
+    "created_at": "2025-05-26T22:27:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T23:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927129441781637370"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1927129441781637370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我操男喘也太爽了我操我無形的雞兒已經立了🌚🌚今天第一次聽這簡直了我操。。。這也太澀了兄弟們仙品兄弟們。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1927129441781637370",
+        "created_at": "2025-05-26T22:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T23:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927129441781637370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927129441781637370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操男喘也太爽了我操我無形的雞兒已經立了🌚🌚今天第一次聽這簡直了我操。。。這也太澀了兄弟們仙品兄弟們。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920921110893522947/Nv5kwqEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 35,
+          "like_count": 2586,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 481
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

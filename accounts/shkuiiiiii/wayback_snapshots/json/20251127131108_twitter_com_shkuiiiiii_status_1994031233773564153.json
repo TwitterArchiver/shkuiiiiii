@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1994008151037706253",
+    "created_at": "2025-11-27T13:11:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T14:11:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994031233773564153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1991679008224997384",
+          "start": 0,
+          "username": "Ggglaxyhhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994031233773564153",
+    "in_reply_to_user_id": "1991679008224997384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994028013483131194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ggglaxyhhh 給我抽，謝謝喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1994027842599047169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6w1wg5a0AETD0J.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1994008151037706253",
+        "created_at": "2025-11-27T13:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T14:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994031233773564153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1991679008224997384",
+              "start": 0,
+              "username": "Ggglaxyhhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994031233773564153",
+        "in_reply_to_user_id": "1991679008224997384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994028013483131194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ggglaxyhhh 給我抽，謝謝喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994027842599047169"
+          ]
+        },
+        "author_id": "1991679008224997384",
+        "conversation_id": "1994008151037706253",
+        "created_at": "2025-11-27T12:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T13:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994028013483131194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a505KucT4R",
+              "end": 41,
+              "expanded_url": "https://x.com/Ggglaxyhhh/status/1994028013483131194/photo/1",
+              "media_key": "3_1994027842599047169",
+              "start": 18,
+              "url": "https://t.co/a505KucT4R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994028013483131194",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994026958087442687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 唯一的乐趣 https://t.co/a505KucT4R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 54,
+          "like_count": 4497,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 939
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T01:24:32.000Z",
+        "description": "",
+        "id": "1991679008224997384",
+        "name": "ga la xy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991679308209729536/en-zpJtn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 10,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 5
+        },
+        "username": "Ggglaxyhhh",
+        "verified": false
+      }
+    ]
+  }
+}

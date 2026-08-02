@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1997366698165297550",
+    "created_at": "2025-12-06T18:14:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T19:14:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997369044341846231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1279738200626466816",
+          "start": 0,
+          "username": "Rain76318015"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997369044341846231",
+    "in_reply_to_user_id": "1279738200626466816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997368365719998497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain76318015 喔原來如此！爆珠萬歲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1997366698165297550",
+        "created_at": "2025-12-06T18:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T19:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997369044341846231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1279738200626466816",
+              "start": 0,
+              "username": "Rain76318015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997369044341846231",
+        "in_reply_to_user_id": "1279738200626466816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997368365719998497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain76318015 喔原來如此！爆珠萬歲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279738200626466816",
+        "conversation_id": "1997366698165297550",
+        "created_at": "2025-12-06T18:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T19:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997368365719998497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997368365719998497",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997367605297021239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 舍友给的小苏。。。虽然我也不懂烟😢其实有机会很想试试那种爆珠的但是他们好像都不喜欢感觉劲太小了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1995528421066375297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995433565438504961/bd-6nfSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 65,
+          "like_count": 6593,
+          "listed_count": 4,
+          "media_count": 215,
+          "tweet_count": 1270
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-05T11:25:50.000Z",
+        "description": "顺直男的。。。\n有人互动会很开心🥹❤️‍🔥\n您的每一个点赞评论都将是一份惊喜\n无人在意的角落碎碎念应该不会被熟人认出来\n🚪6888888888",
+        "id": "1279738200626466816",
+        "name": "U",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996404909567057920/_1YfcvBv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 78,
+          "like_count": 1754,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 253
+        },
+        "username": "Rain76318015",
+        "verified": false
+      }
+    ]
+  }
+}

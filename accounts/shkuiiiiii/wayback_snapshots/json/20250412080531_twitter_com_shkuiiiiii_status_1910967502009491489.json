@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1910967502009491489",
+    "created_at": "2025-04-12T08:05:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T09:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1910967502009491489"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1910967502009491489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天做夢夢到我理想型了這是可以說的嗎  他給我看他的照片我一看我去我好喜歡，然後奔現之後我就忘記了   但是我當時特別開心🌚醒來還是有些羞澀 我的理想型居然是這種我真是餓了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1910967502009491489",
+        "created_at": "2025-04-12T08:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T09:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910967502009491489"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1910967502009491489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天做夢夢到我理想型了這是可以說的嗎  他給我看他的照片我一看我去我好喜歡，然後奔現之後我就忘記了   但是我當時特別開心🌚醒來還是有些羞澀 我的理想型居然是這種我真是餓了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "我是小苟 粉紅滾",
+        "id": "1569279849126297602",
+        "name": "彼岸花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910019062761152515/MpKvTiZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 29,
+          "like_count": 2225,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 373
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

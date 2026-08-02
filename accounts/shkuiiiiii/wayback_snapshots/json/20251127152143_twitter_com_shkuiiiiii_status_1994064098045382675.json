@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1994063837633364297",
+    "created_at": "2025-11-27T15:21:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T16:21:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994064098045382675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1835112020007596032",
+          "start": 0,
+          "username": "ManTian99501"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994064098045382675",
+    "in_reply_to_user_id": "1835112020007596032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994063837633364297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ManTian99501 爱你老机明天见"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 200,
+        "media_key": "3_1994063833145679872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xWfcIaIAAGlJU.jpg",
+        "width": 200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1994063837633364297",
+        "created_at": "2025-11-27T15:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T16:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994064098045382675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1835112020007596032",
+              "start": 0,
+              "username": "ManTian99501"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994064098045382675",
+        "in_reply_to_user_id": "1835112020007596032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994063837633364297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ManTian99501 爱你老机明天见"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994063833145679872"
+          ]
+        },
+        "author_id": "1835112020007596032",
+        "conversation_id": "1994063837633364297",
+        "created_at": "2025-11-27T15:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T16:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994063837633364297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0kPmvQB7H1",
+              "end": 47,
+              "expanded_url": "https://x.com/ManTian99501/status/1994063837633364297/photo/1",
+              "media_key": "3_1994063833145679872",
+              "start": 24,
+              "url": "https://t.co/0kPmvQB7H1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994063837633364297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有人喜欢我，只有手机陪着我。爱你老机明天见。 https://t.co/0kPmvQB7H1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 54,
+          "like_count": 4544,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 946
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T00:23:18.000Z",
+        "description": "这里是天滿/网络幽灵/社恐/女高/姛/欢迎可爱推U和我交朋友（？）",
+        "id": "1835112020007596032",
+        "location": "China",
+        "name": "天滿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993243491418488833/02AC6Wlf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 1111,
+          "like_count": 5045,
+          "listed_count": 3,
+          "media_count": 101,
+          "tweet_count": 591
+        },
+        "username": "ManTian99501",
+        "verified": false
+      }
+    ]
+  }
+}

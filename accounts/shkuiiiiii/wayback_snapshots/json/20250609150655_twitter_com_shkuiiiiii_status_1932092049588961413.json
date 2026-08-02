@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1932092049588961413",
+    "created_at": "2025-06-09T15:06:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T16:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932092049588961413"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1932092049588961413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我以前成績一直都是中上我有可能可以考市重點，我一直都在中上老師根本就沒看過我，看到的我都是差勁的幹壞事的那個我，那個劉海很長被教導主任記住的我，我也不想去當好學生了我決定這次休學完我就去學校交朋友，上你媽逼的課呢玩起來，，，傻逼學校我不會再服從你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1932092049588961413",
+        "created_at": "2025-06-09T15:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T16:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932092049588961413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932092049588961413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我以前成績一直都是中上我有可能可以考市重點，我一直都在中上老師根本就沒看過我，看到的我都是差勁的幹壞事的那個我，那個劉海很長被教導主任記住的我，我也不想去當好學生了我決定這次休學完我就去學校交朋友，上你媽逼的課呢玩起來，，，傻逼學校我不會再服從你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 50,
+          "like_count": 2892,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 547
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

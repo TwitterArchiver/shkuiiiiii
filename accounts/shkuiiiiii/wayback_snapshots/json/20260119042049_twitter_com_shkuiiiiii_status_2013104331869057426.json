@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2013104331869057426",
+    "created_at": "2026-01-19T04:20:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T05:20:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013104331869057426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1577362467419611137",
+          "start": 3,
+          "username": "Retepa555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013104331869057426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013103606065479742",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Retepa555: 天地就是我的内裤，你们都是我的掉毛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2013104331869057426",
+        "created_at": "2026-01-19T04:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T05:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013104331869057426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1577362467419611137",
+              "start": 3,
+              "username": "Retepa555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013104331869057426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013103606065479742",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Retepa555: 天地就是我的内裤，你们都是我的掉毛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577362467419611137",
+        "conversation_id": "2013103606065479742",
+        "created_at": "2026-01-19T04:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T05:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013103606065479742"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013103606065479742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "天地就是我的内裤，你们都是我的掉毛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 77,
+          "like_count": 8698,
+          "listed_count": 4,
+          "media_count": 233,
+          "tweet_count": 1531
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-04T18:18:25.000Z",
+        "description": "＝阿瓜｜pc游戏街机游戏/都市传说/文史哲艺爱好者/ccru/社民/机械飞升/生理女友好一切/民科/后现代/神必学游客/无能创作/脑子有病/胡言乱语/查成分互fo/oder｜常驻济南，偶尔刷新河南陕西\n\n👁你們怎麼辦，只有天知道。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/79800945",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/79800945",
+                "start": 0,
+                "url": "https://t.co/wkea8c2i3w"
+              }
+            ]
+          }
+        },
+        "id": "1577362467419611137",
+        "location": "互聯網",
+        "name": "無機質水樂",
+        "pinned_tweet_id": "2008084757700395499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009666622110531584/OB6tshlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 506,
+          "like_count": 9962,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 924
+        },
+        "url": "https://t.co/wkea8c2i3w",
+        "username": "Retepa555",
+        "verified": false
+      }
+    ]
+  }
+}

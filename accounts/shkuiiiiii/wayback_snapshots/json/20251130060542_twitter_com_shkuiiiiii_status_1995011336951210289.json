@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1995011045996556732",
+    "created_at": "2025-11-30T06:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T07:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995011336951210289"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1995011336951210289",
+    "in_reply_to_user_id": "1569279849126297602",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995011045996556732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我脖子呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995011030804828162",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6-z9mYbkAIs6Wa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1995011045996556732",
+        "created_at": "2025-11-30T06:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T07:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995011336951210289"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995011336951210289",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995011045996556732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我脖子呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995011030804828162"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "1995011045996556732",
+        "created_at": "2025-11-30T06:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T07:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995011045996556732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3KjERNZyMI",
+              "end": 29,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1995011045996556732/photo/1",
+              "media_key": "3_1995011030804828162",
+              "start": 6,
+              "url": "https://t.co/3KjERNZyMI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995011045996556732",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好累。。。 https://t.co/3KjERNZyMI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1994360240175771669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994300924265914368/HW_9esMV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 58,
+          "like_count": 5443,
+          "listed_count": 4,
+          "media_count": 204,
+          "tweet_count": 1088
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

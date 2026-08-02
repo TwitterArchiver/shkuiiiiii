@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1994625120279969879",
+    "created_at": "2025-11-29T04:31:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T05:31:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994625120279969879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929355844837376000",
+          "start": 3,
+          "username": "Zoee_TuT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994625120279969879",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994613062679367864",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zoee_TuT: 一起变好或者一起堕落都行呀，重要的是一起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1994625120279969879",
+        "created_at": "2025-11-29T04:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T05:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994625120279969879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929355844837376000",
+              "start": 3,
+              "username": "Zoee_TuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994625120279969879",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994613062679367864",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zoee_TuT: 一起变好或者一起堕落都行呀，重要的是一起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929355844837376000",
+        "conversation_id": "1994613062679367864",
+        "created_at": "2025-11-29T03:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T04:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994613062679367864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994613062679367864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一起变好或者一起堕落都行呀，重要的是一起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1994360240175771669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994300924265914368/HW_9esMV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 58,
+          "like_count": 4910,
+          "listed_count": 5,
+          "media_count": 197,
+          "tweet_count": 1017
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T01:54:29.000Z",
+        "description": "我想哭",
+        "id": "1929355844837376000",
+        "name": "活得比愈美片更苦",
+        "pinned_tweet_id": "1993902050359562600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994098819148263424/L_tShabX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 332,
+          "like_count": 285,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 281
+        },
+        "username": "Zoee_TuT",
+        "verified": false
+      }
+    ]
+  }
+}

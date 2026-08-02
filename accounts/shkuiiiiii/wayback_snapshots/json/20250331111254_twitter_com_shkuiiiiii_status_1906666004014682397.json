@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1906666004014682397",
+    "created_at": "2025-03-31T11:12:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T12:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906666004014682397"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1906666004014682397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看以前發的推文我可真是一個可愛的女棱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1906666004014682397",
+        "created_at": "2025-03-31T11:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T12:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906666004014682397"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906666004014682397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看以前發的推文我可真是一個可愛的女棱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "",
+        "id": "1569279849126297602",
+        "name": "小苟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705953910106554368/p6JuBObn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 98,
+          "like_count": 2114,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 340
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

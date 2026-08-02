@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2034222811091530210",
+    "created_at": "2026-03-18T10:58:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T11:58:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034222811091530210"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/weizhanershen/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/weizhanershen/status/2034125052355240099",
+          "start": 6,
+          "url": "https://t.co/qhBHNkIoGG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034222811091530210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034125052355240099",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是死窮逼 https://t.co/qhBHNkIoGG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2034222811091530210",
+        "created_at": "2026-03-18T10:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T11:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034222811091530210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/weizhanershen/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/weizhanershen/status/2034125052355240099",
+              "start": 6,
+              "url": "https://t.co/qhBHNkIoGG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034222811091530210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034125052355240099",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是死窮逼 https://t.co/qhBHNkIoGG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916827882183360512",
+        "conversation_id": "2034125052355240099",
+        "created_at": "2026-03-18T04:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T05:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034125052355240099"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034125052355240099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6121,
+          "like_count": 133,
+          "quote_count": 5,
+          "reply_count": 17,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "跟风狗吃愈美 胆子小吃普瑞 死穷逼吃晚安 胆子大吃美金刚 脑残吃感康"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1995791304341495847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 99,
+          "like_count": 12105,
+          "listed_count": 4,
+          "media_count": 263,
+          "tweet_count": 2112
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T12:12:45.000Z",
+        "description": "以战为刃，以生为誓\n浴血而战，向死而生\n守护苍生，不负使命\n法友革命，救赎不息\n\nhttps://t.co/RDgN9aswCI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fayou.sbs",
+                "end": 64,
+                "expanded_url": "https://fayou.sbs/",
+                "start": 41,
+                "url": "https://t.co/RDgN9aswCI"
+              }
+            ]
+          }
+        },
+        "id": "1916827882183360512",
+        "name": "法友百科",
+        "pinned_tweet_id": "2031165228168393176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031163298104967168/n2DVSKSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 34,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 43
+        },
+        "username": "weizhanershen",
+        "verified": false
+      }
+    ]
+  }
+}

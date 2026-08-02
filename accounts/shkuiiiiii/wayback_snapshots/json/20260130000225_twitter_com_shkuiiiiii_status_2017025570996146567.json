@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016850600864968704"
+      ],
+      "media_source_tweet_id": [
+        "2016850610381869234"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2017025570996146567",
+    "created_at": "2026-01-30T00:02:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T01:02:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017025570996146567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1589508609578176512",
+          "start": 3,
+          "username": "mifanmiaomiao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9CWb3Z8EnD",
+          "end": 84,
+          "expanded_url": "https://x.com/mifanmiaomiao/status/2016850610381869234/photo/1",
+          "media_key": "3_2016850600864968704",
+          "start": 61,
+          "url": "https://t.co/9CWb3Z8EnD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017025570996146567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016850610381869234",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mifanmiaomiao: 你们这些有钱人继续在国外诉说自己原生家庭的痛苦吧，我们这些普通人一点也不困不累不苦 https://t.co/9CWb3Z8EnD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1120,
+        "media_key": "3_2016850600864968704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_1K742W8AARO6i.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016850600864968704"
+          ],
+          "media_source_tweet_id": [
+            "2016850610381869234"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2017025570996146567",
+        "created_at": "2026-01-30T00:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T01:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017025570996146567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1589508609578176512",
+              "start": 3,
+              "username": "mifanmiaomiao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9CWb3Z8EnD",
+              "end": 84,
+              "expanded_url": "https://x.com/mifanmiaomiao/status/2016850610381869234/photo/1",
+              "media_key": "3_2016850600864968704",
+              "start": 61,
+              "url": "https://t.co/9CWb3Z8EnD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017025570996146567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016850610381869234",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mifanmiaomiao: 你们这些有钱人继续在国外诉说自己原生家庭的痛苦吧，我们这些普通人一点也不困不累不苦 https://t.co/9CWb3Z8EnD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016850600864968704"
+          ]
+        },
+        "author_id": "1589508609578176512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2016850610381869234",
+        "created_at": "2026-01-29T12:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T13:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016850610381869234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9CWb3Z8EnD",
+              "end": 65,
+              "expanded_url": "https://x.com/mifanmiaomiao/status/2016850610381869234/photo/1",
+              "media_key": "3_2016850600864968704",
+              "start": 42,
+              "url": "https://t.co/9CWb3Z8EnD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016850610381869234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1902,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "你们这些有钱人继续在国外诉说自己原生家庭的痛苦吧，我们这些普通人一点也不困不累不苦 https://t.co/9CWb3Z8EnD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 83,
+          "like_count": 9999,
+          "listed_count": 4,
+          "media_count": 238,
+          "tweet_count": 1772
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-07T06:42:57.000Z",
+        "description": "会互fo~（大部分时间在搞/写/发黄色介意可取关~）俺喜欢和大家交朋友！ 欢迎互转互粉互赞~正在努力学英语润出去.... 偶尔会写点抽象的满足自己！！会给互fo画画（不过技术不太好 /画的有些慢）希望宝宝会喜欢^•͈༝•^ฅ欢迎宝宝们来找我私信聊天哦🥰太冒昧的私信休怪我的刀不长眼！🔪🪓🗡",
+        "id": "1589508609578176512",
+        "name": "米花糖",
+        "pinned_tweet_id": "1998563648768487661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998359027051618304/QN4w_EJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 835,
+          "like_count": 7375,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 1568
+        },
+        "username": "mifanmiaomiao",
+        "verified": false
+      }
+    ]
+  }
+}

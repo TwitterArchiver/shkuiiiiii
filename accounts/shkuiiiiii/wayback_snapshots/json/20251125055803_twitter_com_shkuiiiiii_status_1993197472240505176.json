@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993197465978171392"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "conversation_id": "1993197472240505176",
+    "created_at": "2025-11-25T05:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T06:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993197472240505176"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6Otkn9c6Xa",
+          "end": 30,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1993197472240505176/photo/1",
+          "media_key": "3_1993197465978171392",
+          "start": 7,
+          "url": "https://t.co/6Otkn9c6Xa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993197472240505176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "五顏六色…… https://t.co/6Otkn9c6Xa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1993197465978171392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6lCiO7WcAAaIzX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993197465978171392"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "1993197472240505176",
+        "created_at": "2025-11-25T05:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T06:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993197472240505176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Otkn9c6Xa",
+              "end": 30,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1993197472240505176/photo/1",
+              "media_key": "3_1993197465978171392",
+              "start": 7,
+              "url": "https://t.co/6Otkn9c6Xa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993197472240505176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "五顏六色…… https://t.co/6Otkn9c6Xa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 我喜歡看碎碎念，我們來互fo吧…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 67,
+          "like_count": 3757,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 745
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

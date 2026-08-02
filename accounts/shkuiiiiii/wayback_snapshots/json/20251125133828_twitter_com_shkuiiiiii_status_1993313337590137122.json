@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1993228766726828505",
+    "created_at": "2025-11-25T13:38:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T14:38:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993313337590137122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1836142505772847104",
+          "start": 0,
+          "username": "ROKI114514L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993313337590137122",
+    "in_reply_to_user_id": "1836142505772847104",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993313073873273137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ROKI114514L ❤️❤️❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1993228766726828505",
+        "created_at": "2025-11-25T13:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993313337590137122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1836142505772847104",
+              "start": 0,
+              "username": "ROKI114514L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993313337590137122",
+        "in_reply_to_user_id": "1836142505772847104",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993313073873273137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ROKI114514L ❤️❤️❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836142505772847104",
+        "conversation_id": "1993228766726828505",
+        "created_at": "2025-11-25T13:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993313073873273137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993313073873273137",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993228766726828505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii Cool！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 我喜歡看碎碎念，我們來互fo吧…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927832109823184897/Bl2CyyCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 73,
+          "like_count": 3988,
+          "listed_count": 2,
+          "media_count": 186,
+          "tweet_count": 778
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T20:37:53.000Z",
+        "description": "",
+        "id": "1836142505772847104",
+        "name": "ROKI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912237080488325120/fcmkidLc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 870,
+          "like_count": 31060,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 759
+        },
+        "username": "ROKI114514L",
+        "verified": false
+      }
+    ]
+  }
+}

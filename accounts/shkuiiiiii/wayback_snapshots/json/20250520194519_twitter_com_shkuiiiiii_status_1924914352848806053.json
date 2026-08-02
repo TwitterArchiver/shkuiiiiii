@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1924914352848806053",
+    "created_at": "2025-05-20T19:45:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T20:45:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1924914352848806053"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1924914352848806053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉我想買藥好難受，我好累我不想割割割因為我夏天要穿短袖我不要別人用異樣的眼光看我，好難受我能幹些啥？？？我想買藥我想買藥我想買藥如果這樣我媽會罵死我的。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1924914352848806053",
+        "created_at": "2025-05-20T19:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T20:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924914352848806053"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924914352848806053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉我想買藥好難受，我好累我不想割割割因為我夏天要穿短袖我不要別人用異樣的眼光看我，好難受我能幹些啥？？？我想買藥我想買藥我想買藥如果這樣我媽會罵死我的。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920921110893522947/Nv5kwqEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 33,
+          "like_count": 2457,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 454
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

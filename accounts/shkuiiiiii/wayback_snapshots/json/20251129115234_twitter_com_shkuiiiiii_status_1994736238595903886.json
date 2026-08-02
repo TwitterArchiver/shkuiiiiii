@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994736227178979328"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "conversation_id": "1994707362796769493",
+    "created_at": "2025-11-29T11:52:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T12:52:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994736238595903886"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xMwNNTfKVU",
+          "end": 29,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1994736238595903886/photo/1",
+          "media_key": "3_1994736227178979328",
+          "start": 6,
+          "url": "https://t.co/xMwNNTfKVU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994736238595903886",
+    "in_reply_to_user_id": "1569279849126297602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994707362796769493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "來叻！！！ https://t.co/xMwNNTfKVU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1484,
+        "media_key": "3_1994736227178979328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G666B7GbIAAiqYd.jpg",
+        "width": 884
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994707349425328132",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G66fxBFbkAQvHYE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994736227178979328"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "1994707362796769493",
+        "created_at": "2025-11-29T11:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T12:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994736238595903886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xMwNNTfKVU",
+              "end": 29,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1994736238595903886/photo/1",
+              "media_key": "3_1994736227178979328",
+              "start": 6,
+              "url": "https://t.co/xMwNNTfKVU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994736238595903886",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994707362796769493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "來叻！！！ https://t.co/xMwNNTfKVU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994707349425328132"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "1994707362796769493",
+        "created_at": "2025-11-29T09:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T10:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994707362796769493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AzH8PT5nDO",
+              "end": 74,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1994707362796769493/photo/1",
+              "media_key": "3_1994707349425328132",
+              "start": 51,
+              "url": "https://t.co/AzH8PT5nDO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994707362796769493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 947,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因為我原本的耳蝸釘掉了於是我打了兩個耳蝸惡魔釘……好特麼痛，穿孔師説我耳骨特別軟而且耳朵上沒啥血管🤓 https://t.co/AzH8PT5nDO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1994360240175771669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994300924265914368/HW_9esMV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 58,
+          "like_count": 5085,
+          "listed_count": 3,
+          "media_count": 201,
+          "tweet_count": 1042
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

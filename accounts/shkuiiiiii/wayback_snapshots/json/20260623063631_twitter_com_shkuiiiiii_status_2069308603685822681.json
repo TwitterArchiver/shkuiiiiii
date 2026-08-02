@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2069308603685822681",
+    "created_at": "2026-06-23T06:36:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T07:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069308603685822681"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shkuiiiiii/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/shkuiiiiii/status/2069162037297778831",
+          "start": 7,
+          "url": "https://t.co/3NDzkfSNCO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069308603685822681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069162037297778831",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "求转……🥺🥺 https://t.co/3NDzkfSNCO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1240,
+        "media_key": "3_2069161427806666752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLcjWw9bQAAqi18.jpg",
+        "width": 1260
+      },
+      {
+        "height": 932,
+        "media_key": "3_2069161432084819968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLcjXA5asAAKeik.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2069161436547600384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLcjXRhbUAA_2sP.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2069308603685822681",
+        "created_at": "2026-06-23T06:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T07:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069308603685822681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shkuiiiiii/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/shkuiiiiii/status/2069162037297778831",
+              "start": 7,
+              "url": "https://t.co/3NDzkfSNCO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069308603685822681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069162037297778831",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求转……🥺🥺 https://t.co/3NDzkfSNCO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069161427806666752",
+            "3_2069161432084819968",
+            "3_2069161436547600384"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "2069162037297778831",
+        "created_at": "2026-06-22T20:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T21:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069162037297778831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qvHK1vWoW1",
+              "end": 147,
+              "expanded_url": "https://x.com/shkuiiiiii/status/2069162037297778831/photo/1",
+              "media_key": "3_2069161427806666752",
+              "start": 124,
+              "url": "https://t.co/qvHK1vWoW1"
+            },
+            {
+              "display_url": "pic.x.com/qvHK1vWoW1",
+              "end": 147,
+              "expanded_url": "https://x.com/shkuiiiiii/status/2069162037297778831/photo/1",
+              "media_key": "3_2069161432084819968",
+              "start": 124,
+              "url": "https://t.co/qvHK1vWoW1"
+            },
+            {
+              "display_url": "pic.x.com/qvHK1vWoW1",
+              "end": 147,
+              "expanded_url": "https://x.com/shkuiiiiii/status/2069162037297778831/photo/1",
+              "media_key": "3_2069161436547600384",
+              "start": 124,
+              "url": "https://t.co/qvHK1vWoW1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069162037297778831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "梨好我系苟子座標上海妹子可以一起掛壁愛你們\n灌注此人轉帖抽:\n1个20r\n6个5.2r \n（鵝不知道有沒有這麼多轉帖然後我想要fofo   10天后開\n戒o割中 喜歡的會回fo\n我喜歡互動我會互動我會努力的…\n然後希望醒來有人轉hiahiahia https://t.co/qvHK1vWoW1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 然后贱人死开 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuureikoinu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuureikoinu",
+                "start": 0,
+                "url": "https://t.co/x3tImtkrnU"
+              }
+            ]
+          }
+        },
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "2066441052245176824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063646077333757952/dJ2jH7Df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 92,
+          "like_count": 13005,
+          "listed_count": 3,
+          "media_count": 298,
+          "tweet_count": 2336
+        },
+        "url": "https://t.co/x3tImtkrnU",
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2077066966540628305",
+    "created_at": "2026-07-16T08:29:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T09:29:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077671907789512862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2067025760297345025",
+          "start": 0,
+          "username": "RoslynCulw7gw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077671907789512862",
+    "in_reply_to_user_id": "2067025760297345025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077107120860766404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RoslynCulw7gw 你特么发个屎啥意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2077066966540628305",
+        "created_at": "2026-07-16T08:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077671907789512862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2067025760297345025",
+              "start": 0,
+              "username": "RoslynCulw7gw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077671907789512862",
+        "in_reply_to_user_id": "2067025760297345025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077107120860766404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RoslynCulw7gw 你特么发个屎啥意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067025760297345025",
+        "conversation_id": "2077066966540628305",
+        "created_at": "2026-07-14T19:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T20:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077107120860766404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077107120860766404",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077066966540628305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 💩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 然后贱人死开 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuureikoinu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuureikoinu",
+                "start": 0,
+                "url": "https://t.co/x3tImtkrnU"
+              }
+            ]
+          }
+        },
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "2066441052245176824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063646077333757952/dJ2jH7Df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 92,
+          "like_count": 13467,
+          "listed_count": 3,
+          "media_count": 312,
+          "tweet_count": 2430
+        },
+        "url": "https://t.co/x3tImtkrnU",
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-16T23:25:40.000Z",
+        "description": "22岁女大 身高168cm 接线下 口嗨的勿扰 喝🍵可以深入哟\n\n~桐🅾️城🌼上😘椚~下方👇👇可联系✈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/linlove9",
+                "end": 23,
+                "expanded_url": "http://t.me/linlove9",
+                "start": 0,
+                "url": "https://t.co/ckl5Q08eIn"
+              }
+            ]
+          }
+        },
+        "id": "2067025760297345025",
+        "location": "距离2.5km👉✈",
+        "name": "邓晨🌸同城丄门🌸附近喝🍵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077107127353569280/vjy2QanE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1001
+        },
+        "url": "https://t.co/ckl5Q08eIn",
+        "username": "RoslynCulw7gw",
+        "verified": false
+      }
+    ]
+  }
+}

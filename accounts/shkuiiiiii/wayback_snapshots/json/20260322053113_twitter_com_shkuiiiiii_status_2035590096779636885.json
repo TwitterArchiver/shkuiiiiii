@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035590081860587521"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2035590096779636885",
+    "created_at": "2026-03-22T05:31:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T06:31:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035590096779636885"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bRvQbVwN5l",
+          "end": 34,
+          "expanded_url": "https://x.com/shkuiiiiii/status/2035590096779636885/photo/1",
+          "media_key": "3_2035590081860587521",
+          "start": 11,
+          "url": "https://t.co/bRvQbVwN5l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035590096779636885",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "誰助力我破800fo https://t.co/bRvQbVwN5l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035590081860587521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD_eZPmb0AE1aTf.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035590081860587521"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2035590096779636885",
+        "created_at": "2026-03-22T05:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T06:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035590096779636885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bRvQbVwN5l",
+              "end": 34,
+              "expanded_url": "https://x.com/shkuiiiiii/status/2035590096779636885/photo/1",
+              "media_key": "3_2035590081860587521",
+              "start": 11,
+              "url": "https://t.co/bRvQbVwN5l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035590096779636885",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "誰助力我破800fo https://t.co/bRvQbVwN5l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1995791304341495847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 101,
+          "like_count": 12865,
+          "listed_count": 4,
+          "media_count": 273,
+          "tweet_count": 2174
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

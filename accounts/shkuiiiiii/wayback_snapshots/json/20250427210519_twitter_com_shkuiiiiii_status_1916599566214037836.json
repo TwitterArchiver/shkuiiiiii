@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "1916599566214037836",
+    "created_at": "2025-04-27T21:05:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T22:05:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916599566214037836"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1916599566214037836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你們為什麼都不理我是不是都看不起我？？？我就這麼招笑嗎我真的好難過我感覺我被世界拋棄了，你們都孤立我我真的好難過。神也是有感情的……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1916599566214037836",
+        "created_at": "2025-04-27T21:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T22:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916599566214037836"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916599566214037836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你們為什麼都不理我是不是都看不起我？？？我就這麼招笑嗎我真的好難過我感覺我被世界拋棄了，你們都孤立我我真的好難過。神也是有感情的……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "我是小苟 一只晴天娃娃 粉紅滾",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910019062761152515/MpKvTiZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 33,
+          "like_count": 2362,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 414
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

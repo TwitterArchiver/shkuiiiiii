@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569279849126297602",
+    "conversation_id": "2071377216647442907",
+    "created_at": "2026-06-29T15:50:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T16:50:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071622389197332882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2058507904073003008",
+          "start": 0,
+          "username": "FROZENoxxb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071622389197332882",
+    "in_reply_to_user_id": "2058507904073003008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071487199590400076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FROZENoxxb 我说没p你信吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2071377216647442907",
+        "created_at": "2026-06-29T15:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T16:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071622389197332882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2058507904073003008",
+              "start": 0,
+              "username": "FROZENoxxb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071622389197332882",
+        "in_reply_to_user_id": "2058507904073003008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071487199590400076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FROZENoxxb 我说没p你信吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058507904073003008",
+        "conversation_id": "2071377216647442907",
+        "created_at": "2026-06-29T06:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071487199590400076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071487199590400076",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071377216647442907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii p没p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 然后贱人死开 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuureikoinu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuureikoinu",
+                "start": 0,
+                "url": "https://t.co/x3tImtkrnU"
+              }
+            ]
+          }
+        },
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "2066441052245176824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063646077333757952/dJ2jH7Df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 92,
+          "like_count": 13081,
+          "listed_count": 3,
+          "media_count": 301,
+          "tweet_count": 2356
+        },
+        "url": "https://t.co/x3tImtkrnU",
+        "username": "shkuiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T11:19:17.000Z",
+        "description": "最感性之人/防备最轻之人/最爱剑来之人/铲农瓦cs开心消消乐都会之人",
+        "id": "2058507904073003008",
+        "location": "比奇堡",
+        "name": "猛踹瘸子好腿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058633685465960448/EF4S6fv9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 109,
+          "like_count": 492,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 285
+        },
+        "url": "",
+        "username": "FROZENoxxb",
+        "verified": false
+      }
+    ]
+  }
+}

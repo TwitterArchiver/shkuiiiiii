@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1914445465275473920"
+      ]
+    },
+    "author_id": "1569279849126297602",
+    "conversation_id": "1914445569965400278",
+    "created_at": "2025-04-21T22:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T23:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914445569965400278"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5soOtz5lbF",
+          "end": 94,
+          "expanded_url": "https://x.com/shkuiiiiii/status/1914445569965400278/video/1",
+          "media_key": "7_1914445465275473920",
+          "start": 71,
+          "url": "https://t.co/5soOtz5lbF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914445569965400278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "笑死我了我操我想回籠沒成功 風太大了 我去你媽的 等我抽回籠了我再睡我剛剛發了我媽200塊錢紅包 終於給媽媽花錢了好開心 她説謝謝寶寶 嘿嘿 https://t.co/5soOtz5lbF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6769,
+        "height": 1280,
+        "media_key": "7_1914445465275473920",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1914445465275473920/pu/img/jmBjeVlDmiyIjx2r.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1914445465275473920/pu/vid/avc1/320x568/Ys7kNDcBdt6JtZ-G.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1914445465275473920/pu/vid/avc1/480x852/YFqOL8S67JQ1yrqY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1914445465275473920/pu/vid/avc1/720x1280/rDEg0hPK5MmYBmJa.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1914445465275473920/pu/pl/Kf6X5CHz-EMZolWr.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1914445465275473920"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "1914445569965400278",
+        "created_at": "2025-04-21T22:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T23:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914445569965400278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5soOtz5lbF",
+              "end": 94,
+              "expanded_url": "https://x.com/shkuiiiiii/status/1914445569965400278/video/1",
+              "media_key": "7_1914445465275473920",
+              "start": 71,
+              "url": "https://t.co/5soOtz5lbF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914445569965400278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑死我了我操我想回籠沒成功 風太大了 我去你媽的 等我抽回籠了我再睡我剛剛發了我媽200塊錢紅包 終於給媽媽花錢了好開心 她説謝謝寶寶 嘿嘿 https://t.co/5soOtz5lbF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "我是小苟 粉紅滾",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910019062761152515/MpKvTiZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 30,
+          "like_count": 2310,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 399
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}
